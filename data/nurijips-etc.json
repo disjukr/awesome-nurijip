@@ -1,0 +1,537 @@
+{
+  "$schema": "../schema/generated/nurijip.schema.json",
+  "accf.or.kr/main/mainpage": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국립아시아문화전당재단",
+    "description": "국립아시아문화전당재단 소개, 어린이문화원, 전시, 교육, 공연 및 행사, 어린이도서관, 전당일정 등의 정보를 제공합니다."
+  },
+  "add.re.kr/dratri": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국방신속획득기술연구원",
+    "description": "국방신속획득기술연구원 누리집으로 연구원 소개, 주요 업무, 비전 및 경영전략 등 정보를 제공합니다."
+  },
+  "arko.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국문화예술위원회",
+    "description": "한국문화예술위원회 누리집으로 기관소개, 주요사업, 공모안내 등 전반적인 소개 및 홍보와 민원처리, 정보제공, 참여보장 등의 대민서비스를 제공합니다."
+  },
+  "arte.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "문화예술교육진흥원",
+    "description": "문화체육관광부 산하기관 한국문화예술교육진흥원 누리집으로 기관소개, 지원사업 안내, 행사소식 등 문화예술교육 정책과 관련된 다양한 정보를 제공합니다."
+  },
+  "bukgu.gwangju.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "광주광역시 북구",
+    "description": "광주광역시 북구 누리집으로 민원, 경제, 복지, 알림&참여, 정보공개, 분야별정보, 북구소개 등 정보를 제공합니다."
+  },
+  "company.arirang.com": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "아리랑국제방송 재단소개 누리집",
+    "description": "국제방송교류재단을 소개하는 누리집으로 재단 사업안내, 정보공개(사전정보공표), 공지사항, 채용정보 등의 정보를 제공합니다."
+  },
+  "copyright.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국저작권위원회",
+    "description": "한국저작권위원회의 대표 누리집으로, 기관소개, 저작권 관련 주요 사업, 발간 자료 등의 정보를 제공하고 있습니다."
+  },
+  "council.gangwon.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "강원특별자치도 의회사무처",
+    "description": "강원특별자치도 의회사무처 누리집으로 도의회안내, 도의원 및 위원회소개, 의정활동, 도의회사무처, 회의록, 의회소식 등등 정보를 제공합니다."
+  },
+  "dalseong.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 달성군청",
+    "description": "대구광역시 달성군청 누리집으로 민원정보, 관광안내, 군민신문고, 생활포털, 행정정보, 군청안내, 지역소개, 달성블로그 등 정보를 제공합니다."
+  },
+  "dema.mil.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국방부 국방홍보원",
+    "description": "국방홍보원 누리집으로 KFN TV/Radio, 국방일보, 국방누리 등 정보를 제공합니다."
+  },
+  "dgfca.or.kr/main": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인대구문화예술진흥원",
+    "description": "대구문화예술진흥원 누리집으로 공연·전시·관광에 대한 정보, 추진사업 및 문화예술 관련 공간(오페라하우스, 콘서트하우스, 미술관 등) 등에 관한 정보를 제공합니다."
+  },
+  "dip.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인대구디지털혁신진흥원",
+    "description": "대구디지털혁신진흥원 대표 누리집으로 알림마당, 사업안내, 시설안내, 정보공개, 진흥원소개 등 정보를 제공합니다."
+  },
+  "donggu.ulsan.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "울산광역시 동구",
+    "description": "울산광역시 동구 누리집으로 종합닌원, 행정정보, 복지정보, 생활정보, 참여마당, 동구소개, 문화/관광/축제 등 정보를 제공합니다."
+  },
+  "gangseo.seoul.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "서울특별시 강서구",
+    "description": "서울특별시 강서구 대표 누리집으로 종합민원, 소통과 참여, 행정정보, 강서소식, 희망강서 등 정보를 제공합니다."
+  },
+  "gbe.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경상북도 교육청",
+    "description": "경상북도 교육청 누리집으로 교육청안내, 열린마당, 참여마당, 정보마당, 홍보마당, 정책마당 등 정보를 제공합니다."
+  },
+  "gcfac.or.kr/mpage": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인금천문화재단",
+    "description": "금천문화재단 누리집으로 아트홀,예매,대관,공연/전시, 문화,축제사업 등에 관한 정보를 제공합니다."
+  },
+  "gcon.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기콘텐츠진흥원",
+    "description": "경기콘텐츠진흥원 누리집으로 진흥원소개, 주요사업 소개, 공간 및 프로그램 예약, 용역/지원사업 공고 등 정보를 제공합니다."
+  },
+  "gjf.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인경기도일자리재단",
+    "description": "경기도일자리재단 누리집으로 재단 및 주요사업 소개, 연구보고서 등의 정보를 제공합니다."
+  },
+  "gokams.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "예술경영지원센터",
+    "description": "문화체육관광부 산하 기타 공공기관인 예술경영지원센터의 대표 누리집으로, 센터 소개, 사업안내, 발간자료 등의 정보를 제공합니다."
+  },
+  "gugak.sen.hs.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "국립국악고등학교",
+    "description": "국립국악고등학교 누리집으로, 국립국악고등학교 학생 및 학부모를 대상으로 학사일정, 입시정보, 전공안내 등 학교 정보를 제공합니다."
+  },
+  "handong.edu": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한동대학교",
+    "description": "한동대학교 누리집으로 학교소개, 대학/대학원, 산학/연구, 입학안내, 대학생활, 한동광장 등 정보를 제공합니다."
+  },
+  "icpa.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "인천항만공사",
+    "description": "인천항만공사 누리집으로 인천항 운영정보, 물류 서비스, 항만시설 안내 및 입찰 공고 정보 등을 제공합니다."
+  },
+  "inm.icehs.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "인천해사고등학교",
+    "description": "국립인천해사고등학교 누리집으로 학교안내, 마이스터고 소개, 교육활동, 학생활동, 학생취업·진로 등 정보를 제공합니다."
+  },
+  "jcia.or.kr/cf/index.do": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인전라남도정보문화산업진흥원",
+    "description": "전남정보문화산업진흥원 홈페이지로 기관소개, 주요사업, 시설안내, 사업성과, 사업/입찰/채용공고 등 정보를 제공합니다."
+  },
+  "jeipi.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "전라남도환경산업진흥원",
+    "description": "전라남도환경산업진흥원 누리집으로 기관 소개, 주요사업 등 진흥원에 대한 전반적인 정보를 제공합니다."
+  },
+  "jnsports.or.kr": {
+    "scope": "CIVIC",
+    "role": "PUBLIC_SERVICE",
+    "title": "전라남도체육회",
+    "description": "전라남도체육회 누리집에서는 체육회의 조직, 역사, 임무에 관한 정보를 제공하며, 전국 및 도내 대회, 지역 스포츠 클럽 등 전남체육에 대한 정보를 제공합니다."
+  },
+  "jntp.or.kr/base/main/view": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "전남테크노파크",
+    "description": "전남의 기업지원을 위해 설립된 기술혁신 기관으로서, 대기업과 달리 열악한 환경에 처해있는 중소·중견기업을 지원하고 새로운 혁신 기업을 발굴·육성하기 위한 지역산업 거점 역할을 담당"
+  },
+  "jnue.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "전주교육대학교",
+    "description": "전주교육대학교 누리집으로 대학안내, 대학/대학원, 입학안내, 학사정보, 수업/강의, 학적정보, 장학제도, 교육실습, 학생활동, 홍보동영상, 행정서비스공개 등 정보를 제공합니다."
+  },
+  "jsmc.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "전라남도 순천의료원",
+    "description": "전라남도순천의료원 홈페이지로 의료원소개, 진료 및 이용안내, 공공보건의료사업 등의 정보를 제공합니다."
+  },
+  "junggu.ulsan.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "울산광역시 중구 대표누리집",
+    "description": "울산광역시 중구청 누리집으로 중구소개, 구청장안내, 자치법규, 정보공개, 복지정보, 문화체육관광, 신고센터, 민원안내, 여행정보, 생활편의정보 등 정보를 제공합니다."
+  },
+  "k-sec.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인스포츠윤리센터",
+    "description": "스포츠윤리센터 소개, 상담신고, 피해자지원, 주요사업, 알림 및 공고 등의 정보를 제공합니다."
+  },
+  "kcdf.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국공예디자인문화진흥원",
+    "description": "한국공예디자인문화진흥원 대표 누리집으로 기관소개, 알림소식, 사업안내 등의 정보를 제공합니다."
+  },
+  "kcisa.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국문화정보원",
+    "description": "문화체육관광부 공공기관인 한국문화정보원의 대표누리집으로 사업안내, 공지사항, 입찰정보, 계약정보, 채용정보, 보도자료 등 기관 관련 소식 게재 및 안내"
+  },
+  "kcmf.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "시청자미디어재단",
+    "description": "시청자미디어재단의 대표 누리집으로 재단의 주요사업, 공지사항, 미디어교육, 장비대여, 시설대관 등의 기능을 제공합니다."
+  },
+  "kcopa.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "(재)한국저작권보호원",
+    "description": "한국저작권보호원 대표 누리집으로 기관소개, 저작권 보호 관련 주요 사업, 저작권보호심의위원회, 연구보고서 등의 정보를 제공합니다."
+  },
+  "kcu.ac": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "숭실사이버대학교",
+    "description": "숭실사이버대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학사안내, 학생서비스안내, 장학안내, 도서관서비스, 취업진학안내, 대학생활안내, 사이트이용안내, 입학안내 등의 정보를 제공합니다."
+  },
+  "kmrb.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "영상물등급위원회",
+    "description": "영상물등급위원회 대표 누리집으로, 기관 및 등급분류제도 소개, 영상물 등급분류 검색, 등급분류 통계, 기관 소식 및 뉴스레터 등의 정보를 제공합니다."
+  },
+  "knto.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국관광공사",
+    "description": "문화체육관광부 산하 한국관광공사 누리집으로 관광공사소개, 관광공사 사업, 관광공사 개요, 경영 공시, 연혁, CI, 채용 등의 정보를 제공합니다."
+  },
+  "kocca.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국콘텐츠진흥원",
+    "description": "한국콘텐츠진흥원의 기관 누리집으로서 기관소개, 공시자료, 지원사업, 입찰공고, 관련기관 주요소식, 콘텐츠 분야 전문정보, 시장동향 등에 대한 최신 정보를 제공합니다. (반응형 웹페이지로서, 별도의 모바일 사이트를 운영하지 않음)"
+  },
+  "kofic.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "영화진흥위원회",
+    "description": "영화진흥위원회 대표 누리집으로 위원회 소개, 사업안내, 보도자료, 입찰공고 등의 정보를 제공합니다."
+  },
+  "kpf.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국언론진흥재단",
+    "description": "문화체육관광부 산하 한국언론진흥재단 홈페이지로 언론 진흥 사업, 미디어 교육, 정부광고, 미디어 연구.조사 등의 정보를 제공합니다."
+  },
+  "kpipa.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국출판문화산업진흥원",
+    "description": "한국출판문화산업진흥원 대표 누리집으로 기관소개, 사업안내, 출판정보 등을 제공합니다"
+  },
+  "ksif.or.kr/index.do?lang=kor": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "세종학당재단",
+    "description": "문화체육관광부 산하 세종학당재단 누리집으로 재단 소개, 사업마당, 알림마당, 홍보/후원, 고객마당, 경영공시 등의 정보를 제공합니다."
+  },
+  "kspo.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "서울올림픽기념국민체육진흥공단",
+    "description": "국민체육진흥공단의 기관 누리집으로 기관소개, 국민참여, 알림소식, 열린경영, 사업안내, 뉴스룸 등에 대한 최신 정보를 제공합니다."
+  },
+  "ksponco.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국체육산업개발주식회사",
+    "description": "한국체육산업개발㈜ 대표 누리집으로 기관소개, 열린경영, 사업안내, 정보공개, 국민참여, 알림·홍보 등 정보를 제공합니다."
+  },
+  "kugak-am.sen.hs.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "국립전통예술고등학교",
+    "description": "국립전통예술고등학교 누리집으로, 국립전통예술고등학교 학생 및 학부모를 대상으로 학사일정, 입시정보, 전공안내 등 학교 정보를 제공합니다."
+  },
+  "kugak-am.sen.ms.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "국립전통예술중학교",
+    "description": "국립전통예술중학교 누리집으로, 국립전통예술중학교 학생 및 학부모를 대상으로 학사일정, 입시정보, 전공안내 등 학교 정보를 제공합니다."
+  },
+  "ltikorea.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국문학번역원",
+    "description": "문화체육관광부 산하 한국문학번역원 누리집으로 기관소개, 주요행사, 채용공고, 번역출판 지원, 번역인력 양성, 교류홍보에 대한 정보를 제공합니다."
+  },
+  "namgu.gwangju.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "광주광역시 남구청",
+    "description": "광주광역시 남구청 누리집으로 참여세상, 전자민원, 전보공개/개방, 복지정보, 생활정보, 우리남구 등 정보를 제공합니다."
+  },
+  "namwonmed.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "전북특별자치도남원의료원",
+    "description": "전북특별자치도남원의료원 누리집으로 의료원소개, 의료원소식, 의료원이용안내, 진료안내, 고객서비스, 건강증진센터·장례식장 이용안내 등의 정보를 제공합니다."
+  },
+  "newseoulgolf.co.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국문화진흥주식회사",
+    "description": "문화체육관광부 산하 한국문화진흥주식회사 누리집으로 뉴서울컨트리클럽의 클럽소개, 이용안내, 예약정보, 코스안내, 경영공시 등 정보를 제공합니다."
+  },
+  "nmf.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국립박물관문화재단 대표 누리집",
+    "description": "문화체육관광부 산하 국립박물관문화재단 대표 누리집 입니다. 박물관상품사업, 공연사업, 전시사업 정보를 제공합니다."
+  },
+  "nowon.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "서울특별시 노원구",
+    "description": "서울특별시 노원구 누리집으로 열린민원, 참여세상, 교육복지, 녹생환경, 지역경제, 문화체육관광, 행복도시노원 등 정보를 제공합니다."
+  },
+  "sac.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "예술의전당",
+    "description": "예술의전당 대표 누리집으로 기관소개, 공연 전시 안내, 공간안내 등의 정보를 제공합니다."
+  },
+  "school.busanedu.net/bmt-h": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "부산기계공업고등학교",
+    "description": "부산기계공업고등학교 누리집으로 학교소개, 입학안내, 최업진로, 학교생활 등의 정보를 제공합니다"
+  },
+  "school.busanedu.net/maritime-h": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "국립부산해사고등학교",
+    "description": "국립부산해사고등학교 누리집으로 학교안내, 마이스터고, 교육활동, 학생활동, 취업/진로 등 정보를 제공합니다."
+  },
+  "school.gyo6.net/gnet": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "구미전자공업고등학교",
+    "description": "구미전자공업고등학교 누리집으로 학교소개, 취업안내, 입학안내 등의 정보를 제공합니다"
+  },
+  "seo.incheon.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "인천광역시 서구청",
+    "description": "인천광역시 서구 누리집으로 종합민원안내, 교육강좌프로그램안내, 자원봉사센터안내, 지역생활정보안내, 문화관광안내, 맛집안내, 서구소개 등의 정보를 제공합니다."
+  },
+  "seogu.gwangju.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "광주광역시 서구",
+    "description": "광주광역시 서구 누리집으로 열린민원, 소통참여, 정보공개, 구정소식, 서구소개, 분야별 정보 등을 제공합니다."
+  },
+  "sjcf.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인 세종시문화관광재단",
+    "description": "세종시문화관광재단 누리집"
+  },
+  "sjfmc.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "세종특별자치시시설관리공단",
+    "description": "세종특별자치시시설관리공단 누리집"
+  },
+  "sports.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대한체육회",
+    "description": "문화체육관광부 산하 대한체육회 누리집으로 체육회 소개, 사업안내, 각종 규정, 종목별 대회일정, 체육 데이터 등의 정보를 제공합니다."
+  },
+  "study.korean.net": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "스터디코리안",
+    "description": "재외동포의 한글,문화,역사 교육 지원사이트"
+  },
+  "ulju.ulsan.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "울산광역시 울주군 대표 누리집",
+    "description": "울산광역시 울주군 누리집으로 정보공개, 전자민원, 울주군민, 생활정보, 행복한 읍?면, 울주군청, 울주문화관광 등 정보를 제공합니다."
+  },
+  "www.buk.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 북구",
+    "description": "대구광역시 북구 대표 누리집으로 정보공개, 전자민원, 북구소개, 구청 소식 등을 제공합니다."
+  },
+  "www.bukgu.ulsan.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "울산광역시 북구청",
+    "description": "울산광역시 북구 대표 누리집"
+  },
+  "www.dalseo.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 달서구",
+    "description": "대구광역시 달서구 누리집으로 전자민원, 공공데이터, 생활정보등 분야별 정보를 제공합니다."
+  },
+  "www.dong.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시동구청",
+    "description": "대구광역시동구청 대표 누리집으로 정보공개, 전자민원, 구정소식, 동구소개 등 정보를 제공합니다."
+  },
+  "www.donggu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "광주광역시 동구",
+    "description": "광주광역시 동구 누리집으로 소통/참여, 열린민원, 정보공개, 분야별정보등 다양한 정보를 제공합니다.(영어,일어,중국어 누리집,어린이구청,보건소,평생학습,문화관광,충장축제,사회적경제,도시재생,지역사회보장협의체 등 서브홈페이지가 포함되어 있음)"
+  },
+  "www.gjmed.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "전라남도 강진의료원",
+    "description": "전라남도강진의료원은 진료안내, 의료시설, 건강정보 등 지역주민을 위한 다양한 정보를 제공합니다."
+  },
+  "www.grac.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "게임물관리위원회",
+    "description": "게임물관리위원회의 대표 누리집으로 위원회 소개, 등급분류제도 소개, 등급분류신청 등의 정보를 제공합니다."
+  },
+  "www.grandkorea.com": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "그랜드코리아레저(주)",
+    "description": "문화체육관광부 산하 그랜드코리아레저㈜ 누리집으로 기업소개, 경영철학, ESG, 투자정보, 경영공시 등의 정보를 제공합니다."
+  },
+  "www.hansang.net": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한상넷",
+    "description": "국내기업과 동포기업에 대한 종합적이고 다각적인 경제정보 제공 및 세계한인비즈니스대회, 국내청년의 동포기업 인턴십, 기업상담회 등 정보를 제공합니다."
+  },
+  "www.igbf.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국악방송",
+    "description": "국악방송 누리집으로 라디오 및 TV 프로그램 안내, 다시 듣기 서비스, 새음원 공개 등의 정보를 제공합니다."
+  },
+  "www.jncf.or.kr/jact/index.do": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인전라남도문화재단",
+    "description": "전라남도문화재단 누리집으로 공모사업, 사업 안내, 자료실 등 정보를 제공합니다."
+  },
+  "www.jung.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 중구청",
+    "description": "대구광역시 중구청 누리집으로 구정현황, 국내외교류, 민원창구, 생활정보, 복지포털, 문화관광/골목투어, 지방세안내, 행정정보공개, 공공데이터개방 등 정보를 제공합니다."
+  },
+  "www.junggu.seoul.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "서울특별시 중구청",
+    "description": "서울특별시 중구청 누리집으로 중구소개, 구정소식, 구정제도, 정보공개, 예살결산정보, 민원상담신고, 규제개혁, 민방위, 교육, 도시, 세무, 경제 등 정보를 제공합니다."
+  },
+  "www.jwomen.or.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재단법인전남여성가족재단",
+    "description": "전남도민의 일상적 성평등 실현과 여성의 경제활동촉진, 사회정치적 지위 향상, 그리고 가족과 개인의 일·생활·쉼의 균형이 있는 삶을 위해 정책 수행"
+  },
+  "www.kawf.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국예술인복지재단 홈페이지",
+    "description": "한국예술인복지재단 누리집으로, 재단 소개, 사업안내, 지원, 알림/소식 정보와 재단 방문예약 신청을 제공합니다."
+  },
+  "www.kcgp.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국도박문제예방치유원",
+    "description": "한국도박문제예방치유원 누리집으로 치유원 소개, 온라인교육 제공, 예방ㆍ치유ㆍ재활 등 관련 정보와 서비스를 제공합니다."
+  },
+  "www.koreafilm.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국영상자료원",
+    "description": "한국영상자료원 대표 누리집으로 기관소식, 시네마테크,영화박물관,영상도서관 시설안내와 소식 등을 제공합니다."
+  },
+  "www.korean.net": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "코리안넷",
+    "description": "△재외동포단체 지원사업 접수, △한인회 운영사례, △재외동포문학상 수상작, △한인회 총람, △재외동포 관련 뉴스 등 제공"
+  },
+  "www.koreanpc.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대한장애인체육회",
+    "description": "대한장애인체육회는 장애인의 스포츠 참여를 지원하고, 국가대표 선수 육성 및 생활체육 활성화를 담당하는 기관이다. 패럴림픽 등 국제 대회를 준비하며, 장애인이 쉽게 체육 활동을 즐길 수 있도록 정책과 프로그램을 운영한다."
+  },
+  "www.nam.daegu.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 남구",
+    "description": "대구광역시 남구 누리집으로 종합민원안내, 교육강좌프로그램안내, 자원봉사센터안내, 지역생활정보안내, 문화관광안내, 맛집안내, 남구소개 등의 정보를 제공합니다."
+  },
+  "www.sctc.kr/index/": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "세종도시교통공사",
+    "description": "세종도시교통공사 대표 누리집"
+  },
+  "www.skku.edu": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성균관대학교",
+    "description": "성균관대학교 누리집으로 대학정보, 입학안내, 단과대학, 대학원, 부설교육, 학사안내, 연구기관, 산학사업, 산학협력단, 글로벌 프로그램, 학생지원 등 정보를 제공합니다."
+  },
+  "www.suseong.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대구광역시 수성구",
+    "description": "대구광역시 수성구 누리집으로 종합민원안내, 교육강좌프로그램안내, 자원봉사센터안내, 지역생활정보안내, 문화관광안내, 맛집안내, 수성구소개 등의 정보를 제공합니다."
+  },
+  "www.tpf.or.kr/tpf/main/index.do": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "태권도진흥재단",
+    "description": "태권도진흥재단 대표 누리집 입니다."
+  },
+  "www.ycg.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "경상북도 예천군",
+    "description": "경상북도 예천군 누리집으로 종합민원안내, 행정정보공개안내, 군민제안마당이용방법안내, 지역생활정보안내, 산업경체현황안내, 예천소개 등의 정보를 제공합니다."
+  }
+}

@@ -1,0 +1,2013 @@
+{
+  "$schema": "../schema/generated/nurijip.schema.json",
+  "acts.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "아신대학교",
+    "description": "아신대학교 누리집으로 대학교소개, 캠퍼스안내, 대학홍보, 국내외교류, 대학/대학원, 입학안내, 학사안내, 학생지원, 교수/학습개발센터, 생활관 등 정보를 제공합니다."
+  },
+  "admission.gachon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "가천대학교 입학처",
+    "description": "가천대학교 글로벌캠퍼스 누리집으로 수시/정시 모집요강, 의대/약대모집요강, 고사장안내, 합격자안내, 편입학안내, 재외국민/외국인노집안내, 입학상담 등 정보를 제공합니다."
+  },
+  "alu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "건신대학원대학교",
+    "description": "건신대학원대학교 누리집으로 학교소개, 입학안내, 박사/석사/외국인지도자과정, 평생교육원, 학사일정, 장학제도, 학술/교류, 교내기관 등 정보를 제공합니다."
+  },
+  "asc.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "안동과학대학교",
+    "description": "안동과학대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사정보, 대학축구부, 취업정보, 장학제도, 산업체위탁교실, 학칙/학사내규, 수강신청 등 정보를 제공합니다."
+  },
+  "bdu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산디지털대학교",
+    "description": "부산디지털대학교 누리집으로 대학소개, 입학지원센터, 학부소개, 대학원, 학생서비스센터, 학사안내 등 정보를 제공합니다."
+  },
+  "berea.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "베뢰아국제대학원대학교",
+    "description": "베뢰아국제대학원대학교 누리집으로 학교소개, 과정안내, 학사안내, BITS마당, 학교생활, 뉴스 등 정보를 제공합니다."
+  },
+  "bist.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산과학기술대학교",
+    "description": "부산과학기술대학교 누리집으로 대학안내, 학과/계열, 입학안내, 취업정보, 대학생활 등 정보를 제공합니다."
+  },
+  "brain.kongju.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "공주대학교 공과대학",
+    "description": "공주대학교 공과대학 누리집으로 대학소개, 학부/대학원, 연구소/기관, 학사안내, 학생활동, 커뮤니티 등 정보를 제공합니다."
+  },
+  "bufs.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산외국어대학교",
+    "description": "부산외국어대학교 누리집으로 외성소개, 대학기구, 이학안내, 취업정보, 대학.대학원, 대학생활, 학사정보, 커뮤니티, 국제교류 등 정보를 제공합니다."
+  },
+  "busanarts.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산예술대학교",
+    "description": "부산예술대학교 누리집으로 대학교소개, 학과소개, 입학정보, 대학생활, 인트라넷, 정보광장, 예술광장 등 정보를 제공합니다."
+  },
+  "calvin.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경기칼빈대학교",
+    "description": "경기칼빈대학교 누리집으로 학교소개, 입학안내, 대학교/대학원안내, 신학대학원안내, 학교생활안내, 기숙사/장학제도 안내, 부속기관/연구소안내, 논문교정양식안내 등의 정보를 제공합니다."
+  },
+  "cau.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "중앙대학교",
+    "description": "중앙대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 연구/산학, 대학생활 등 정보를 제공합니다."
+  },
+  "cbnu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "충북대학교",
+    "description": "충북대학교 누리집으로 학교안내, 입학안내, 대학/대학원, 산학협력, 연구시설, 학사일정, 교육과정, 학칙/규정, 장학/학자금, 대학정보, 온라인서비스센터 등 정보를 제공합니다."
+  },
+  "ccn.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "기독간호대학교",
+    "description": "기독간호대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사행정, 기숙사/장학제도소개, 하숙/주거정보, 취업정보, 대학생활안내, 대학소실홍보 등의 정보를 제공합니다."
+  },
+  "cdu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "초당대학교",
+    "description": "초당대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사안내, 사이버캠퍼스, 산학협력단, 교수학습개발센터, 연구기관, 미디어센터 등 정보를 제공합니다."
+  },
+  "chongju.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "청주대학교",
+    "description": "청주대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 취업정보, 국제교류, 인증제 안내, 봉사활동지원, 학생상담지원, 학사안내, 평의시설안내, 동문회 등 정보를 제공합니다."
+  },
+  "chongshin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "총신대학교",
+    "description": "총신대학교 누리집으로 대학소개, 입학정보, 교직원소개, 캠퍼스안내, 대학/신대원.대학원, 학사안내, 장학안내.학생복지/생활, 동아리 등 정보를 제공합니다."
+  },
+  "chs.korea.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "고려대학교 보건과학대학",
+    "description": "고려대학교 보건과학대학 누리집으로 대학안내, 학부안내, 대학원안내, 부설연구기관, 학사/행정안내, 학술연구, 보과대소식, 입학안내 등 정보를 제공합니다."
+  },
+  "chugye.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "추계예술대학교",
+    "description": "추계예술대학교 누리집으로 대학안내, 입학안내, 대학/대학원, 학사안내, 대학생활, 인터넷정보서비스 등 정보를 제공합니다."
+  },
+  "cnc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "조선간호대학교",
+    "description": "조선간호대학교 누리집으로 대학소개, 입학정보, 학사안내, 캠퍼스라이프, 취업정보, 게시판, 사이버강의 등 정보를 제공합니다."
+  },
+  "cnsu.ac.kr/main.do": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충남도립대학교",
+    "description": "학교입학 및 입시요강, 개설 학과, 향후 진로 등 소개"
+  },
+  "cpu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충청북도 충북도립대학교",
+    "description": "충북도립대학교 누리집입니다."
+  },
+  "cst.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "조선이공대학교",
+    "description": "조선이공대학교 누리집으로 대학정보, 입학정보, 대학생활, 학과정보, 취업정보, 온라인서비스 등 정보를 제공합니다."
+  },
+  "ctc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "제주관광대학교",
+    "description": "제주관광대학교 누리집으로 대학소개, 입학안내, 학사안내, 계열/학과, 대학생활, 디지털홍보, 열린광장 등 정보를 제공합니다."
+  },
+  "cu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구가톨릭대학교",
+    "description": "대구가톨릭대학교 누리집으로 학교소개, 대학홍보, 입학안내, 취업안내, 연구/산학협력, 대학·대학원, 대학생활, 대가대광장, 종합정보시스템 등 정보를 제공합니다."
+  },
+  "cue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "진주교육대학교",
+    "description": "진주교육대학교 누리집으로 학교소개, 입학안내, 대학/대학원, 대학생활, 알리미, 커뮤니티 등 정보를 제공합니다."
+  },
+  "cup.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산가톨릭대학교",
+    "description": "부산가톨릭대학교 누리집으로 대학소개, 입학안내, 대학, 대학원, 대학기구, 캠퍼스생활, CUP광장 등 정보를 제공합니다."
+  },
+  "daegu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구대학교",
+    "description": "대구대학교 누리집으로 대학안내, 입학안내, 대학/대학원/기관, 산학협력/연구, 학사안내, 학생서비스 등 정보를 제공합니다."
+  },
+  "daejeon.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대전신학대학교",
+    "description": "대전신학대학교 누리집으로 학교소개, 입학안내, 대학/대학원, 학사안내, 학교기관, 커뮤니티 등 정보를 제공합니다."
+  },
+  "daelim.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대림대학교",
+    "description": "대림대학교 누리집으로 학생서비스, 입학안내, 학과안내, 대학안내 등 정보를 제공합니다."
+  },
+  "daewon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대원대학교",
+    "description": "대원대학교 누리집으로 대학안내, 입학안내, 학과소개, 대학생활, 대원광장, 대원미디어 등 정보를 제공합니다."
+  },
+  "dcu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구사이버대학교",
+    "description": "대구사이버대학교 누리집으로 대학소개, 학과안내, 대학원, 입학안내, 학사안내, 대학생활 등 정보를 제공합니다."
+  },
+  "dgau.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구예술대학교",
+    "description": "대구예술대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사정보, 대학생활, 아티스트, 공연전시 등 정보를 제공합니다."
+  },
+  "dhu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구한의대학교",
+    "description": "대구한의대학교 누리집으로 대학안내, 입학안내, 대학/대학원, 산학협력/연구, 취업정보, 학생서비스, e-캠퍼스, 대한대소식 등 정보를 제공합니다."
+  },
+  "dima.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동아방송예술대학교",
+    "description": "동아방송예술대학교 누리집으로 대학소개, 대학기구, 학과안내, 디마정보, 디마의멋, 디마광장, 입학안내 등 정보를 제공합니다."
+  },
+  "donga.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동아대학교",
+    "description": "동아대학교 누리집으로 학교소개, 입학안내, 취업/커리어, 대학/학부, 대학원, 대학기구, 동아광장 등 정보를 제공합니다."
+  },
+  "dongbang.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동방문화대학원대학교",
+    "description": "동방문화대학원대학교 누리집으로 학교소개, 입학안내, 학과소개, 학사정보, 부속/부설기관, 동방광장 등 정보를 제공합니다."
+  },
+  "dongduk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동덕여자대학교",
+    "description": "동덕여자대학교 누리집으로 소개, 입학, 교육, 생활, 참여 학사정보, 주요공지, 채용공고 등 정보를 제공합니다."
+  },
+  "doowon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "두원공과대학교",
+    "description": "두원공과대학교 누리집으로 대학소개, 입학정보, 학과/학부안내, 학사정보, 학교생활안내, 장학금제도안내, 기숙사안내, 취업정보 등의 정보를 제공합니다."
+  },
+  "dsu.ac.kr/kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동신대학교",
+    "description": "동신대학교 누리집으로 대학/대학원소개, 입학정보, 학과/학부안내, 학사정보, 학교생활안내, 장학금제도안내, 기숙사안내, 취업정보 등의 정보를 제공합니다."
+  },
+  "dtu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대한신학대학원대학교",
+    "description": "대한신학대학원대학교 누리집으로 학교소개, 입학안내, 학사안내, 학교생활안내, 부속/부설기관안내 등의 정보를 제공합니다."
+  },
+  "enter.du.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "동서울대학교",
+    "description": "동서울대학교 누리집으로 대학소개, 입학정보, 학과안내, 학사정보, 학교생활안내, 장학금제도안내, 통학버스안내, 취업정보 등의 정보를 제공합니다."
+  },
+  "ewha.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "이화여자대학교",
+    "description": "이화여자대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 연구기관/연구지원, 학사안내, 학생지원프로그램, 시설안내, 학생단체, 상담지원 등 정보를 제공합니다."
+  },
+  "ezra.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "에스라성경대학원대학교",
+    "description": "에스라성경대학원대학교 누리집으로 학교안내, 입학안내, 성경강좌, 학사일정, 학칙, 시간표, 교수자료실, 학생생활안내, 에스라소식 등 정보를 제공합니다."
+  },
+  "gangseo.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "강서대학교",
+    "description": "강서대학교 누리집으로 학교소개, 학과소개, 대학/대학원안내 학사안내, 대학생활, 학사일정, 편의시설안내, 기숙사안내, 장학금안내, 취업정보/실습안내 등의 정보를 제공합니다."
+  },
+  "ggu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "금강대학교",
+    "description": "금강대학교 누리집으로 대학소개, 대학기관, 대학/대학원, 입학안내, 학사안내, 대학생활, 대학소식 등 정보를 제공합니다."
+  },
+  "ghc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "광주보건대학교",
+    "description": "광주보건대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사정보, 학사학위전공심화과정, 대학생활 등 정보를 제공합니다."
+  },
+  "gimcheon.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "김천대학교",
+    "description": "김천대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사정보, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "gjcu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국제사이버대학교",
+    "description": "국제사이버대학교 누리집으로 온라인강의실, 모집요강안내, 장학안내, 학과안내, 원서접수바로하기 등 서비스를 제공합니다."
+  },
+  "global.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "글로벌사이버대학교",
+    "description": "글로벌사이버대학교 누리집으로 대학소개, 입학지원센터, 학부소개, 학사안내, 학생서비스, 미디어글로벌 등 정보를 제공합니다."
+  },
+  "gnu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "경상국립대학교",
+    "description": "경상대학교 누리집으로 학사공지, 기관공지, 보도자료, 학술/행사, 입학안내 등 정보를 제공합니다."
+  },
+  "gnue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "광주교육대학교",
+    "description": "광주교육대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 미디어 정보공개 등 정보를 제공합니다."
+  },
+  "gspt.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "실천신학대학원대학교",
+    "description": "실천신학대학원대학교 누리집으로 GSPT공동체, 학사안내, 게시판, 연학교회 등 정보를 제공합니다."
+  },
+  "gtec.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경기과학기술대학교",
+    "description": "경기과학기술대학교 누리집으로 대학안내, 입학안내, 학과안내, 대학생활, 커뮤니티, 취업정보 등 정보를 제공합니다."
+  },
+  "gumi.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "구미대학교",
+    "description": "구미대학교 누리집으로 대학소개, 구미대, 학과안내, 입학안내, 대학생활, 취업정보, 커뮤니티 등 정보를 제공합니다."
+  },
+  "gw.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "강원도립대학교",
+    "description": "강원특별자치도립대학 누리집으로 대학소개, 학과안내, 입학안내, 학사정보, 대학생활, 행정서비스, 정보광장 등 정보를 제공합니다."
+  },
+  "gwangju.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "광주대학교",
+    "description": "광주대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학기관안내, 대학/대학원안내, 장학/학자금대출안내, 기숙사안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "gwnu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립 강릉원주대학교",
+    "description": "강릉원주대학교 누리집으로 대학소개, 입학/편입안내, 학과안내, 대학기관안내, 산악협력/국제교류안내, 대학/대학원안내, 장학/학자금대출안내, 기숙사안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "gy.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "광양보건대학교",
+    "description": "광양보건대학교 누리집으로 학교소개, 학과소개, 학생활동, 열린광장, 장학제도, 교내사이트, 입학안내 등 정보를 제공합니다."
+  },
+  "gyeongan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경안대학원대학교",
+    "description": "경안대학원대학교 누리집으로 학교소개, 학과소개, 입학안내, 학사정보, 부속/부설기관안내, 경안신학원소개 등의 정보를 제공합니다."
+  },
+  "gyu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "강릉영동대학교",
+    "description": "강릉영동대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학기관안내, 대학안내, 장학/학자금대출안내, 기숙사안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "hanbat.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한밭대학교",
+    "description": "한밭대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사정보, 대학생활, 열린한밭대 등 정보를 제공합니다."
+  },
+  "hansung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한성대학교",
+    "description": "한성대학교 누리집으로 한성소개, 대학/대학원, 입학안내, 대학생활, 커뮤니티한성, IT서비스, 중요알림, 산학협력단, 학술정보관 등 정보를 제공합니다."
+  },
+  "hanyang.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한양대학교",
+    "description": "한양대학교 누리집으로 대학소개, 입학, 대학, 대학원, 산학/연구, 행정기관, 대학생활, 한양광장, 미디어광장 등 정보를 제공합니다."
+  },
+  "hapdong.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "합동신학대학원대학교",
+    "description": "합동신학대학원대학교 누리집으로 입학안내, 학교소개, 학사안내, 학교생활, 합신광장 등 정보를 제공합니다."
+  },
+  "hit.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대전보건대학교",
+    "description": "대전보건대학교 누리집으로 대학안내, 입학안내, 학과안내, 대학생활, 대학홍보, 학사학위전공심화, 취업정보 등 정보를 제공합니다."
+  },
+  "hknu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한경국립대학교",
+    "description": "한국복지대학교 누리집으로 대학안내, 입학정보, 학과안내, 학사정보, 캠퍼스라이프, 취업정보 등 정보를 제공합니다."
+  },
+  "home.chungwoon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "청운대학교",
+    "description": "청운대학교 누리집으로 학교소개, 입학정보, 학사일정, 장학제도, 학과안내, 도서관, 캠퍼스가이드 등의 정보를 제공합니다."
+  },
+  "home.sjcu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "세종사이버대학교",
+    "description": "세종사이버대학교누리집으로 대학소개, 학사정보, 입학안내, 학부/학과안내, 대학원, 대학생활 등 정보를 제공합니다."
+  },
+  "hoseo.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "호서대학교",
+    "description": "호서대학교 누리집으로 대학소개, 캠퍼스안내, 입학안내, 대학/대학원, 학사일정, 교육과정, 장학제도/학자금대출, 국제교류, 대학생활안내, 벤처요람 등 정보를 제공합니다."
+  },
+  "howon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "호원대학교",
+    "description": "호원대학교 누리집으로 대학소개, 학부과안내, 입학안내, 재학생가이드, 학칙/규정, 학사일정, 교무행정안내, 동창회, 생활편의안내, 인트라넷 등 정보를 제공합니다."
+  },
+  "hscu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "화신사이버대학교",
+    "description": "화신사이버대학교 누리집으로 대학안내, 학사일정, 학사제도, 장학안내, 학칙/시행세칙, 병무안내, 학부소개, 수강지원센터, 대학생활가이드 등 정보를 제공합니다."
+  },
+  "htus.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "호남신학대학교",
+    "description": "호남신학대학교 누리집으로 대학소개, 학사안내, 장학정보, 병무정보, 동아리, 총학생회, 기독교교육연구소, 총동문회, 호신예배, 평생교육원 등 정보를 제공합니다."
+  },
+  "hufs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국외국어대학교",
+    "description": "한국외국어대학교 누리집으로 학교정보, 입학안내, 대학/대학원, 대학생활, HUFS소식 등 정보를 제공합니다."
+  },
+  "hugs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한림국제대학원/대학교",
+    "description": "한림국제대학원/대학교 누리집으로 대학원소개, 입학안내, 학과소개, 부설연구소, 부속기관, 학사안내, 학위취득안내, 강의시간표, 대학원소식, 시설이용안내 등 정보를 제공합니다."
+  },
+  "hycu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한양사이버대학교",
+    "description": "한양사이버대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학습환경안내 등 정보를 제공합니다."
+  },
+  "igse.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국제언어대학원대학교",
+    "description": "국제언어대학원대학교 누리집으로 학교소개, 학과소개, 학사안내, 입학안내 등의 정보를 제공합니다."
+  },
+  "ikw.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경운대학교",
+    "description": "경운대학교 누리집으로 학교소개, 학과안내, 대학/대학원소개, 대학기관/연구소소개, 입학안내, 대학생활소개, 장학금안내, 기숙사안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "induk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "인덕대학교",
+    "description": "인덕대학교 누리집으로 대학소개, 입학안내, 계열/학과소개, 학사/장학안내, 취업지원/정보안내, 캠퍼스생활소개, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "inu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "인천대학교",
+    "description": "인천대학교 누리집으로 대학소개 입학안내, 학과안내, 대학/대학원안내, 학사안내, 학교행사안내, 장학금안내, 기숙사안내, 연구/산학안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "jbnu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "전북대학교",
+    "description": "전북대학교 누리집으로 대학정보, 입학/취업, 대학생활, 연구/산학, 커뮤니티, e서비스 등 정보를 제공합니다."
+  },
+  "jbsc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "전북과학대학교",
+    "description": "전북과학대학교 누리집으로 대학안내, 입학안내, 학과홈페이지, 학사안내, 정보광장, 취업정보 등 정보를 제공합니다."
+  },
+  "jeiu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "인천재능대학교",
+    "description": "인천재능대학교 누리집으로 대학안내, 입학정보, 학과안내, 학사일정, 학생정보서비스, 학교기업안내, 학생지원안내, 취업정보, 학생자치기구 등 정보를 제공합니다."
+  },
+  "jejunu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "제주대학교",
+    "description": "제주대학교 누리집으로 대학/대학원, 입학·산학, 캠퍼스라이프, 아라광장, 대학홍보관, 학교소개, 정보공개 등 정보를 제공합니다."
+  },
+  "jesus.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "예수대학교",
+    "description": "예수대학교 누리집으로 대학안내, 학부안내, 대학원, 대학기관, 학사행정, 대학생활, 커뮤니티, 입학정보 등 정보를 제공합니다."
+  },
+  "jnu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "전남대학교",
+    "description": "전남대학교 누리집으로 대학소개, 입학/취업, 대학/대학원, 학사정보, 교육지원, 교직정보, 후생복지, 학생상담지원, 연구소식, 산학협력단, 국제교류 등 정보를 제공합니다."
+  },
+  "jwu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "중원대학교",
+    "description": "중원대학교 누리집으로 중원소개, 입학안내, 대학/대학원, 평생교육원, 국제교류원, 산학협력단, 취업지원센터, 대학생활, 학사안내, 대학홍보 등 정보를 제공합니다."
+  },
+  "kau.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국항공대학교",
+    "description": "한국항공대학교 누리집으로 입학안내, 학과안내, 대학/대학원안내, 대학기관안내, 부속/부설기관안내, 연구소안내, 학사안내, 기숙사안내, 장학금안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "kbsu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경북과학대학교",
+    "description": "경북과학대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학안내, 기관/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "kbtus.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "침례신학대학교",
+    "description": "침례신학대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 대학생활안내, 장학안내, 기숙사안내, 학교행사안내, 동아리안내 등의 정보를 제공합니다."
+  },
+  "kcgu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국상담대학원대학교",
+    "description": "한국상담대학원대학교 누리집으로 학교소개, 전공소개, 학사안내, 입학안내, 상담센터안내, 상담학아카데미소개, 연구소소개 등의 정보를 제공합니다."
+  },
+  "kdischool.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국개발연구원국제정책대학원대학교",
+    "description": "한국개발연구원국제정책대학원대학교 누리집으로 대학원소개, 학교소개, 교육과정안내, 석사/박사학위과정안내, 교수진소개, 입학안내 등의 정보를 제공합니다."
+  },
+  "kduniv.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경동대학교",
+    "description": "경동대학교 누리집으로 대학소개, 입학안내, 학과안내, 취업사관학교, 산학협력, 캠퍼스안내, 학사안내, 장학금/융자안내, 학생자치기구 등 정보를 제공합니다."
+  },
+  "khu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경희대학교",
+    "description": "경희대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "kings.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "학교법인한국전력국제원자력대학원대학교",
+    "description": "학교법인한국전력국제원자력대학원대학교 누리집으로 교육재단, 교육과정, 교육시설, 학부, 학사일정, 입학안내 등 정보를 제공합니다."
+  },
+  "kiu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경일대학교",
+    "description": "경일대학교 누리집으로 학생포털안내, 대학소개, 대학/대학원안내, 입학안내, 학과소개, 장학안내, 해외프로그램안내, 취업정보안내, 창업정보안내, 산학정보안내 등의 정보를 제공합니다."
+  },
+  "kkot.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "꽃동네대학교",
+    "description": "꽃동네대학교 누리집으로 대학소개, 입학안내, 학사안내, 학과안내, 대학/대학원안내, 교내기관안내, 기숙사안내, 장학안내, 대학생활안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "kmou.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국해양대학교",
+    "description": "한국해양대학교 누리집으로 대학소개, 입학정보, 취업정보, 대학, 대학원, 대학생활, 아치마당 등 정보를 제공합니다."
+  },
+  "kmu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "계명대학교",
+    "description": "계명대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "kndu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국방대학교",
+    "description": "국방대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 부속기관안내, 기숙사안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "knou.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립한국방송통신대학교",
+    "description": "국립한국방송통신대학교 누리집으로 학교소개, 부설교육시설안내, 캠퍼스안내, 입학안내, 학과안내, 대학/대학원소개, 학사안내, 학습안내, 학생지원안내, 학생활동안내 등의 정보를 제공합니다."
+  },
+  "knu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "경북대학교",
+    "description": "경북대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "knue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국교원대학교",
+    "description": "한국교원대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 연구활동앙내, 온라인서비스안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "knuh.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국전통문화대학교",
+    "description": "한국전통문화대학교 누리집으로 학교소개, 대학원정보, 입학안내, 학과소개, 부속기관, 시설대관안내, 학생지원소비스 등의 정보를 제공합니다."
+  },
+  "kongju.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립공주대학교",
+    "description": "국립공주대학교 누리집으로 학교소개, 학과안내, 대학기관안내, 입학안내, 대학/대학원소개, 학사행정서비스안내, 연구안내, 사이버캠퍼스소개, 장학제도안내, 기숙사안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "kookje.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국제대학교",
+    "description": "국제대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "kookmin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국민대학교",
+    "description": "국민대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "koreatech.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국기술교육대학교",
+    "description": "고용노동부 산하 한국기술교육대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 커뮤니티, 대학홍보, 정보공개 등 정보를 제공합니다."
+  },
+  "koreatech.ac.kr/grd/": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국기술교육대학교 대학원",
+    "description": "고용노동부 산하 한국기술교육대학원 대학원 누리집으로 대학원소개, 입학정보, 클러스터소개, 대학원생활, 학사안내, 논문안내 등의 정보를 제공합니다."
+  },
+  "ks.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경성대학교",
+    "description": "경성대학교 누리집으로 입시안내, 경성포털, 평생교육원, 중앙도서관, 수강신청 등 정보를 제공합니다."
+  },
+  "kuis.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한반도국제대학원대학교",
+    "description": "한반도국제대학원대학교 누리집으로 소개, 대학원과정, 선교/NGO 특별과정-KMC, 캠퍼스, 입학안내, 새소식 등 정보를 제공합니다."
+  },
+  "kumoh.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립금오공과대학교",
+    "description": "국립금오공과대학교 누리집으로 대학/대학원, 입학안내, 교육?학사, 대학생활, 금오광장, 학교소개, 정보공개 등 정보를 제공합니다."
+  },
+  "kunsan.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "군산대학교",
+    "description": "군산대학교 누리집으로 대학안내, 입학/취업, 대학/대학원, 학사안내, 산학/연구/학술, 행정, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "kwangshin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "광신대학교",
+    "description": "광신대학교 누리집으로 학교소개, 입학안내, 대학/대학원, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "kycu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "건양사이버대학교",
+    "description": "건양사이버대학교 누리집으로 대학소개, 입학안내, 학부소개, 학사안내, 대학생활 등 정보를 제공합니다."
+  },
+  "lily.sunmoon.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충남선문대학교",
+    "description": "충남선문대학교 누리집으로 학교소개, 대학/대학원학과안내, 산학연구안내, 학사종합안내, 대학생활안내, 기숙사안내, 입학안내 등의 정보를 제공합니다."
+  },
+  "ltu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "루터대학교",
+    "description": "루터대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사일정, 학적안내, 장학정보, 병무안내, 학생자치활동, 식단안내, 교목실, 연구소, 교수학습지원센터 등 정보를 제공합니다."
+  },
+  "masan.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "마산대학교",
+    "description": "마산대학교 누리집으로 대학소개, 학과/학부소개, 입학안내, 캠퍼스안내, 학사안내, 장학/등록안내, 취업정보, 산학협력단, 평생교육원, 복지/편의시설 등 정보를 제공합니다."
+  },
+  "mju.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "명지대학교",
+    "description": "명지대학교 누리집으로 대학안내, 대학구성, 입학안내, 산학협력단, 교내연구소, 외부지원연구센터, 교내일정, 학사운영, 장학금, 국제교류, 식단안내 등 정보를 제공합니다."
+  },
+  "mtu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "감리교신학대학교",
+    "description": "감리교신학대학교 누리집으로 대학소개, 입학안내, 대학/개학원, 학생지원, 시설안내, 학생활동단체, 동아리, 축제, 동문주소록, 부설연구소, 학사행정시스템 등 정보를 제공합니다."
+  },
+  "naju.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "나주대학교",
+    "description": "고구려대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학사일정, 편의시설안내, 기숙사안내, 장학금안내, 취업정보/실습안내 등의 정보를 제공합니다."
+  },
+  "nambu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "남부대학교",
+    "description": "남부대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 학사안내, 부속기관안내, 연구소/산학협력단안내, 장학안내, 기숙사안내, 편의시설소개, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "nk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "북한대학원대학교",
+    "description": "북한대학원대학교 누리집으로 학교소개, 입학안내, 학사정보, 온라인강의실, 학술활동, 커뮤니티 등 정보를 제공합니다."
+  },
+  "nonghyup.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "농협대학교",
+    "description": "농협대학교 누리집으로 대학, 입학, 교육, 산학협력단, 대학생활 등 정보를 제공합니다."
+  },
+  "nsu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "남서울대학교",
+    "description": "남서울대학교 누리집으로 대학소개, 입학안내, 대학·대학원, 대학생활, 남서울광장 등 정보를 제공합니다."
+  },
+  "ocu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "열린사이버대학교",
+    "description": "열린사이버대학교 누리집으로 학교소개, 입학안내, 학과안내, 학생서비스, 열린캠퍼스 등 정보를 제공합니다."
+  },
+  "ok.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "충청대학교",
+    "description": "충청대학교 누리집으로 대학안내, 입학안내, 학부/학과, 학사안내, 대학생활, 취업정보, 충청미디어, 커뮤니티 등 정보를 제공합니다."
+  },
+  "osan.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "오산대학교",
+    "description": "오산대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사안내, 장학안내, 학자금대출, 복지시설안내, 학생자치기구, 동아리, 오산대뉴스, 취업지원안내 등 정보를 제공합니다."
+  },
+  "osu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "온석대학원대학교",
+    "description": "중앙신학대학원대학교 누리집으로 대학소개, 입학안내, 교육과정, 대학생활, 자료실, 열린마당, 대학법인, 부속기관 등 정보를 제공합니다."
+  },
+  "paekche.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "백제예술대학교",
+    "description": "백제예술대학교 누리집으로 대학소개,학과안내,입학안내,학사일정,재학생서비스,학사행정,도서관안내,방송국,장학제도,시설안내,통학버스운행안내 등 정보를 제공합니다."
+  },
+  "pcts.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "장로회신학대학교",
+    "description": "장로회신학대학교 누리집으로 대학소개, 입학안내, 평생교육원, 학사일정, 캠퍼스시설, 국제화교육프로그램, IT서비스, 대학홍보, 학과소개 등 정보를 제공합니다."
+  },
+  "pcu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "배재대학교",
+    "description": "배재대학교 누리집으로 대학안내, 입학/취업안내, 진로개발센터, 대학/대학원소개, 학사가이드, 국내외교류, 학생활동, 복지기관, 하숙정보, 교내주차관리시스템 등 정보를 제공합니다."
+  },
+  "pohang.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "포항대학교",
+    "description": "포항대학교 누리집으로 대학안내, 입학안내, 학과안내, 학사안내, 정보서비스, 장학제도, 편의/복지시설, 버스노선안내, 학생생활관, 학생활동자치기구 등 정보를 제공합니다."
+  },
+  "police.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "경찰대학",
+    "description": "경찰대학 누리집으로 대학소개, 대학행사, 학사정보, 입학안내 등 정보를 제공합니다."
+  },
+  "pro.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국영상대학교",
+    "description": "한국영상대학교 누리집으로 대학안내, 학과안내, 학사일정, 장학/학자금대출, 병무안내, 증명발급안내, 캠퍼스캘린더, 학생자치기구, 자취/하숙안내 등 정보를 제공합니다."
+  },
+  "ptu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "평택대학교",
+    "description": "평택대학교 누리집으로 대학안내, 입학안내, 학과소개, 대학원, 대학생활, 평택대광장 등 정보를 제공합니다."
+  },
+  "pusan.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "부산대학교",
+    "description": "부산대학교 누리집으로 대학/대학원, 입학정보, 연구/산학, 대학생활, 효원커뮤니티, 홍보센터, 학교소개 등 정보를 제공합니다."
+  },
+  "rts.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "개신대학원대학교",
+    "description": "개신대학원대학교 누리집으로 학교소개, 입학안내, 학위과정, 비학위과정, 학사일정, 학사정보, 채플안내, 개신자료, 생활관, 도서관, 평생교육원, 한국어학당 등 정보를 제공합니다."
+  },
+  "sabum.kongju.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립공주대학교 사범대학",
+    "description": "국립공주대학교 사범대 누리집으로 대학소개, 학과/교수, 교육실습정보, 교원임용시험정보, 사범대광장 등 정보를 제공합니다."
+  },
+  "saekyung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "세경대학교",
+    "description": "세경대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 부속기관안내, 기숙사안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "sangha.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "중앙승가대학교",
+    "description": "중앙승가대학교 누리집으로 대학소개, 학사행정, 학과소개, 학부소개, 학생회, 동아리, 수행관, 승가학연구원, 대학원앨범, 교과목소개, 승가논단 등 정보를 제공합니다."
+  },
+  "sangji.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "상지대학교",
+    "description": "상지대학교 누리집으로 대학소개, 입학정보, 대학/대학원, 학사안내, 학생복지, 해외연수, 학생심리상담센터, 장애학생지원센터, 취업안내, 정보공개 등 정보를 제공합니다."
+  },
+  "sb.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울성경신학대학원대학교",
+    "description": "서울성경신학대학원대학교 누리집으로 학교안내, 입학안내, 교육과정안내, 교수소개, 학사정보, 기숙사안내, 부속/부설기관안내 등의 정보를 제공합니다."
+  },
+  "scau.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "디지털서울문화예술대학교",
+    "description": "디지털서울문화예술대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사안내, 학사일정, 장학/학자금대출안내, 대학생활안내, 취업지원안내, 시간제등록안내 등의 정보를 제공합니다."
+  },
+  "sch.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "순천향대학교",
+    "description": "순청향대학교 누리집으로 대학소개, 입학안내, 대학학과소개, 대학원학과소개, 기관/시설안내, 대학생활안내 등의 정보를 제공합니다."
+  },
+  "sdu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울디지털대학교",
+    "description": "서울디지털대학교 누리집으로 대학소개, 입학지원센터, 학과소개, 학사안내, 교육과정, 대학생활, 강의체험, 학생지원, 자격증센터 등 정보를 제공합니다."
+  },
+  "semyung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "세명대학교",
+    "description": "세명대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학/대학원소개, 대학생활안내, 기숙사안내, 장학/학자금융자안내, 취업지원안내, 부설기관안내 등의 정보를 제공합니다."
+  },
+  "seoultech.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "서울과학기술대학교",
+    "description": "서울과학기술대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 산학/연구, 정보/민원서비스 등 정보를 제공합니다."
+  },
+  "seowon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "서원대학교",
+    "description": "서원대학교 누리집으로 대학소개, 입학, 교육, 대학생활, 서원광장 등 정보를 제공합니다."
+  },
+  "sgu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "신경주대학교",
+    "description": "신경주대학교 누리집으로 입학안내, 대학·대학원, 학사정보, 대학생활, 커뮤니티, 학교소개 등 정보를 제공합니다."
+  },
+  "shu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "삼육보건대학교",
+    "description": "삼육보건대학교 누리집으로 입학안내, 대학소개, 학과소개, 학사안내, 커뮤니티, 대학생활, SHU홍보관 등 정보를 제공합니다."
+  },
+  "shyu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울 한영대학교",
+    "description": "한영신학대학교 누리집으로 학교소개, 학과안내, 학사안내, 입학안내, 대학생활안내, 장학금안내 등의 정보를 제공합니다."
+  },
+  "siu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "수도국제대학원대학교",
+    "description": "수도국제대학원대학교 누리집으로 학교안내, 학사안내, 입학안내, 자료실, 사회교육원 등 정보를 제공합니다."
+  },
+  "sjs.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울장신대학교",
+    "description": "서울장신대학교 누리집으로 대학안내,입학안내,대학/대학원,학교뉴스,학보사,학사서비스,수련회정보,신앙생활,발전기금,동문선교사 등 정보를 제공합니다."
+  },
+  "skhu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성공회대학교",
+    "description": "성공회대학교 누리집으로 학교소개, 대학안내, 대학원안내, 산학협력단, 연구/교육, 대학/대학원입학안내, 학생활동, 장학, 학자금대출, 사회봉사 등 정보를 제공합니다."
+  },
+  "skuniv.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "서경대학교",
+    "description": "서경대학교 누리집으로 학교소개, 대학, 대학원, 학사일정, 학생생활안내, 교무학적안내, 학교소식, 학교신문, 입학안내, 외국인유학생, 예술종합평생교육원 등 정보를 제공합니다."
+  },
+  "snu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "서울대학교",
+    "description": "서울대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과안내,관련기관안내, 기숙사안내, 장학제도안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "snue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "서울교육대학교",
+    "description": "서울교육대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원 전공소개, 학사안내, 대학생활안내, 장학금/학자금융자제도안내, 기숙사안내, 취업지원정보안내 등의 정보를 제공합니다."
+  },
+  "songgok.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "송곡대학교",
+    "description": "송곡대학교 누리집으로 대학소개, 입학안내, 학과안내, 관련기관안내, 기숙사안내, 장학제도안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "songho.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "송호대학교",
+    "description": "송호대학교 누리집으로 대학소개, 입학안내, 학과안내, 관련기관안내, 기숙사안내, 장학제도안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "ssc.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "수원과학대학교",
+    "description": "수원과학대학교 누리집으로 대학소개 학과안내, 입시정보안내, 입학안내, 대학생활안내, 장학제도안내, 셔틀버스안내, 학사일정안내, 기관소개, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "ssgu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울사회복지대학원대학교",
+    "description": "서울사회복지대학원대학교 누리집으로 학교소개, 입학안내, 대학원, 학사안내, 부속/부설기관, 도서관 등 정보를 제공합니다."
+  },
+  "ssu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "숭실대학교",
+    "description": "숭실대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학/대학원소개, 교육/교과과정소개, 학생경력관리안내, 기숙사안내, 장학금안내, 상담센터안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "stu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울신학대학교",
+    "description": "서울신학대학교 누리집으로 대학소개, 입학안내, 대학/대학원소개, 학과안내, 부속기관안내, 기숙사안내, 장학제도안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "sub.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울불교대학원대학교",
+    "description": "서울불교대학원대학교 누리집으로 학교소개, 입학안내, 학과소개, 학사안내, 학사일정, 부설기관안내 등의 정보를 제공합니다."
+  },
+  "sungshin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성신여자대학교",
+    "description": "성신여자대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학사안내, 대학생활안내, 편의복지시설소개, 장학제도안내 등의 정보를 제공합니다."
+  },
+  "suwon.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "수원대학교",
+    "description": "수원대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "suwoncatholic.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "수원가톨릭대학교",
+    "description": "수원가톨릭대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "svu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울벤처대학원대학교",
+    "description": "서울벤처대학원대학교 누리집으로 학교소개, 입학안내, 학과안내, 학사안내, 학사일정안내, 장학제도안내 등의 정보를 제공합니다."
+  },
+  "swwu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "수원여자대학교",
+    "description": "수원여자대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "syu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "삼육대학교",
+    "description": "삼육대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "tk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대경대학교",
+    "description": "대경대학교 누리집으로 학교소개, 학사행정, 학부/학과소개, 대경광장, 입학안내, 취·창업정보, 평생교육원 등 정보를 제공합니다."
+  },
+  "tlbu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국제법률경영대학원대학교(영어)",
+    "description": "국제법률경영대학원대학교 영어 누리집으로 학교소개, 뉴스, 학생토론, 입학안내, 재단소개, 학업안내 등 정보를 제공합니다."
+  },
+  "tsu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구과학대학교",
+    "description": "대구과학대학교 누리집으로 대학소개, 학사정보, 입학정보, 학과소개, 한별광장, 모바일캠퍼스, 취업정보센터 등 정보를 제공합니다."
+  },
+  "ttgu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "횃불트리니티신학대학원대학교",
+    "description": "횃불트리니티신학대학원대학교 누리집으로 학교소개, 입학안내, 교육내용, 학교생활, 뉴스 등 정보를 제공합니다."
+  },
+  "tu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동명대학교",
+    "description": "동명대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 커뮤니티, 홍보관 등 정보를 제공합니다."
+  },
+  "tukorea.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국공학대학교",
+    "description": "한국공학대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사정보, 커뮤니티, 홍보관 등 정보를 제공합니다."
+  },
+  "uos.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울시립대학교",
+    "description": "서울시립대학교 소개, 입학안내, 교육안내, 학교생활안내 등 정보 제공"
+  },
+  "ut.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국교통대학교",
+    "description": "한국교통대학교 누리집으로 대학소개, 입학정보, 대학/대학원, 연구/산학, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "uu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "위덕대학교",
+    "description": "위덕대학교 누리집으로 대학소개, 학교법인, 부속기관, 부설연구센터, 산학협력단, 학부/대학원, 학교생활안내, 입학안내, 취업정보, 학사일정표 등 정보를 제공합니다."
+  },
+  "wat.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "웅지세무대학교",
+    "description": "경기웅지세무대학교 누리집으로 학교소개, 학과안내, 학사안내, 입학안내, 대학생활안내, 장학금제도, 취업정보 등의 정보를 제공합니다."
+  },
+  "wdu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "원광디지털대학교",
+    "description": "원광디지털대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학원, 학사일정, 학적, 장학금/학자금, 자격증안내, 병무안내, 강의체험, 캠퍼스소개 등 정보를 제공합니다."
+  },
+  "web.kangnam.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "강남대학교",
+    "description": "강남대학교 누리집으로 대학안내, 학과안내, 대학/대학원소개, 학사안내, 장학금안내, 학생편의시설, 취업정보제공안내, 입학안내 등의 정보를 제공합니다."
+  },
+  "wgst.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "웨스트민스터신학대학원대학교",
+    "description": "웨스트민스터신학대학원대학교 누리집으로 학교소개, 입학안내, 석박사과정안내, 학사일정, 장학제도, 학칙, 학교소식, 동아리, 기숙사, 교수동정 등 정보를 제공합니다."
+  },
+  "wonbuddhism.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "원불교대학원대학교",
+    "description": "원불교대학원대학교 누리집으로 대학원소개, 예결산공고, 입학안내, 학사안내, 학칙/규정, 졸업생논문, 이사회회의록, 대학정보공시 등 정보를 제공합니다."
+  },
+  "woosuk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "우석대학교",
+    "description": "우석대학교 누리집으로 학교소개, 학교규정, 대학/대학원, 입학안내, 대학기관, 학사일정, 교직안내, 등록/장학/대출, 학생복지안내, 채용정보 등 정보를 제공합니다."
+  },
+  "wu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "원광보건대학교",
+    "description": "원광보건대학교 누리집으로 대학안내, 원광비젼, 학과/학부안내, 입학안내, 동아리, 학생회, 학교버스이용, 시설이용안내, 학사정보, 산학협력 등 정보를 제공합니다."
+  },
+  "www.af.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국농수산대학교",
+    "description": "국립농수산대학 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 부속기관안내, 기숙사안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.ajou.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "아주대학교",
+    "description": "아주대학교 누리집으로 학교소개, 입학, 대학/대학원, 교내연구지원안내, 산학협력사업소개, 창업보육사업소개, 연구기관, 학사정보, 장학정보, 복지편의 등 정보를 제공합니다."
+  },
+  "www.ansan.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "안산대학교",
+    "description": "안산대학교 누리집으로 대학소개, 해외인턴신/국제교류, 입학안내, 학과안내, 학사정보, 교원자격증발급, 성적관리안내, 장학/학자금융자, 편의/복지시설 등 정보를 제공합니다."
+  },
+  "www.baewha.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "배화여자대학교",
+    "description": "배화여자대학교 누리집으로 대학안내, 입학안내, 학과소개, 대학생활, 배화광장 등 정보를 제공합니다."
+  },
+  "www.bau.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "백석예술대학교",
+    "description": "백석예술대학교 누리집으로 입시홈페이지, 사이버 캠퍼스, 백석학술정보관, 2015학년도 2학기 수강신청 등 정보를 제공합니다."
+  },
+  "www.bbts.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성서침례대학원대학교",
+    "description": "성서침례대확원대학교 누리집으로 학교소개, 입학정보, 학사정보, 학위과정, 성침광장, 부속·부설기관, 학교법인, 게시판 등 정보를 제공합니다."
+  },
+  "www.bc.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "부천대학교",
+    "description": "부천대학교 누리집으로 입학안내, 대학소개, 학과안내, 학사안내, 캠퍼스생활, 홍보센터 등 정보를 제공합니다."
+  },
+  "www.bhu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산보건대학교",
+    "description": "부산보건대학교 누리집으로 대학소개, 입학안내, 학과안내, 취업정보, 예비군중대, 학사규정, 학사행정, 학생복지, 통학버스안내, 증명서발급안내, 도서관, 장학제도 등 정보를 제공합니다."
+  },
+  "www.bible.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국성서대학교",
+    "description": "한국성서대학교 누리집으로 대학소개, 교목실, 대학, 대학원, 학사안내, 입학안내, 성서알림방, 부속기관, 연구소 등 정보를 제공합니다."
+  },
+  "www.bnue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "부산교육대학교",
+    "description": "부산교육대학교 누리집으로 학교소개, 입학안내, 대학, 대학원, 학사정보, 한새커뮤니티 등 정보를 제공합니다."
+  },
+  "www.bpu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산장신대학교",
+    "description": "부산장신대학교 누리집으로 학교소개, 입학안내, 학부안내, 대학원안내, 학사안내, 종합서비스 등 정보를 제공합니다."
+  },
+  "www.bscu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "백석문화대학교",
+    "description": "백석문화대학교 누리집으로 대학소개, 입학안내, 대학기관, 학부과소개, 학사정보, 대학생활 등 정보를 제공합니다."
+  },
+  "www.bsks.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산경상대학교",
+    "description": "부산경상대학교 누리집으로 대학안내, 입학안내, 학과안내, 취업안내, 캠퍼스라이프, 대학홍보관 등 정보를 제공합니다."
+  },
+  "www.bu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "백석대학교",
+    "description": "백석대학교 누리집으로 학교소개, 입시안내, 대학/대학원, 학사종합안내, 취업정보, 백석광장 등 정보를 제공합니다."
+  },
+  "www.bwc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "부산여자대학교",
+    "description": "부산여자대학교 누리집으로 대학쇼개, 학과/계열소개, 입학안내, 학사행정, 기숙사/장학제도소개, 취업정보, 대학생활안내, 대학소실홍보 등의 정보를 제공합니다."
+  },
+  "www.catholic.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "가톨릭대학교",
+    "description": "가톨릭대학교 누리집으로 대학소개, 대학/대학원안내, 학과/계열소개, 입학안내, 학사행정, 기숙사/장학제도소개, 하숙/주거정보, 취업정보, 대학생활안내, 대학소실홍보 등의 정보를 제공합니다."
+  },
+  "www.ch.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "춘해보건대학교",
+    "description": "춘해보건대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사행정, 기숙사/장학제도소개, 취업정보, 대학생활안내, 대학소실홍보 등의 정보를 제공합니다."
+  },
+  "www.cha.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "차의과학대학교",
+    "description": "차의과대학교 누리집으로 학교소개, 입학안내, 대학/대학원소개, 교육/연구안내, 대학생활안내, 기숙사/장학제도안내 등의 정보를 제공합니다."
+  },
+  "www.changwon.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "창원대학교",
+    "description": "창원대학교 누리집으로 학교안내, 학과안내, 입학안내, 대학/대학원안내, 대학기관소개, 대학생활안내, 기숙사/장학제도안내, 주요시설안내, 통학버스이용안내 등의 정보를 제공합니다."
+  },
+  "www.chosun.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "조선대학교",
+    "description": "조선대학교 누리집으로 대학/대학원, 교육원, 중앙도서관, 입학안내, 산학협력단/연구처, 연구기관, 장학/등록, 학생교류, 보건, 학생활동, 대학소개 등 정보를 제공합니다."
+  },
+  "www.chsu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충북보건과학대학교",
+    "description": "충북보건과학대학교 누리집으로 대학안내, 계열/학과안내, 학사안내, 부설기관, 편의시설, 학생회, 대학웹진, 취업상담, 장학/학자금대출, 입학안내 등 정보를 제공합니다."
+  },
+  "www.chu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "제주한라대학교",
+    "description": "제주한라대학교 누리집으로 학교소개, 입학안내, 학부/학과소개, 학사지원서비스, 대학생활, 취업정보, 국제교류, 사이버홍보관, 사이버강의, 장학/학자금제도 등 정보를 제공합니다."
+  },
+  "www.cje.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "청주교육대학교",
+    "description": "청주교육대학교 누리집으로 대학소개, 입학, 대학/대학원, 대학생활, 커뮤니티, 종합정보서비스 등 정보를 제공합니다."
+  },
+  "www.cntu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "전남과학대학교",
+    "description": "전남과학대학교 누리집으로 대학안내, 라이브매거진, 계열학과안내, 입학안내, 학사안내, 캠퍼스라이프 등 정보를 제공합니다."
+  },
+  "www.cnue.ac.kr/cnue": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "춘천교육대학교",
+    "description": "춘천교육대학교 누리집으로 학교소개, 입학안내, 대학/교육대학원, 대학생활, 학사정보, 석우마당 등 정보를 제공합니다."
+  },
+  "www.cs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "창신대학교",
+    "description": "창신대학교 누리집으로 대학안내, 학과안내, 입학안내, 대학생활, 교내소식 등 정보를 제공합니다."
+  },
+  "www.cufs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "사이버외국어대학교",
+    "description": "사이버외국어대학교 누리집으로 대학안내, 입학안내, 학사안내, 학부소개, 대학원, 대학생활, 강의실 등 정보를 제공합니다."
+  },
+  "www.daedong.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대동대학교",
+    "description": "대동대학교 누리집으로 대학소개, 대학기관, 계열안내, 학생지원센터, 입학정보, 사이버홍보실, 재학생, 수험생, 일반인, 교직원 등 정보를 제공합니다."
+  },
+  "www.daeshin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대신대학교",
+    "description": "대신대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 부속기관안내, 기숙사안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.dankook.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "단국대학교",
+    "description": "단국대학교 누리집으로 대학소개, 입학안내, 교육, 연구?산학, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.dcatholic.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대전가톨릭대학교",
+    "description": "대전가톨릭대학교 누리집으로 대학소개, 입학안내, 학사정보, 대학생활, 자료실, 부속부설기관, 알림판 등 정보를 제공합니다."
+  },
+  "www.ddc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대덕대학교",
+    "description": "대덕대학교 누리집으로 대학안내, 입학안내, 학과안내, DDC홍보, 학사안내, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.deu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동의대학교",
+    "description": "동의대학교 누리집으로 동의소개, 입학안내, 대학/대학원, 대학생활, 동의광장 등 정보를 제공합니다."
+  },
+  "www.dhc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대구보건대학교",
+    "description": "대구보건대학교 누리집으로 대학안내, 입학안내, 학과소개, 학사정보, 대학생활, 커뮤니티, 취업정보 등 정보를 제공합니다."
+  },
+  "www.dist.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동원과학기술대학교(구양산대학교)",
+    "description": "동원과학기술대학교(구양산대학교) 누리집으로 대학소개, 입학안내, 학과/학부소개, 학사정보안내, 학교생활안내, 편의시설안내, 기숙사안내, 장학제도안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.dit.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동의과학대학교",
+    "description": "동의과학대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학기구, 커뮤니티, 대학생활 도우미, 사이버홍보관 등 정보를 제공합니다."
+  },
+  "www.dju.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대전대학교",
+    "description": "대전대학교 누리집으로 대학소개, 입학안내, 대학·대학원, 학사안내, DJU 커뮤니티, 홍보센터 등 정보를 제공합니다."
+  },
+  "www.dkc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동강대학교",
+    "description": "동강대학교 누리집으로 동강소개, 입학안내, 학과안내, 대학생활, 취업정보 등 정보를 제공합니다."
+  },
+  "www.dnue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "대구교육대학교",
+    "description": "대구교육대학교 누리집으로 학교소개, 입학안내, 대학·교육대학원, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.dongnam.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동남보건대학교",
+    "description": "동남보건대학교 누리집으로 대학안내, 학과안내, 수시 및 정시모집안내, 학사학위 전공심화과정생모집, 산업체위탁교육생모집, 외국인전형모십, 입시상담안내, 전년도입시결과안내 등의 정보를 제공합니다."
+  },
+  "www.dongseo.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동서대학교",
+    "description": "동서대학교 누리집으로 학교소개, 학부/대학소개, 학과소개, 대학원소개, 대학생활도새, 부속/부설기관안내, 부설연구센터소개, 학사안내, 장학금안내, 기숙사안내, 취업정보 등의 정보를 제공합니다."
+  },
+  "www.dongyang.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동양미래대학교",
+    "description": "동양미래대학교 누리집으로 대학소개, 입학정보, 학과/학부안내, 학사정보, 학교생활안내, 장학금제도안내, 기숙사안내, 취업정보 등의 정보를 제공합니다."
+  },
+  "www.dorip.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "전남도립대학교",
+    "description": "전남도립대학교 누리집으로 대학소개, 입학정보, 학과안내, 대학생활, 취업지원센터 등 정보를 제공합니다."
+  },
+  "www.dst.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "대전과학기술대학교",
+    "description": "대전과학기술대학교 누리집으로 대학소개, 학과안내, 입학안내, 취업/진로, 학사일정, 장학금/학자금, 병역안내, 학원선교, 캠퍼스안내, 교육/행사 등 정보를 제공합니다."
+  },
+  "www.duh.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동아보건대학교",
+    "description": "동아보건대학교 누리집으로 대학안내, 학과안내, 학사안내, 전공심화과정 등 정보를 제공합니다."
+  },
+  "www.duksung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "덕성여자대학교",
+    "description": "덕성여자대학교 누리집으로 대학안내, 입학안내, 학과안내, 대학/대학원소개, 대학기관소개, 학사안내, 장학안내, 대학생활안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.dyu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동양대학교",
+    "description": "동양대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학기관안내, 대학/대학원안내, 장학/학자금대출안내, 기숙사안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.eulji.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "을지대학교",
+    "description": "을지대학교 누리집으로 대학소개, 입학정보, 대학/대학원, 학사일정, 수강신청안내, 기숙사안내, 증명서발급안내, 국가장학급/학자금대출, 종합입시안내 등 정보를 제공합니다."
+  },
+  "www.gangdong.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "강동대학교",
+    "description": "강동대학교 누리집으로 대학소개, 입학안내, 대학기관, 학과안내, 학사안내, 캠퍼스생활, 미디어/홍보, 입시공지, 복지상담, 주간식단표, 병무안내 등 정보를 제공합니다."
+  },
+  "www.gimhae.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "김해대학교",
+    "description": "김해대학교 누리집으로 대학소개, e-캠퍼스, 학과안내, 입학안내, GH미디어, GH알리미, 대학생활안내 등 정보를 제공합니다."
+  },
+  "www.ginue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "경인교육대학교",
+    "description": "경인교육대학교 누리집으로 대학, 입학, 교육, 연구, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.gjc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "광주가톨릭대학교",
+    "description": "광주가톨릭대학교 누리집으로 대학소개, 학사정보, 대학생활, 입학정보, 부속기관, 알림판 등 정보를 제공합니다."
+  },
+  "www.gjue.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "공주교육대학교",
+    "description": "공주교육대학교 누리집으로 대학, 입학, 교육/학사, 연구/산학, 대학생활, 특성화사업 등 정보를 제공합니다."
+  },
+  "www.gknu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립경국대학교",
+    "description": "국립경국대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사안내, 정보광장, 캠퍼스광장 등 정보를 제공합니다."
+  },
+  "www.halla.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한라대학교",
+    "description": "한라대학교 대학소개, 입학안내, 학과안내, 대학/대학원안내, 연구/산학기관안내, 대학생활소개, 장학금안내, 기숙사안내 등의 정보를 제공합니다."
+  },
+  "www.hallym.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한림대학교",
+    "description": "한림대학교 대학소개, 입학안내, 학과안내, 대학/대학원안내, 연구/산학기관안내, 대학생활소개, 장학금안내, 기숙사안내 등의 정보를 제공합니다."
+  },
+  "www.hanil.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한일장신대학교",
+    "description": "한일장신대학교 누리집으로 대학소개, 대학/대학원, 입학정보, 학사종합안내, 대학기구, 한일 e-campus 등 정보를 제공합니다."
+  },
+  "www.hannam.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한남대학교",
+    "description": "한남대학교 누리집으로 대학안내, 입학/취업안내, 대학/대학원, 학사안내, 대학생활, 열린한남 등 정보를 제공합니다."
+  },
+  "www.hansei.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한세대학교",
+    "description": "한세대학교 누리집으로 한세소개, 입학안내, 학부소개, 대학기구, 학사안내, 대학생활 등 정보를 제공합니다."
+  },
+  "www.hanseo.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한서대학교",
+    "description": "한서대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사안내, 대학생활, 교류협력, 태안캠퍼스 등 정보를 제공합니다."
+  },
+  "www.hj.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "혜전대학교",
+    "description": "혜전대학교 누리집으로 입학안내, 대학소개, 학과안내, 대학생활, 산학협력, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.honam.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "호남대학교",
+    "description": "호남대학교 누리집으로 대학소개, 입학안내, 단과대학, 대학원, 학사안내, 장학정보, 취업정보, 국제교류, 행사일정, 산학협력단, 연구소, 복지시설, 캠퍼스안내 등 정보를 제공합니다."
+  },
+  "www.hongik.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "홍익대학교",
+    "description": "홍익대학교 누리집으로 대학소개, 입학안내, 대학학과소개, 대학원학과소개, 기관/시설안내, 대학생활안내 등의 정보를 제공합니다."
+  },
+  "www.hosan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "호산대학교",
+    "description": "호산대학교 누리집으로 대학소개, 학과안내, 입학안내, 취업안내, 학사정보, 캠퍼스라이프, 비젼2020 등 정보를 제공합니다."
+  },
+  "www.hs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한신대학교",
+    "description": "한신대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활안내, 해외협정대학, 학교소식, 행사/공모전, 학생역량개발, 도서관, 시설물예약 등 정보를 제공합니다."
+  },
+  "www.hsc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한림성심대학교",
+    "description": "한림성심대학교 누리집으로 대학소개, 입학정보, 학과소개, 대학생활, 취업정보, 학사안내, 총학생회, 편의복지, 교내벼룩시장, 진로상담, 캠퍼스안내 등 정보를 제공합니다."
+  },
+  "www.hyo.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성산효대학원/대학교",
+    "description": "성산효대학원/대학교 누리집으로 학교소개, 입학안내, 교육과정, 학과소개, 학사일정, 등록안내, 수업안내, 자격시험, 논문, 학적변동, 박사과정 등 정보를 제공합니다."
+  },
+  "www.hywoman.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한양여자대학교",
+    "description": "한양여자대학교 누리집으로 대학소개, 입학안내, 학과소개, 장학금안내, 대학생호라안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.iccu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "인천가톨릭대학교",
+    "description": "인천가톨릭대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학/대학원/부속기관소개, 학사안내, 장학금안내, 기숙사안내, 편의시설안내, 대학생활소개, 산악협력/국제교류안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.inha.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "인하대학교",
+    "description": "인하대학교 누리집으로 학교소개, 입학안내, 학과소개, 연구/산학기관안내, 학사안내, 대학생활안내, 장학금안내, 기숙사안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "www.inje.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "인제대학교",
+    "description": "인제대학교 누리집으로 학교소개, 입학안내, 학과소개, 연구/산학기관안내, 학사안내, 대학생활안내, 장학금안내, 기숙사안내, 편의시설안내 등의 정보를 제공합니다."
+  },
+  "www.iscu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울사이버대학교",
+    "description": "서울사이버대학교 누리집으로 대학소개, 입학안내, 학부소개, 대학원, 학사안내, 대학생활 등 정보를 제공합니다."
+  },
+  "www.jangan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "장안대학교",
+    "description": "장안대학교 누리집으로 대학소개, 학과안내, 입학안내, 대학생활, 학생서비스, 학교주요기관 등 정보를 제공합니다"
+  },
+  "www.jeju.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "제주국제대학교",
+    "description": "제주국제대학교 누리집으로 대학안내, 입학안내, 학부/학과안내, 대학원, 대학기구, 기숙사안내, 장학제도, 학사안내, 학생병무, 등록안내, 대학뉴스 등 정보를 제공합니다."
+  },
+  "www.jhc.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "진주보건대학교",
+    "description": "진주보건대학교 누리집으로 대학소개, 입학안내, 행정부서 및 기관, 학과소개, 학사안내, 캠퍼스도우미, 대학생활 등 정보를 제공합니다."
+  },
+  "www.jj.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "전주대학교",
+    "description": "전주대학교 누리집으로 학교안내, 입학정보, 대학·대학원, 대학생활, 취업·열린교육, 커뮤니티, 온라인서비스 등 정보를 제공합니다."
+  },
+  "www.joongbu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "중부대학교",
+    "description": "중부대학교 누리집으로 학교소개, 대학/대학원, 학사안내, 교환학생/국제교류안내, 학생자치기구, 하숙/자취정보, 사이버홍보실, 캠퍼스안내 등 정보를 제공합니다."
+  },
+  "www.jvision.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "전주비전대학교",
+    "description": "전주비전대학교 누리집으로 대학안내, 학과안내, 장애학생지원센터, 대학발전기금, 기관안내, 캠퍼스안내, 취업안내, 입학안내, 교내연락처 등 정보를 제공합니다."
+  },
+  "www.karts.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국예술종합학교",
+    "description": "한국예술종합학교 누리집으로 학교소개, 입학정보, 대학생활, 알림/소식 등 정보를 제공합니다."
+  },
+  "www.kaya.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "가야대학교",
+    "description": "가야대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.kbc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경북전문대학교",
+    "description": "경북전문대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.kbu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경복대학교",
+    "description": "경복대학교 누리집으로 대학소개, 입학안내, 학과안내, 학사일정, 학사정보, 교수학습개발센터, 교육기부, 산합협력단, 취업지원센터, 학생자치기구 등 정보를 제공합니다."
+  },
+  "www.kcs.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경북보건대학교",
+    "description": "경북보건대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학사일정, 편의시설안내, 기숙사안내, 장학금안내, 취업정보/실습안내 등의 정보를 제공합니다."
+  },
+  "www.kdu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "극동대학교",
+    "description": "극동대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 부속기관안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.khcu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경희사이버대학교",
+    "description": "경희사이버대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학사안내, 학생서비스안내, 장학안내, 도서관서비스, 취업진학안내, 대학생활안내, 사이트이용안내, 입학안내 등의 정보를 제공합니다."
+  },
+  "www.kit.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경남정보대학교",
+    "description": "경남정보대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 장학안내, 주거정보, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.kiwu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경인여자대학교",
+    "description": "경인여자대학교 누리집으로 모집요강안내, 입학정보안내, 학과안내, 대학소개, 장학안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.kmcu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "계명문화대학교",
+    "description": "계명문화대학교 누리집으로 대학소개, 학과소개, 대학생활, 문화리더, 입학정보, 취업정보 등 정보를 제공합니다."
+  },
+  "www.knsu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국체육대학교",
+    "description": "한국체육대학교 누리집으로 학교정보, 대학소개, 입학안내, 학과안내, 대학/대학원소개, 학사정보, 교육과정/교원양성과정안내, 장학안내, 기숙사안내, 편의시설안내, 대회정보안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.koje.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "거제대학교",
+    "description": "거제대학교 누리집으로 대학소개, 학과소개, 입학안내, 대학생활안내, 통학버스안내, 기숙사안내, 장학/학자금융자안내, 대학정보안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.konkuk.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "건국대학교",
+    "description": "건국대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.konyang.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "건양대학교",
+    "description": "건양대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.korea.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "고려대학교",
+    "description": "고려대학교 누리집으로 고대소개, 입학안내, 교육, 연구·산학, 학생활동 등 정보를 제공합니다"
+  },
+  "www.kornu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "나사렛대학교",
+    "description": "나사렛대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학기관, 학사정보, 대학특별프로그램, 나사렛생활, 나사렛광장 등 정보를 제공합니다."
+  },
+  "www.ktc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "한국관광대학교",
+    "description": "한국관광대학교 누리집으로 대학소개, 학과소개, 생활안내, 입시사이트, 온라인서비스, 나눔터 등 정보를 제공합니다."
+  },
+  "www.kwu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "광주여자대학교",
+    "description": "광주여자대학교 누리집으로 대학안내, 입학안내, 대학/대학원, 학사정보, 송강광장, 취업안내 등 정보를 제공합니다."
+  },
+  "www.kyonggi.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경기대학교",
+    "description": "경기대학교 누리집으로 경기대학안내, 모집안내, 입학안내, 인터넷증명발급, 대학정보공시, 학사정보 등 정보를 제공합니다."
+  },
+  "www.kyungmin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경민대학교",
+    "description": "경민대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사안내, 학생지원, 복지시설안내, 취업정보, 병무안내, 도서관, 사이버홍보, 전산정보센터 등 정보를 제공합니다."
+  },
+  "www.kyungnam.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "경남대학교",
+    "description": "경남대학교 누리집으로 대학소개, 대학/대학원안내, 입학안내, 취업안내, 뉴스/홍보, 인사이트, 수강안내, 학사안내, 장학안내, 교육/지원시설 등 정보를 제공합니다."
+  },
+  "www.mcu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "목포가톨릭대학교",
+    "description": "목포가톨릭대학교 누리집으로 대학소개, 입학정보, 대학기관, 학과안내, 장학, 동아리, 통학버스, 학사안내, 도서관, 취업상담, 후원안내, 총동문회 등 정보를 제공합니다."
+  },
+  "www.mkc.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "문경대학교",
+    "description": "문경대학교 누리집으로 대학정보안내, 입학정보안내, 학과소개, 학칙, 학사안내, 장학안내, 병무정보, 학생기구, 동아리안내, 학생이력관리, 학자금 등 정보를 제공합니다."
+  },
+  "www.mmu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "목포해양대학교",
+    "description": "목포해양대학교 누리집으로 학교소개,입학정보,전공소개,학교소식,대학홍보,학사행정서비스,대학/대학원.대학기구,시설물이용안내,학생활동 등 정보를 제공합니다."
+  },
+  "www.mokwon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "목원대학교",
+    "description": "목원대학교 누리집으로 대학소개, 입학/취업, 대학/대학원, 학사안내, 장학안내, 국제교류, 학과소개, 행사안내, 도서관, 수강신청안내, 학생식당 등 정보를 제공합니다."
+  },
+  "www.msu.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "목포과학대학교",
+    "description": "목포과학대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학생활, 취업창업지원처, 종합정보시스템 등 정보를 제공합니다."
+  },
+  "www.pknu.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "부경대학교",
+    "description": "부경대학교 누리집으로 대학소개, 입학안내, 취업정보, 학생상담센터, 대학/대학원, 학사안내, 수강신청, 학생생활, 연구기관, 산학협력, 자취하숙 등 정보를 제공합니다."
+  },
+  "www.postech.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "포항공과대학교(POSTECH)",
+    "description": "포항공과대학교 영어 누리집으로 학교소개, 입학정보, 대학/대학원, 교육환경, 학사안내, 연구기관, 캠퍼스생활, 장학제도, 복지시설, 학생활동 등 정보를 제공합니다."
+  },
+  "www.sau.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "신안산대학교",
+    "description": "신안산대학교 누리집으로 대학소개, 입학안내, 학과안내, 학사안내, 학생활동안내, 장학금안내, 취업지원안내, 현장학습지원안내, 부속기관안내 등의 정보를 제공합니다."
+  },
+  "www.sc.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "수성대학교",
+    "description": "수성대학교 누리집으로 대학소개, 학과안내, 입학안내, 학사정보, 학사안내, 교원자격증안내, 대학생활안내, 복지시설안내, 기숙사안내, 장학금안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.scu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울기독대학교",
+    "description": "서울기독대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 부속/부설기관안내, 장학안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.sehan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "세한대학교",
+    "description": "세한대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원소개, 학사일정안내, 기숙사안내, 장학안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.sejong.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "세종대학교",
+    "description": "세종대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학/대학원소개, 대학생활안내, 기숙사안내, 장학/학자금융자안내, 취업지원안내, 부설기관안내 등의 정보를 제공합니다."
+  },
+  "www.seojeong.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "서정대학교",
+    "description": "서정대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원소개, 학사일정안내, 기숙사안내, 장학안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.seoularts.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울예술대학교",
+    "description": "서울예술대학교 누리집으로 대학소개, 입학안내, 교육, 지원세터, 대학생활, 커뮤니티, 동랑예술원 등 정보를 제공합니다."
+  },
+  "www.seoyeong.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "서영대학교",
+    "description": "서영대학교 누리집으로 대학소개, 학과안내, 학생취업, 학사정보, 대학생활, 미디어서영, 4년제학사학위과정 등 정보를 제공합니다."
+  },
+  "www.sewu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "숭의여자대학교",
+    "description": "숭의여자대학교 누리집으로 대학소개, 입학안내, 학과소개, 학사안내, 대학생활, 숭의광장 등 정보를 제공합니다."
+  },
+  "www.shingu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "신구대학교",
+    "description": "신구대학교 누리집으로 대학소개, 대학기관, 산학협력단, 학과소개, 학사정보, 학생서비스, 취업정보, 창업지원, 사뢰봉사, 교내어학강좌안내, 입학정보 등 정보를 제공합니다."
+  },
+  "www.shinsung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "신성대학교",
+    "description": "신성대학교 누리집으로 입학안내, 대학소개, 학과소개, 학사일정, 등록안내, 학적안내, 병무안내, 취업/특강지원, 학생단체, 교통안내, 온라인강좌 등 정보를 제공합니다."
+  },
+  "www.smu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "상명대학교",
+    "description": "상명대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원 전공소개, 학사안내, 대학생활안내, 장학금/학자금융자제도안내, 기숙사안내, 취업지원정보안내 등의 정보를 제공합니다."
+  },
+  "www.snjc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울여자간호대학교",
+    "description": "서울여자간호대학교 누리집으로 대학소개, 학과소개, 학사안내, 입학안내, 대학생활안내, 장학안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.sogang.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "서강대학교",
+    "description": "서강대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원 전공소개, 학사안내, 대학생활안내, 장학금/학자금융자제도안내, 기숙사안내, 취업지원정보안내 등의 정보를 제공합니다."
+  },
+  "www.songwon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "송원대학교",
+    "description": "송원대학교 누리집으로 대학소개, 교육, 연구, 입학, 대학생활, 송원광장, 홍보관 등 정보를 제공합니다."
+  },
+  "www.sookmyung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "숙명여자대학교",
+    "description": "숙명여자대학교 누리집으로 학교소개, 입학안내, 대학/대학소개, 학과소개, 부설기관안내, 대학생활안내, 기숙사안내, 장학금안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.sunbokeum.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "순복음대학원대학교",
+    "description": "순복음대학원대학교 누리집으로 학교소개, 입학안내, 학교생할안내, 장학금안내, 학생활동안내, 박사과정지원안내 등의 정보를 제공합니다."
+  },
+  "www.sungkyul.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "성결대학교",
+    "description": "성결대학교 누리집으로 대학소개, 입학안내, 대학/대학원학과안내, 대학생활안내, 복지시설안내, 기숙사안내, 장학금안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "www.sunhakup.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "선학UP대학원대학교",
+    "description": "선학UP대학원대학교 누리집으로 학교소개, 입학안내, 학사시스템, 발전기부금, 목회자양성과정, 진로지원프로그램, 채플자료, 대학자체평가 등 정보를 제공합니다."
+  },
+  "www.sunlin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "선린대학교",
+    "description": "선린대학교 누리집으로 대학소개, 입학안내, 취업정보, 학과소개, 대학생활, 선린광장 등 정보를 제공합니다."
+  },
+  "www.swu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "서울여자대학교",
+    "description": "서울여자대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "www.tw.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "동원대학교",
+    "description": "동원대학교 누리집으로 대학안내, 입학안내, 취업안내, 학과소개, 대학기관, 대학생활, 동원광장 등 정보를 제공합니다."
+  },
+  "www.u1.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "유원대학교",
+    "description": "유원대학교 누리집으로 대학소개, 대학, 대학원, 기관/연구소, 대학생활도우미 등 정보를 제공합니다."
+  },
+  "www.ube.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "국제뇌교육종합대학원대학교",
+    "description": "국제뇌교육종합대학원대학교 누리집으로 학교소개, 입학안내, 학사안내, 학과소개, 게시판, 부설기관, 강의실 등 정보를 제공합니다."
+  },
+  "www.uc.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "울산과학대학교",
+    "description": "울산과학대학교 누리집으로 대학소개, 학부(과)소개, 입학안내, 대학생활, UC광장, 취업정보시스템 등 정보를 제공합니다."
+  },
+  "www.uhs.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "협성대학교",
+    "description": "협성대학교 누리집으로 대학소개, 입학안내, 대학/대학원/연구, 대학생활, 온라인서비스, UHS광장 등 정보를 제공합니다."
+  },
+  "www.ulsan.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "울산대학교",
+    "description": "울산대학교 누리집으로 대학소개, 입학(대학/대학원), 대학/대학원/부속기관, 스마트캠퍼스 등 정보를 제공합니다."
+  },
+  "www.ust.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "과학기술연합대학원대학교",
+    "description": "UST 과학기술연합대학원대학교 누리집으로 UST대학소개, 입학안내, 캠퍼스/정공소개, 학사정보, 전공분야, 병무안내, 학생복지, 장학, 취업정보 등 정보를 제공합니다."
+  },
+  "www.wsu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "우송대학교",
+    "description": "우송대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 커뮤니티우송, 글로벌우송, 우송인, 교직원 등 정보를 제공합니다."
+  },
+  "www.ync.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "영남이공대학교",
+    "description": "영남이공대학교 누리집으로 대학정보, 학사안내, 수업정보, 학습/복지안내, 학생활동, 대학소식, 장학안내, 취업정보시스템, 구내식당메뉴 등 정보를 제공합니다."
+  },
+  "www.yu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "영남대학교",
+    "description": "영남대학교 누리집으로 대학소개, 대학/대학원/교육기관, 연구/산학협력, 대학생활, Y형인재소개, 커뮤니티 등 정보를 제공합니다."
+  },
+  "www.yuhan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "유한대학교",
+    "description": "유한대학교 누리집으로 유한소개, 입학안내, 대학기관, 학과안내, 대학생활, 취업안내, 커뮤니티 등 정보를 제공합니다."
+  },
+  "wwwk.kangwon.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "KNU 강원대학교",
+    "description": "강원대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "yeonsung.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "연성대학교",
+    "description": "연성대학교 누리집으로 대학소개, 입학안내, 홍보센터. 학과안내, 기관안내, 대학생활안내, 학사안내, 복지시설안내, 기숙사안내, 장학제도안내, 취업정보안내 등의 정보를 제공합니다."
+  },
+  "yewon.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "예원예술대학교",
+    "description": "예원예술대학교 누리집으로 대학소개, 입학안내, 학과/대학원홈페이지, 학사일정, 학칙, 장학, 병무안내, 학사종합정보시스템, 취업지원센터 등 정보를 제공합니다."
+  },
+  "yit.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "여주대학교",
+    "description": "여주대학교 누리집으로 학교소개, 학과소개, 학칙, 학사일정, 학사운영규정, 장학금안내, 입학안내, 교내편의시설, 캠퍼스생활, 취업지원센터, 세종생활관 등 정보를 제공합니다."
+  },
+  "yncu.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "영남사이버대학교",
+    "description": "영남사이버대학교 누리집으로 대학소개, 입학안내, 학사일정, 장학안내, 병무안내, 학과소개, 온라인강의체험, 캠퍼스이용안내, 학생지원센터 등 정보를 제공합니다."
+  },
+  "yongin.ac.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "용인대학교",
+    "description": "용인대학교 누리집으로 대학소개, 캠퍼스안내, 입학안내, 대학원, 연구기관, 학사안내, 국제교류, 장학/대출제도, 학생지원서비스, 학생심리상담 등 정보를 제공합니다."
+  },
+  "yonsei.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "연세대학교",
+    "description": "연세대학교 누리집으로 학교소개, 연구/산학, 입학안내, 대학, 대학원, 비학위과정, 부속교육기관, 서비스이용안내, 자치활동, 캠퍼스소개 등 정보를 제공합니다."
+  },
+  "youngsan.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "영산선학대학교",
+    "description": "영산선학대학교 누리집으로 대학소개, 입학안내, 학사안내, 학칙/규정, 대학행정, 대학기관, 영산성지안내, 학교소식, 수업시간표, 간사교우방 등 정보를 제공합니다."
+  },
+  "ysu.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "영산대학교",
+    "description": "영산대학교 누리집으로 학교소개, 입학, 대학, 대학원, 대학생활, 커뮤니티 등 정보를 제공합니다."
+  },
+  "ytus.ac.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "영남신학대학교",
+    "description": "영남신학대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학생활, 커뮤니티&광장 등 정보를 제공합니다."
+  }
+}

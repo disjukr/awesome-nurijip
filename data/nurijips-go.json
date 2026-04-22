@@ -1,16 +1,82 @@
 {
   "$schema": "../schema/generated/nurijip.schema.json",
+  "0404.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "해외안전여행",
+    "description": "해외안전여행 누리집으로 국가별 안전정보, 여행경보, 영사조력, 해외안전 공지 등 정보를 제공합니다."
+  },
+  "110.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "정부민원안내콜센터",
+    "description": "정부민원안내콜센터 누리집으로 정부 민원 전화상담, 채팅상담, 문자상담, 수어상담 등 정보를 제공합니다."
+  },
+  "119.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산소방재난본부",
+    "description": "부산소방재난본부 누리집으로 소방서 안내, 재난안전, 소방 민원, 소방활동 등 정보를 제공합니다."
+  },
+  "119.gg.go.kr/dongducheon": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "동두천소방서",
+    "description": "동두천소방서 누리집으로 소방서 소개, 민원 안내, 재난안전, 소방활동 등 정보를 제공합니다."
+  },
+  "129.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보건복지상담센터",
+    "description": "보건복지상담센터 누리집으로 보건복지 상담, 긴급복지, 복지 지원 안내 등 정보를 제공합니다."
+  },
   "1350.moel.go.kr/home/": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "고용노동부고객상담센터",
     "description": "고용노동부고객상담센터 누리집으로 센터소개, 고용노동부대표번호(1350) 상담안내, FAQ, 모바일상담 등의 정보를 제공합니다."
   },
+  "1365.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 자원봉사센터",
+    "description": "부천시 자원봉사센터 누리집으로 자원봉사 신청, 활동 안내, 실적 조회 등 정보를 제공합니다."
+  },
+  "1365.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청송군종합자원봉사센터",
+    "description": "청송군종합자원봉사센터 누리집으로 자원봉사 신청, 활동 안내, 실적 조회 등 정보를 제공합니다."
+  },
+  "1365.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "1365 자원봉사포털",
+    "description": "1365 자원봉사포털 누리집으로 자원봉사 조회, 신청, 실적 확인, 봉사활동 정보를 제공합니다."
+  },
+  "1398.acrc.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "청렴포털 부패공익신고",
+    "description": "청렴포털 부패공익신고 누리집으로 부패신고, 공익신고, 신고사례 등 정보를 제공합니다."
+  },
   "700.khs.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "국가유산청 칠백의총관리소",
     "description": "국가유산청 국가유산청 국가유산청 칠백의총관리소 누리집으로 관람안내, 행사안내, 관리소 소개, 제향행사 등의 정보를 제공합니다."
+  },
+  "academy.cn119.go.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충청소방학교",
+    "description": "충청소방학교 누리집으로 소방 교육, 교육과정, 입교 안내, 학교 소식 등 정보를 제공합니다."
+  },
+  "academyinfo.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대학알리미",
+    "description": "대학알리미 누리집으로 대학별 공시정보, 주요 지표, 대학 현황 등 정보를 제공합니다."
   },
   "acc.go.kr": {
     "scope": "NATIONAL",
@@ -30,11 +96,41 @@
     "title": "국민권익위원회",
     "description": "『반부패 총괄기관』 국민권익위원회 누리집으로 부패방지, 신고자보호, 고충처리, 행정심판, 제도개선, 국민소통, 위원회 자료, 위원회 소개 등 정보를 제공합니다."
   },
+  "agri.jeju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "제주특별자치도 농업기술원",
+    "description": "제주특별자치도 농업기술원 누리집으로 농업기술, 연구, 교육, 농업정보 등 정보를 제공합니다."
+  },
+  "agrix.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "농림사업정보시스템",
+    "description": "농림사업정보시스템 누리집으로 농림사업 신청, 지원사업 안내, 사업정보 등 정보를 제공합니다."
+  },
+  "agro.seoul.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "서울특별시 농업기술센터",
+    "description": "서울특별시 농업기술센터 누리집으로 도시농업, 농업교육, 기술지원, 센터 소식 등 정보를 제공합니다."
+  },
   "ahi.go.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
     "title": "농식품인재개발원",
     "description": "농식품인재개발원 누리집으로 교육안내, 교육신청/열람, 사이버교육, 교육원소개 등 정보를 제공합니다."
+  },
+  "ahi.nhi.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "농식품인재개발원 나라배움터",
+    "description": "농식품인재개발원 나라배움터 누리집으로 농식품 분야 온라인 교육과 학습 정보를 제공합니다."
+  },
+  "aid.mcee.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "우리동네 기후환경정보",
+    "description": "우리동네 기후환경정보 누리집으로 지역별 기후, 환경, 미세먼지, 수질 등 정보를 제공합니다."
   },
   "air.go.kr": {
     "scope": "NATIONAL",
@@ -42,11 +138,23 @@
     "title": "국가미세먼지정보센터",
     "description": "기후에너지환경부 국가미세먼지정보센터 누리집으로 기관소개, 배출량, 배출원 등의 정보를 제공합니다."
   },
+  "alldam.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청남도 데이터포털 올담",
+    "description": "충청남도 데이터포털 올담 누리집으로 충남 공공데이터, 통계, 데이터 활용 자료 등 정보를 제공합니다."
+  },
   "andong.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경상북도 안동시청",
     "description": "경상북도 안동시청 누리집으로 민원안내, 시민참여, 안동소개, 시정안내, 시정소식, 정보공개, 행정규제개혁, 분야별정보, 재난안전관리, 상하수도 등 정보를 제공합니다."
+  },
+  "animal.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가동물보호정보시스템",
+    "description": "국가동물보호정보시스템 누리집으로 동물등록, 유실·유기동물, 동물보호 정책 등 정보를 제공합니다."
   },
   "ansan.go.kr": {
     "scope": "MUNICIPAL",
@@ -60,6 +168,12 @@
     "title": "경기도 안성시청",
     "description": "경기도 안성시청 누리집으로 민원창구, 시민참여, 시청안내, 안성소식, 정보공개/개방, 생활정보, 문화관광, 평생학습관, 자치법규, 여성회관, 사전정보공표 등 정보를 제공합니다."
   },
+  "anseongcl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "안성시의회",
+    "description": "안성시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "anyang.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -71,6 +185,12 @@
     "role": "PUBLIC_SERVICE",
     "title": "대한민국 아포스티유 서비스",
     "description": "아포스티유 인증서 온라인 신청·발급·검증 서비스 등을 제공"
+  },
+  "apt.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 공동주택 정보나눔터",
+    "description": "부천시 공동주택 정보나눔터 누리집으로 공동주택 관리, 지원사업, 알림 등 정보를 제공합니다."
   },
   "araib.molit.go.kr": {
     "scope": "NATIONAL",
@@ -84,6 +204,12 @@
     "title": "국가기록원",
     "description": "국가기록원 누리집으로 기록관리, 기록정보 콘텐츠, 정보공개/참여마당, 뉴스/소식, 국가기록원 안내 등 정보를 제공합니다."
   },
+  "art.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산시립미술관",
+    "description": "부산시립미술관 누리집으로 전시, 교육행사, 관람 안내, 소장품 등 정보를 제공합니다."
+  },
   "asan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -95,6 +221,12 @@
     "role": "LEGISLATIVE",
     "title": "대한민국 국회",
     "description": "대한민국 국회 누리집으로 국회소개, 국회회의, 국정감사, 위원회, 국회공보, 의원활동, 행사알림, 국회정보서비스, 국회매거진, 국회민원, 의정연수 등 정보를 제공합니다."
+  },
+  "astis.rda.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "농업과학기술정보서비스",
+    "description": "농업과학기술정보서비스 누리집으로 농업과학기술 정보, 영농정보, 과학영농시설 등 정보를 제공합니다."
   },
   "b.nts.go.kr": {
     "scope": "REGIONAL",
@@ -108,11 +240,59 @@
     "title": "감사원",
     "description": "감사원 누리집으로 기관소개, 감사결과, 간행물, 감사제보 안내, 심사청구 안내 등 정보를 제공합니다."
   },
+  "bcmaeul.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 마을공동체",
+    "description": "부천시 마을공동체 누리집으로 마을공동체 사업, 활동 소식, 공모 안내 등 정보를 제공합니다."
+  },
+  "bcsports.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 공공체육시설",
+    "description": "부천시 공공체육시설 누리집으로 체육시설 안내, 프로그램, 예약 등 정보를 제공합니다."
+  },
+  "better.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "규제정보포털",
+    "description": "규제정보포털 누리집으로 규제개혁, 규제 법령, 규제 건의, 개선 사례 등 정보를 제공합니다."
+  },
   "bgnmh.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "국립부곡병원",
     "description": "국립부곡병원(보건복지부 소속 정신의료기관으로 영남권 정신건강 증진과 정신질환자 인권향상을 위한 정신건강서비스 제공) 대표홈페이지로 병원소개, 진료안내, 진료분야, 정신건강사업, 중독바로알기, 정보공개 등 정보를 제공합니다."
+  },
+  "bigdata.epeople.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "민원빅데이터",
+    "description": "민원빅데이터 누리집으로 국민신문고 민원 데이터 분석, 통계, 주요 민원 동향 등 정보를 제공합니다."
+  },
+  "bike.brcn.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보령시 공공자전거",
+    "description": "보령시 공공자전거 누리집으로 공공자전거 이용 안내, 대여소, 이용 현황 등 정보를 제공합니다."
+  },
+  "bike.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 자전거",
+    "description": "부천시 자전거 누리집으로 자전거 정책, 시설, 이용 안내 등 정보를 제공합니다."
+  },
+  "bizinfo.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "기업마당",
+    "description": "기업마당 누리집으로 중소기업 지원사업, 정책정보, 공고, 상담 등 정보를 제공합니다."
+  },
+  "boat.kcg.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "수상레저종합정보",
+    "description": "수상레저종합정보 누리집으로 수상레저 안전, 면허, 교육, 기구 등록 등 정보를 제공합니다."
   },
   "boeun.go.kr": {
     "scope": "MUNICIPAL",
@@ -120,11 +300,41 @@
     "title": "충청북도 보은군청",
     "description": "충청북도 보은군청 누리집으로 e-민원, 열린광장, 산업경제, 생활복지, 보은군소개 등 정보를 제공합니다."
   },
+  "bojo.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보조금통합포털",
+    "description": "보조금통합포털 누리집으로 국고보조금 사업, 교부, 집행, 정산, 부정수급 제보 등 정보를 제공합니다."
+  },
+  "bokjiro.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "복지로",
+    "description": "복지로 누리집으로 복지서비스 검색, 복지급여 신청, 맞춤형 복지정보 등 정보를 제공합니다."
+  },
   "bonghwa.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경상북도 봉화군",
     "description": "경상북도 봉화군 누리집으로 전자민원창구, 정보공개, 행정정보, 주민참여, 군정안내, 봉화소개, 분야별정보, 봉화문화관광 등의 정보를 제공합니다."
+  },
+  "bonghwacouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "봉화군의회",
+    "description": "봉화군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "book.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 e-Book 라이브러리",
+    "description": "부산광역시 e-Book 라이브러리 누리집으로 부산시 발간자료와 전자책을 제공합니다."
+  },
+  "books.nl.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "책이음",
+    "description": "책이음 누리집으로 공공도서관 통합회원, 서비스 안내, 참여 도서관 등 정보를 제공합니다."
   },
   "branch.motie.go.kr": {
     "scope": "NATIONAL",
@@ -132,11 +342,29 @@
     "title": "광업등록사무소",
     "description": "산업통상자원부 광업등록사무소 누리집으로 광업등록 업무 등에 대한 대국민 서비스를 제공합니다."
   },
+  "branch.motir.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EXECUTIVE",
+    "title": "광업등록사무소",
+    "description": "광업등록사무소 누리집으로 광업 등록, 민원 안내, 관련 제도 등 정보를 제공합니다."
+  },
   "brcn.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청남도 보령시청",
     "description": "충청남도 보령시청 누리집으로 정보공개, 소통/참여, 전자민원, 보령소식, 분야별정보, 보령소개 등 정보를 제공합니다."
+  },
+  "brcouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "보령시의회",
+    "description": "보령시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "bs.nec.go.kr": {
+    "scope": "REGIONAL",
+    "role": "INDEPENDENT",
+    "title": "부산광역시선거관리위원회",
+    "description": "부산광역시선거관리위원회 누리집으로 선거정보, 위원회 소식, 공지사항 등 정보를 제공합니다."
   },
   "bsbukgu.go.kr": {
     "scope": "MUNICIPAL",
@@ -162,17 +390,35 @@
     "title": "부산광역시 중구",
     "description": "부산광역시 중구청 누리집으로 전자민원, 구민참여방법안내, 정보공개, 분야별 정보, 중구소개 등의 정보를 제공합니다."
   },
+  "bsmeditour.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "메디투어부산",
+    "description": "메디투어부산 누리집으로 부산 의료관광, 의료기관, 관광 지원 등 정보를 제공합니다."
+  },
   "bsnamgu.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "부산광역시 남구",
     "description": "부산광역시 남구청 누리집으로 민원안내, 참여마당, 열린행정정보공개, 주민복지, 분야별정보, 남구소개 등 정보를 제공합니다."
   },
+  "bspolice.go.kr": {
+    "scope": "REGIONAL",
+    "role": "EXECUTIVE",
+    "title": "부산경찰청",
+    "description": "부산경찰청 누리집으로 경찰청 소개, 치안소식, 민원 안내, 경찰자료 등 정보를 제공합니다."
+  },
   "bsseogu.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "부산광역시 서구",
     "description": "부산광역시 서구청 대표 누리집으로 서구소개, 종합민원안내, 구정 홍보 등의 정보를 제공합니다."
+  },
+  "btis.mpm.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국외출장연수정보시스템",
+    "description": "국외출장연수정보시스템 누리집으로 공무 국외출장 제도, 보고서 검색, 보고서 공동활용 등 정보를 제공합니다."
   },
   "buan.go.kr": {
     "scope": "MUNICIPAL",
@@ -186,6 +432,24 @@
     "title": "경기도 부천시청",
     "description": "경기도 부천시청 누리집으로 참여소통, 종합민원, 정보공개, 부천소식, 부천소개, 분야별정보 등 정보를 제공합니다."
   },
+  "budget.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 주민참여예산",
+    "description": "부천시 주민참여예산 누리집으로 예산 제안, 참여예산 사업, 예산 정보 등 정보를 제공합니다."
+  },
+  "bus-parking.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전광역시 버스전용차로·주차 안내",
+    "description": "대전광역시 버스전용차로·주차 안내 누리집으로 관련 제도, 공영주차장, 감면 신청 등 정보를 제공합니다."
+  },
+  "bus.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군 버스정보시스템",
+    "description": "칠곡군 버스정보시스템 누리집으로 버스 노선, 정류장, 운행 정보 등 정보를 제공합니다."
+  },
   "busan.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
@@ -197,6 +461,12 @@
     "role": "EXECUTIVE",
     "title": "해양수산부 부산지방해양수산청",
     "description": "해양수산부 부산지방해양수산청 누리집으로 기관소개, 항만물류, 해양수산환경, 기관소개 등 정보를 제공합니다."
+  },
+  "busan.scourt.go.kr": {
+    "scope": "REGIONAL",
+    "role": "JUDICIAL",
+    "title": "부산지방법원",
+    "description": "부산지방법원 누리집으로 법원 소개, 재판 안내, 민원 안내, 법원 소식 등 정보를 제공합니다."
   },
   "busanjin.go.kr": {
     "scope": "MUNICIPAL",
@@ -210,11 +480,53 @@
     "title": "충청남도 부여군청",
     "description": "충청남도 부여군청 누리집으로 군정소식, 부여소개, 분야별정보, 문화관광, 공지사항 등 정보를 제공합니다."
   },
+  "buyeonongup.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부여군 농업기술센터",
+    "description": "부여군 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "car365.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "자동차365",
+    "description": "자동차365 누리집으로 자동차 등록, 검사, 매매, 정비, 통합이력 등 정보를 제공합니다."
+  },
+  "carfree.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전광역시 승용차요일제",
+    "description": "대전광역시 승용차요일제 누리집으로 제도 안내, 신청, 참여 혜택 등 정보를 제공합니다."
+  },
+  "case.humanrights.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "인권e",
+    "description": "인권e 누리집으로 국가인권위원회 진정, 상담, 사건 조회 등 정보를 제공합니다."
+  },
+  "cbdye.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청북도단양교육지원청",
+    "description": "충청북도단양교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
   "cbe.go.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
     "title": "충청북도교육청",
     "description": "충청북도교육청 누리집으로 전자민원창구, 정보마당, 교수학습자료실, 채용/시험, 교육청소개 등의 정보를 제공합니다."
+  },
+  "cbgms.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충북 글로벌 마케팅 시스템",
+    "description": "충북 글로벌 마케팅 시스템 누리집으로 충청북도 기업의 수출, 마케팅, 지원사업 정보를 제공합니다."
+  },
+  "cbpolice.go.kr/dy": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "단양경찰서",
+    "description": "단양경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
   },
   "ccourt.go.kr": {
     "scope": "NATIONAL",
@@ -246,17 +558,41 @@
     "title": "경상북도 청도군",
     "description": "경상북도 청도군 누리집으로 전자민원이용안내, 자원봉사안내, 제안/여론수렴안내, 주민복지안내, 생활정보안내, 청도군소개 등의 정보를 제공합니다."
   },
+  "cheongwon.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청원24",
+    "description": "청원24 누리집으로 국민청원, 공개청원, 청원 신청과 처리 현황 등 정보를 제공합니다."
+  },
+  "cheongyang.cn119.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청양소방서",
+    "description": "청양소방서 누리집으로 소방서 소개, 민원 안내, 재난안전, 소방활동 등 정보를 제공합니다."
+  },
   "cheongyang.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청남도 청양군청",
     "description": "충청남도 청양군청 누리집으로 청양소개, 행정정보, 전자민원, 정책참여, 청양골애경사, 군정소식, 보도자료, 고시/공고, 사이버투어, 분야별정보 등 정보를 제공합니다."
   },
+  "childcare.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "임신육아종합포털 아이사랑",
+    "description": "임신육아종합포털 아이사랑 누리집으로 보육, 어린이집, 임신육아 지원 등 정보를 제공합니다."
+  },
   "chilgok.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경상북도 칠곡군청",
     "description": "경상북도 칠곡군 대표 누리집으로 문화관광, 통합예약, 민원참여, 칠곡소식, 행정정보, 칠곡소개, 열린군수실 등 정보를 제공합니다."
+  },
+  "chnam.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청남대",
+    "description": "청남대 누리집으로 관람 안내, 예약, 시설 소개, 행사 등 정보를 제공합니다."
   },
   "chungbuk.go.kr": {
     "scope": "REGIONAL",
@@ -300,11 +636,65 @@
     "title": "축산기술연구소",
     "description": "우수종축 생산 기술 및 정보 소개, 첨단 생명공학 기술 적용 축산 기술 안내"
   },
+  "chungnam.work.go.kr/buyeo": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부여군 일자리종합지원센터",
+    "description": "부여군 일자리종합지원센터 누리집으로 채용정보, 취업지원, 일자리 사업 등 정보를 제공합니다."
+  },
+  "cio-whistleblower.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "고위공직자범죄수사처 익명신고시스템",
+    "description": "고위공직자범죄수사처 익명신고시스템 누리집으로 부패와 범죄 신고, 신고 안내 등 정보를 제공합니다."
+  },
   "cio.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "고위공직자범죄수사처",
     "description": "고위공직자범죄수사처 대표 누리집입니다."
+  },
+  "cityfarm.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 도시농업",
+    "description": "부천시 도시농업 누리집으로 도시농업 교육, 텃밭, 지원사업 등 정보를 제공합니다."
+  },
+  "classicbusan.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산콘서트홀",
+    "description": "부산콘서트홀 누리집으로 공연 일정, 예매, 관람 안내, 시설 소개 등 정보를 제공합니다."
+  },
+  "clean.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "청렴포털",
+    "description": "청렴포털 누리집으로 부패신고, 공익신고, 청렴정책, 신고상담 등 정보를 제공합니다."
+  },
+  "cleanair.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대기환경정보",
+    "description": "대기환경정보 누리집으로 대기질, 대기오염, 미세먼지 등 환경 정보를 제공합니다."
+  },
+  "cleanbudongsan.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부동산거래질서교란행위 신고센터",
+    "description": "부동산거래질서교란행위 신고센터 누리집으로 부동산 불법거래 신고와 관련 정보를 제공합니다."
+  },
+  "cleaneye.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "클린아이",
+    "description": "클린아이 누리집으로 지방공공기관 경영정보, 지방공기업 현황, 재무정보 등 정보를 제공합니다."
+  },
+  "clik.nanet.go.kr": {
+    "scope": "NATIONAL",
+    "role": "LEGISLATIVE",
+    "title": "지방의정포털",
+    "description": "지방의정포털 누리집으로 국회와 지방의회의 의정자료, 회의록, 조례 등 정보를 제공합니다."
   },
   "clip.go.kr": {
     "scope": "NATIONAL",
@@ -396,6 +786,36 @@
     "title": "예산소방서",
     "description": "소방서 누리집으로 민원안내, 열린행정, 증명서 발급, 안전행동요령, 분야별정보 등 정보를 제공"
   },
+  "cnbre.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도보령교육지원청",
+    "description": "충청남도보령교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cnbye.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도부여교육지원청",
+    "description": "충청남도부여교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cncae.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도천안교육지원청",
+    "description": "충청남도천안교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cncyed.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도청양교육지원청",
+    "description": "충청남도청양교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cndje.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도당진교육지원청",
+    "description": "충청남도당진교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
   "cne.go.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -407,6 +827,30 @@
     "role": "EXECUTIVE",
     "title": "창녕군 대표누리집",
     "description": "창녕군 뉴스, 라이프, 여행, 군정 등 안내"
+  },
+  "cngc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "창녕군의회",
+    "description": "창녕군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "cngis.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청공간정보포털",
+    "description": "충청공간정보포털 누리집으로 충청남도 공간정보, 지도 서비스, 주제도 등 정보를 제공합니다."
+  },
+  "cngse.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도금산교육지원청",
+    "description": "충청남도금산교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cnhsed.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도홍성교육지원청",
+    "description": "충청남도홍성교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
   },
   "cnmh.go.kr": {
     "scope": "NATIONAL",
@@ -420,11 +864,251 @@
     "title": "농업기술원",
     "description": "충남의 농업기술정보, 경영정보 및 농업기본통계 등을 제공"
   },
+  "cnnse.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도논산계룡교육지원청",
+    "description": "충청남도논산계룡교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cnpolice.go.kr/SEO/BR": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "충남보령경찰서",
+    "description": "충남보령경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
+  },
+  "cnsce.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도서천교육지원청",
+    "description": "충청남도서천교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cnssed.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도서산교육지원청",
+    "description": "충청남도서산교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cntae.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도태안교육지원청",
+    "description": "충청남도태안교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "cnyse.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "충청남도예산교육지원청",
+    "description": "충청남도예산교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
+  },
+  "committee.archives.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "국가기록관리위원회",
+    "description": "국가기록관리위원회 누리집으로 위원회 소개, 회의자료, 국가기록관리 심의 등 정보를 제공합니다."
+  },
+  "cone.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 건설기술심의위원회 운영관리시스템",
+    "description": "부산광역시 건설기술심의위원회 운영관리시스템 누리집으로 심의 현황, 심의 검색, 위원회 운영 정보를 제공합니다."
+  },
+  "consumer.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "소비자24",
+    "description": "소비자24 누리집으로 상품 비교, 인증, 리콜, 피해구제, 소비자 안전 등 정보를 제공합니다."
+  },
+  "contract.brcn.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보령시 계약정보공개시스템",
+    "description": "보령시 계약정보공개시스템 누리집으로 입찰, 계약 현황, 수의계약 등 정보를 제공합니다."
+  },
+  "contract.bsgangseo.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 강서구 계약정보공개시스템",
+    "description": "부산광역시 강서구 계약정보공개시스템 누리집으로 계약 현황, 입찰, 수의계약 등 정보를 제공합니다."
+  },
+  "contract.cheongyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청양군 계약정보 공개시스템",
+    "description": "청양군 계약정보 공개시스템 누리집으로 입찰, 계약 현황, 수의계약 등 정보를 제공합니다."
+  },
+  "contract.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군 세입세출공개시스템",
+    "description": "칠곡군 세입세출공개시스템 누리집으로 세입, 세출, 계약 관련 공개 정보를 제공합니다."
+  },
+  "contract.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 계약정보공개시스템",
+    "description": "충청북도 계약정보공개시스템 누리집으로 입찰, 계약 현황, 수의계약 등 정보를 제공합니다."
+  },
+  "council.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "부산광역시의회",
+    "description": "부산광역시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.buyeo.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "부여군의회",
+    "description": "부여군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.cheongyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "청양군의회",
+    "description": "청양군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "칠곡군의회",
+    "description": "칠곡군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.chuncheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "춘천시의회",
+    "description": "춘천시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "council.chungnam.go.kr": {
     "scope": "REGIONAL",
     "role": "LEGISLATIVE",
     "title": "충청남도의회",
     "description": "의회소개, 의정활동(위원회활동, 5분발언 등), 조례안 공고, 회의록 공개"
+  },
+  "council.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "청송군의회",
+    "description": "청송군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "대덕구의회",
+    "description": "대덕구의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "대전광역시의회",
+    "description": "대전광역시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.dangjin.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "당진시의회",
+    "description": "당진시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.danyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "단양군의회",
+    "description": "단양군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.ddc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "동두천시의회",
+    "description": "동두천시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.djjunggu.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "대전광역시 중구의회",
+    "description": "대전광역시 중구의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.gb.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "경상북도의회",
+    "description": "경상북도의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.gongju.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "공주시의회",
+    "description": "공주시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.gwangju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "광주광역시의회",
+    "description": "광주광역시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.gwgs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "고성군의회",
+    "description": "고성군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.gyeongnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "경상남도의회",
+    "description": "경상남도의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.hongseong.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "홍성군의회",
+    "description": "홍성군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.ihc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "화천군의회",
+    "description": "화천군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.jeongseon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "정선군의회",
+    "description": "정선군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.sejong.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "세종특별자치시의회",
+    "description": "세종특별자치시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.taean.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "태안군의회",
+    "description": "태안군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.taebaek.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "태백시의회",
+    "description": "태백시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.wonju.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "원주시의회",
+    "description": "원주시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "council.yw.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "영월군의회",
+    "description": "영월군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "councilyesan.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "예산군의회",
+    "description": "예산군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
   },
   "counseling.go.kr": {
     "scope": "NATIONAL",
@@ -450,11 +1134,35 @@
     "title": "청송군청",
     "description": "경상북도 청송군청 누리집으로 청송소개, 열린군정, 알림광장, 전자민원창구, 주민광장, 청송관광, 특산물 등 정보를 제공합니다."
   },
+  "csgeop.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청송 유네스코 세계지질공원",
+    "description": "청송 유네스코 세계지질공원 누리집으로 지질공원 소개, 탐방 안내, 교육, 관광 정보를 제공합니다."
+  },
+  "csong.foresttrip.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청송 자연휴양림",
+    "description": "청송 자연휴양림 누리집으로 휴양림 소개, 시설, 예약, 이용 안내 등 정보를 제공합니다."
+  },
+  "culture.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "문화포털",
+    "description": "문화포털 누리집으로 문화행사, 문화공간, 문화비 소득공제, 문화정보 등 정보를 제공합니다."
+  },
   "customs.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
     "title": "관세청",
     "description": "관세청 누리집으로 관세행정안내, 관세정책, 관세청 소개, 뉴스/소식, 신고센터, 세관 견학 신청 등 정보를 제공합니다.."
+  },
+  "cylib.cne.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청남도청양교육지원청 청양도서관",
+    "description": "청양도서관 누리집으로 도서 검색, 대출, 예약, 추천도서, 도서관 소식 등 정보를 제공합니다."
   },
   "d.nts.go.kr": {
     "scope": "REGIONAL",
@@ -498,6 +1206,18 @@
     "title": "대전시립청소년합창단",
     "description": "대전시립청소년합창단 소개페이지"
   },
+  "daejeon.scourt.go.kr": {
+    "scope": "REGIONAL",
+    "role": "JUDICIAL",
+    "title": "대전지방법원",
+    "description": "대전지방법원 누리집으로 법원 소개, 재판 안내, 전자민원, 소식 등 정보를 제공합니다."
+  },
+  "daejeon.work.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전일자리지원센터",
+    "description": "대전일자리지원센터 누리집으로 채용정보, 취업지원, 일자리 사업 등 정보를 제공합니다."
+  },
   "daesan.mof.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
@@ -515,6 +1235,30 @@
     "role": "EXECUTIVE",
     "title": "방위사업청",
     "description": "방위사업청 누리집으로 방위사업청 소개, 알림/소식, 업무/정책, 정보공개, 민원/참여 등 정보를 제공합니다."
+  },
+  "data.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 빅데이터혁신센터",
+    "description": "부산광역시 빅데이터혁신센터 누리집으로 부산 데이터, 분석, 활용지원 등 정보를 제공합니다."
+  },
+  "data.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 데이터 통합 플랫폼",
+    "description": "충청북도 데이터 통합 플랫폼 누리집으로 충북 공공데이터, 통계, 데이터 활용 정보를 제공합니다."
+  },
+  "data.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기데이터드림",
+    "description": "경기데이터드림 누리집으로 경기도 공공데이터, 지역 데이터, 데이터 활용 정보를 제공합니다."
+  },
+  "data.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "공공데이터포털",
+    "description": "공공데이터포털 누리집으로 공공데이터 검색, 활용신청, 오픈API 등 정보를 제공합니다."
   },
   "ddc.go.kr": {
     "scope": "MUNICIPAL",
@@ -540,11 +1284,35 @@
     "title": "강원 동해시",
     "description": "강원특별자치도 동해시 누리집으로 시민참여, 시정소식, 동해시소개, 전자민원창구, 정보공개/개방, 시민복지, 생활/환경/교육, 도시/건설/교통 등 정보를 제공합니다."
   },
+  "dhcc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "동해시의회",
+    "description": "동해시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "dialogue.unikorea.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
     "title": "남북회담본부",
     "description": "남북회담본부 누리집으로 회담소식, 회담자료실, 남북합의서, 판문점, 조직 및 업무, 정보공개 등 정보를 제공합니다."
+  },
+  "dietary4u.mfds.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "어린이·사회복지급식관리지원센터",
+    "description": "어린이·사회복지급식관리지원센터 누리집으로 급식 위생, 영양관리, 센터 안내 등 정보를 제공합니다."
+  },
+  "dj.nec.go.kr": {
+    "scope": "REGIONAL",
+    "role": "INDEPENDENT",
+    "title": "대전광역시선거관리위원회",
+    "description": "대전광역시선거관리위원회 누리집으로 선거정보, 위원회 소식, 선거관리 현황 등 정보를 제공합니다."
+  },
+  "djdbe.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "대전동부교육지원청",
+    "description": "대전동부교육지원청 누리집으로 교육지원청 소개, 교육소식, 민원, 학교지원 등 정보를 제공합니다."
   },
   "dje.go.kr": {
     "scope": "REGIONAL",
@@ -558,11 +1326,23 @@
     "title": "대전광역시 중구청",
     "description": "대전광역시 중구청 누리집으로 정보공개, 민원·행정, 중구소식, 구민광장, 중구소개 등 정보를 제공합니다."
   },
+  "djpolice.go.kr/djdd": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "대전대덕경찰서",
+    "description": "대전대덕경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
+  },
   "dnc.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "국립대전현충원",
     "description": "국립대전현충원 누리집으로 현충원소개, 안장안내, 묘역/시설현황, 현충탑 참배, 행사안내 등 정보를 제공합니다."
+  },
+  "docu.gdoc.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "문서24",
+    "description": "문서24 누리집으로 민간과 행정·공공기관 사이의 전자문서 제출과 수신 서비스를 제공합니다."
   },
   "donggu.go.kr": {
     "scope": "MUNICIPAL",
@@ -588,6 +1368,42 @@
     "title": "부산광역시 동래구",
     "description": "부산광역시 동래구 누리집으로 전자종합민원처리안내, 생활정보안내, 동래소개, 동래구청안내, 재정공시안내, 문화관광안내 등의 정보를 제공합니다."
   },
+  "dreamstart.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "드림스타트",
+    "description": "드림스타트 누리집으로 아동 통합서비스, 사업 안내, 지역 서비스기관 등 정보를 제공합니다."
+  },
+  "dst.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전사이언스투어",
+    "description": "대전사이언스투어 누리집으로 과학관광 프로그램, 예약, 투어 안내 등 정보를 제공합니다."
+  },
+  "e-gonghun.mpva.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "공훈전자사료관",
+    "description": "공훈전자사료관 누리집으로 독립유공자 공훈자료, 포상자료, 사료 검색 등 정보를 제공합니다."
+  },
+  "e-um.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남서로이음",
+    "description": "충남서로이음 누리집으로 충청남도 온라인 도민소통, 정책 제안, 참여 정보를 제공합니다."
+  },
+  "eais.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대덕구 세움터",
+    "description": "대덕구 세움터 누리집으로 건축행정 민원, 건축물 정보, 건축 인허가 등 정보를 제공합니다."
+  },
+  "eais.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "세움터",
+    "description": "세움터 누리집으로 건축행정 민원, 건축물대장, 인허가, 건축 관련 정보를 제공합니다."
+  },
   "east.forest.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
@@ -600,11 +1416,29 @@
     "title": "동해어업관리단",
     "description": "동해어업관리단 누리집으로 기관소개, 동해어업조정위원회, 공지사항, 보도자료, 불법어업신고, 이달의 금지어종소개 등 정보를 제공합니다."
   },
+  "easylaw.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "찾기 쉬운 생활법령정보",
+    "description": "찾기 쉬운 생활법령정보 누리집으로 생활 분야별 법령, 사례, 쉬운 법령해설 등 정보를 제공합니다."
+  },
   "ecc.mcee.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "중앙환경분쟁조정피해구제위원회",
     "description": "기후에너지환경부 중앙환경분쟁조정피해구제위원회 누리집으로 분쟁 조정 및 신청 안내, 위원회 소개 등의 정보를 제공합니다"
+  },
+  "ecensus.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경제총조사",
+    "description": "경제총조사 누리집으로 경제총조사 안내, 참여, 조사 결과 등 정보를 제공합니다."
+  },
+  "ecopark.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 자연생태공원",
+    "description": "부천시 자연생태공원 누리집으로 공원 소개, 관람 안내, 생태교육, 행사 등 정보를 제공합니다."
   },
   "edu.acrc.go.kr": {
     "scope": "NATIONAL",
@@ -612,11 +1446,59 @@
     "title": "국민권익위원회 청렴연수원",
     "description": "국민권익위원회 청렴연수원 누리집으로 연수원소개, 교육안내, 사이버교육, 학습자료, 시청각자료 등 정보를 제공합니다."
   },
+  "edu.archives.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국가기록원 기록관리교육센터",
+    "description": "국가기록원 기록관리교육센터 누리집으로 기록관리 교육과정, 교육신청, 학습자료 등 정보를 제공합니다."
+  },
+  "edu.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "대덕구 주민자치센터 프로그램",
+    "description": "대덕구 주민자치센터 프로그램 누리집으로 강좌, 교육 프로그램, 신청 안내 등 정보를 제공합니다."
+  },
+  "edu.ddc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "동두천시 평생학습관",
+    "description": "동두천시 평생학습관 누리집으로 평생학습 강좌, 교육 프로그램, 신청 안내 등 정보를 제공합니다."
+  },
+  "edu.ingang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "강남인강",
+    "description": "강남인강 누리집으로 온라인 강의, 학습자료, 수강 안내 등 교육 정보를 제공합니다."
+  },
   "edu.kcga.go.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
     "title": "해양경찰교육원",
     "description": "해양경찰교육원 누리집으로 공지사항, 기관장인사말, 조직도, 찾아오시는 길 등 정보를 제공합니다."
+  },
+  "edu.labs.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "연구실안전교육시스템",
+    "description": "연구실안전교육시스템 누리집으로 연구실 안전교육, 교육 이수, 법정교육 안내 등 정보를 제공합니다."
+  },
+  "efamily.scourt.go.kr": {
+    "scope": "NATIONAL",
+    "role": "JUDICIAL",
+    "title": "전자가족관계등록시스템",
+    "description": "전자가족관계등록시스템 누리집으로 가족관계등록부 발급, 신고, 증명서 안내 등 정보를 제공합니다."
+  },
+  "ehaneul.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "e하늘 장사정보시스템",
+    "description": "e하늘 장사정보시스템 누리집으로 장사시설, 화장예약, 장례정보 등 정보를 제공합니다."
+  },
+  "ehistory.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "e영상역사관",
+    "description": "e영상역사관 누리집으로 정부 영상기록, 사진기록, 역사자료 등 정보를 제공합니다."
   },
   "ehrd.mcee.go.kr": {
     "scope": "NATIONAL",
@@ -624,11 +1506,131 @@
     "title": "국립환경인재개발원",
     "description": "기후에너지환경부 국립환경인재개발원 누리집으로 기관소개, 환경교육안내, 사이버 교육 등의 정보를 제공합니다."
   },
+  "elis.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "자치법규정보시스템",
+    "description": "자치법규정보시스템 누리집으로 지방자치단체 조례, 규칙, 입법예고, 자치법규 검색 정보를 제공합니다."
+  },
+  "eminwon.bonghwa.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "봉화군 전자민원창구",
+    "description": "봉화군 전자민원창구 누리집으로 민원 신청, 고시공고, 민원 안내 등 정보를 제공합니다."
+  },
+  "eminwon.brcn.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보령시 새올전자민원창구",
+    "description": "보령시 새올전자민원창구 누리집으로 민원 신청, 행정처분 공개, 민원 안내 등 정보를 제공합니다."
+  },
+  "eminwon.bsgangseo.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 강서구 전자민원창구",
+    "description": "부산광역시 강서구 전자민원창구 누리집으로 민원 신청, 고시공고, 민원 안내 등 정보를 제공합니다."
+  },
+  "eminwon.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군 새올전자민원창구",
+    "description": "칠곡군 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "eminwon.cng.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "창녕군 새올전자민원창구",
+    "description": "창녕군 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "eminwon.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청송군 새올전자민원창구",
+    "description": "청송군 새올전자민원창구 누리집으로 민원 신청, 공개상담, 민원 안내 등 정보를 제공합니다."
+  },
+  "eminwon.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대덕구 새올전자민원창구",
+    "description": "대덕구 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "eminwon.danyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "단양군 새올전자민원창구",
+    "description": "단양군 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "eminwon.ddc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "동두천시 새올전자민원창구",
+    "description": "동두천시 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "eminwon.djjunggu.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전 중구 새올전자민원창구",
+    "description": "대전 중구 새올전자민원창구 누리집으로 민원 신청, 민원 안내, 행정정보 공개 등 정보를 제공합니다."
+  },
+  "emsit.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "과학기술정보통신부 전자민원센터",
+    "description": "과학기술정보통신부 전자민원센터 누리집으로 전자민원 신청, 서식, 처리 안내 등 정보를 제공합니다."
+  },
+  "eng.scourt.go.kr": {
+    "scope": "NATIONAL",
+    "role": "JUDICIAL",
+    "title": "대한민국 법원 영문 누리집",
+    "description": "대한민국 법원 영문 누리집으로 사법부 소개, 법원 안내, 재판 제도 등 정보를 제공합니다."
+  },
+  "english.moe.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EXECUTIVE",
+    "title": "교육부 영문 누리집",
+    "description": "교육부 영문 누리집으로 교육부 소개, 정책, 보도자료, 교육정보 등 영문 정보를 제공합니다."
+  },
   "ep.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "서울특별시 은평구",
     "description": "서울특별시 은평구 대표 누리집으로 민원안내, 구민참여, 열린행정, 소식알림, 은평소개, 분야별정보, 맞춤복지 등 정보를 제공합니다."
+  },
+  "epeople.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민신문고",
+    "description": "국민신문고 누리집으로 민원신청, 국민제안, 정책참여, 신고 등 정보를 제공합니다."
+  },
+  "epost.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "인터넷우체국",
+    "description": "인터넷우체국 누리집으로 우편, 택배, EMS, 우표, 우체국 쇼핑 등 정보를 제공합니다."
+  },
+  "eprivacy.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "개인정보 포털",
+    "description": "개인정보 포털 누리집으로 개인정보 침해신고, 분쟁조정, 개인정보 열람청구 등 정보를 제공합니다."
+  },
+  "eshare.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "공유누리",
+    "description": "공유누리 누리집으로 공공개방자원 검색, 예약, 이용 안내 등 정보를 제공합니다."
+  },
+  "etax.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 사이버지방세청",
+    "description": "부산광역시 사이버지방세청 누리집으로 지방세 신고, 납부, 조회 등 정보를 제공합니다."
+  },
+  "factoryon.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "팩토리온",
+    "description": "팩토리온 누리집으로 공장설립, 산업단지, 공장 정보, 민원 서비스 등 정보를 제공합니다."
   },
   "fao.forest.go.kr": {
     "scope": "NATIONAL",
@@ -636,11 +1638,47 @@
     "title": "산림항공본부",
     "description": "산림항공본부 누리집으로 기관장소개, 조직/직원, 항공본부소식, 민원센터 등 정보를 제공합니다."
   },
+  "farm.asan.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "아산시 농업기술센터",
+    "description": "아산시 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "farm.cheongyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청양군 농업기술센터",
+    "description": "청양군 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "farm.hongseong.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "홍성군 농업기술센터",
+    "description": "홍성군 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "farm.seocheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "서천군 농업기술센터",
+    "description": "서천군 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "farmer.rda.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "농업인안전365",
+    "description": "농업인안전365 누리집으로 농업인 안전보건, 예방교육, 연구, 통계 등 정보를 제공합니다."
+  },
   "fez.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
     "title": "경제자유구역기획단",
     "description": "산업통상자원부 경제자유구역기획단 누리집으로 경제자유구역(KFEZ)소개, KFEZ도전의 역사, 한국의 투자매력 등 정보를 제공합니다."
+  },
+  "foodsafetykorea.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "식품안전나라",
+    "description": "식품안전나라 누리집으로 식품안전 정보, 식품 민원, 위해식품, 회수 정보 등 정보를 제공합니다."
   },
   "forest.go.kr": {
     "scope": "NATIONAL",
@@ -648,11 +1686,23 @@
     "title": "산림청",
     "description": "산림청 누리집으로 산림청 소개, 행정/정책, 분야별 산림정보, 휴양/문화 등 정보를 제공합니다."
   },
+  "foresttrip.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "숲나들e",
+    "description": "숲나들e 누리집으로 자연휴양림, 숲길, 산림휴양 예약과 이용 안내 정보를 제공합니다."
+  },
   "fotilms.forest.go.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
     "title": "산림교육원",
     "description": "산림청 산림교육원 누리집으로 교육과정, 산림교육원소식, 산림교육원소개 등 정보를 제공합니다."
+  },
+  "freetour.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "네바퀴로 떠나는 충북여행",
+    "description": "네바퀴로 떠나는 충북여행 누리집으로 충청북도 무장애 관광, 여행지, 코스 등 정보를 제공합니다."
   },
   "fsc.go.kr": {
     "scope": "NATIONAL",
@@ -671,6 +1721,12 @@
     "role": "PUBLIC_SERVICE",
     "title": "재외동포365 민원포털",
     "description": "재외국민을 위한 온라인 민원포탈. △재외국민등록부등본 및 해외이주신고확인서 신청·발급, △여권 재발급 신청, △재외공관 방문예약, △민원 처리현황 확인, △주요 민원서식의 8개 외국어 번역본, △국가별 구비서류 및 신청방법 맞춤형 안내 등의 서비스를 제공"
+  },
+  "gachi.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 가치자람",
+    "description": "충청북도 가치자람 누리집으로 임신, 출산, 육아 정책과 맞춤형 서비스 정보를 제공합니다."
   },
   "gangbuk.go.kr": {
     "scope": "MUNICIPAL",
@@ -696,11 +1752,23 @@
     "title": "강릉시",
     "description": "강원특별자치도 강릉시청 누리집으로 강릉시소개, 전자민원, 예산낭비신고센터, 정책토론, 구인구직, 생활정보, 유기동물보호센터, 시정안내, 강릉웹진 등 정보를 제공합니다."
   },
+  "gasarang.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "가사랑",
+    "description": "가사랑 누리집으로 정부인증 가사서비스, 제공기관, 이용 안내 등 정보를 제공합니다."
+  },
   "gb.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
     "title": "경상북도",
     "description": "경상북도 누리집으로 전자민원처리안내, 행정정보안내, 무료법률상담, 도정소식안내, 경북소개, 분야별생활정보 등의 정보를 제공합니다."
+  },
+  "gb.nec.go.kr": {
+    "scope": "REGIONAL",
+    "role": "INDEPENDENT",
+    "title": "경상북도선거관리위원회",
+    "description": "경상북도선거관리위원회 누리집으로 선거정보, 위원회 소식, 선거관리 현황 등 정보를 제공합니다."
   },
   "gb119.go.kr": {
     "scope": "REGIONAL",
@@ -714,17 +1782,35 @@
     "title": "경북소방학교",
     "description": "경상북도 소방학교 홈페이지로 \"학교소개, 교육안내, 소방자료실, 포토갤러리\" 등의 정보를 제공합니다."
   },
+  "gba.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경상북도농업기술원",
+    "description": "경상북도농업기술원 누리집으로 농업기술, 연구, 교육, 농업정보 등 정보를 제공합니다."
+  },
   "gbgs.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경상북도 경산시",
     "description": "경상북도 경산시 누리집으로 경산소개, 행정정보, 시민참여, 민원안내, 정책실명제, 주민전산교육, 경산시버스정보시스템, 국민체육센터, 경산지리정보포털 등 정보를 제공합니다."
   },
+  "gbis.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기버스정보",
+    "description": "경기버스정보 누리집으로 경기도 버스 노선, 정류장, 실시간 운행 정보 등 정보를 제공합니다."
+  },
   "gbmo.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "행정안전부 정부청사관리본부",
     "description": "행정안전부 정부청사관리본부 누리집으로 청사소개, 주요행사안내, 민원신청, 청사관리법령, 기관소개 등 정보를 제공합니다."
+  },
+  "gbpolice.go.kr/cg": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "칠곡경찰서",
+    "description": "칠곡경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
   },
   "gc.go.kr": {
     "scope": "MUNICIPAL",
@@ -780,17 +1866,47 @@
     "title": "충청남도 금산군",
     "description": "충청남도 금산군청 누리집으로 민원마당, 참여마당, 열린행정, 생활/복지, 산업/경제, 우리금산 등 정보를 제공합니다."
   },
+  "geumsancouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "금산군의회",
+    "description": "금산군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "gg.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
     "title": "경기도청",
     "description": "경기도 누리집으로 뉴스, 민원, 정보공개, 소통참여, 분야별 정보, 경기도 소개 등 정보를 제공합니다."
   },
+  "gg.nec.go.kr": {
+    "scope": "REGIONAL",
+    "role": "INDEPENDENT",
+    "title": "경기도선거관리위원회",
+    "description": "경기도선거관리위원회 누리집으로 선거정보, 위원회 소식, 선거관리 현황 등 정보를 제공합니다."
+  },
+  "gg24.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기민원24",
+    "description": "경기민원24 누리집으로 경기도 민원 신청, 행정서비스, 처리 안내 등 정보를 제공합니다."
+  },
+  "ggbpolice.go.kr/ddc": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "동두천경찰서",
+    "description": "동두천경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
+  },
   "ggc.go.kr/site/main/home": {
     "scope": "REGIONAL",
     "role": "LEGISLATIVE",
     "title": "경기도 의회",
     "description": "경기도 의회 누리집으로 개방, 공유, 소통, 혁신 등 정보를 제공합니다."
+  },
+  "gift.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 고향사랑기부제",
+    "description": "부천시 고향사랑기부제 누리집으로 기부 안내, 답례품, 참여 방법 등 정보를 제공합니다."
   },
   "gijang.go.kr": {
     "scope": "MUNICIPAL",
@@ -810,17 +1926,47 @@
     "title": "경기도 김포시청",
     "description": "경기도 김포시청 누리집으로 전자민원, 시민참여, 복지정보, 생활정보, 경제정보, 김포소개 등 정보를 제공합니다."
   },
+  "gis.gwangju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광주광역시 스마트도시분석포털",
+    "description": "광주광역시 스마트도시분석포털 누리집으로 도시 데이터, 지도, 공간분석 정보를 제공합니다."
+  },
   "gjcity.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경기도 광주시청",
     "description": "경기도 광주시 누리집으로 광주소개, 종합민원안내, 시민복지서비스안내, 시민안전제도안내, 각종생활정보소개, 시민교육정보안내, 축제/문화제/관광/특산물/문화제/레저스포츠 정보안내 등의 정보를 제공합니다."
   },
+  "gjpolice.go.kr/bb": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "광주북부경찰서",
+    "description": "광주북부경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
+  },
   "gm.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경기도 광명시청",
     "description": "경기도 광명시 누리집으로 민원, 참여마당, 생활복지, 행정정보, 광명소개 등 정보를 제공합니다."
+  },
+  "gnares.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경상남도농업기술원",
+    "description": "경상남도농업기술원 누리집으로 농업기술, 연구, 교육, 농업정보 등 정보를 제공합니다."
+  },
+  "gncl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "강릉시의회",
+    "description": "강릉시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "gnpolice.go.kr/cn": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "창녕경찰서",
+    "description": "창녕경찰서 누리집으로 경찰서 소개, 민원 안내, 치안 소식 등 정보를 제공합니다."
   },
   "gochang.go.kr": {
     "scope": "MUNICIPAL",
@@ -858,6 +2004,12 @@
     "title": "충청남도 공주시",
     "description": "충청남도 공주시 누리집으로 민원안내, 열린행정, 시정소식, 공주소개, 분야별정보 등 정보를 제공합니다."
   },
+  "goodprice.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "착한가격업소",
+    "description": "착한가격업소 누리집으로 착한가격업소 검색, 제도 안내, 지역별 업소 정보 등 정보를 제공합니다."
+  },
   "goryeong.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -881,6 +2033,18 @@
     "role": "EXECUTIVE",
     "title": "경기도 가평군청",
     "description": "경기도 가평군 누리집으로 참여군저, 전자민원, 행정정보, 산업경제, 생활복지, 가평소개 등 정보를 제공합니다."
+  },
+  "greendaero.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "그린대로",
+    "description": "그린대로 누리집으로 귀농귀촌 정책, 농촌 빈집, 교육, 상담 등 정보를 제공합니다."
+  },
+  "gris.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기부동산포털",
+    "description": "경기부동산포털 누리집으로 경기도 부동산, 토지, 건축물, 지도 정보를 제공합니다."
   },
   "gugak.go.kr": {
     "scope": "NATIONAL",
@@ -924,11 +2088,23 @@
     "title": "전라남도 구례군청",
     "description": "전라남도 구례군청 누리집으로 정보공개, 민원창구, 참여마당, 행정정보, 생활정보, 산업경제, 구례소개, 문화관광 등 정보를 제공합니다."
   },
+  "gvs.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기도동물위생시험소",
+    "description": "경기도동물위생시험소 누리집으로 동물위생, 가축방역, 시험검사, 민원 안내 등 정보를 제공합니다."
+  },
   "gwanak.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "서울특별시 관악구",
     "description": "서울특별시 관악구청 누리집으로 통합민원포털, 구민참여, 행정정보, 복지경제, 문화관광, 관악구소개 등 정보를 제공합니다."
+  },
+  "gwanbo.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대한민국 전자관보",
+    "description": "대한민국 전자관보 누리집으로 관보 검색, 전자관보 열람, 고시·공고 등 정보를 제공합니다."
   },
   "gwangjin.go.kr": {
     "scope": "MUNICIPAL",
@@ -942,11 +2118,23 @@
     "title": "광주광역시",
     "description": "광주광역시 누리집으로 시민 소통 참여, 시정소식, 정보공개, 광주소개, 분야별생활정보안내 등의 정보를 제공합니다."
   },
+  "gwangju.work.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광주일자리종합센터",
+    "description": "광주일자리종합센터 누리집으로 채용정보, 취업지원, 일자리 사업 등 정보를 제공합니다."
+  },
   "gwangsan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "광주광역시 광산구",
     "description": "광주광역시 광산구 누리집으로 광산구소개, 구정정보제공, 전자종합민원안내, 동행정복지센터 등의 정보를 제공합니다."
+  },
+  "gwangup.motir.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광업업무시스템",
+    "description": "광업업무시스템 누리집으로 광업 관련 민원, 조회, 등록 업무 등 정보를 제공합니다."
   },
   "gwangyang.go.kr": {
     "scope": "MUNICIPAL",
@@ -959,6 +2147,12 @@
     "role": "EDUCATION",
     "title": "강원특별자치도교육청",
     "description": "강원특별자치도교육청 누리집으로 참여·제안마당, 민원, 행·재정정보, 뉴스·소식, 학생·학부모, 학교교육, 마을교육공동체, 교육청소개 등의 정보를 제공합니다."
+  },
+  "gyeonggi.work.go.kr/dongducheon": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "동두천시 일자리센터",
+    "description": "동두천시 일자리센터 누리집으로 채용정보, 취업지원, 일자리 사업 등 정보를 제공합니다."
   },
   "gyeongju.go.kr": {
     "scope": "MUNICIPAL",
@@ -977,6 +2171,12 @@
     "role": "EXECUTIVE",
     "title": "충청남도 계룡시",
     "description": "충청남도 계룡시 누리집으로 계룡시소개, 전자민원처리안내, 행정정보안내, 무료정보화교육, 평생교육안내, 생활정보안내, 교통정보안내, 복지안내 등의 정보를 제공합니다."
+  },
+  "gyeyak.danyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "단양군 계약정보공개시스템",
+    "description": "단양군 계약정보공개시스템 누리집으로 입찰, 계약 현황, 수의계약 등 정보를 제공합니다."
   },
   "gyeyang.go.kr": {
     "scope": "MUNICIPAL",
@@ -1014,11 +2214,23 @@
     "title": "국립한글박물관",
     "description": "박물관 소식, 전시정보 안내 및 교육 등 참여형 콘텐츠 신청"
   },
+  "hccouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "홍천군의회",
+    "description": "홍천군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "hcs.khs.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "현충사관리소",
     "description": "국가유산청 현충사관리소 누리집으로 관리소 소개, 관람안내, 충무공 자료실 등 정보를 제공합니다."
+  },
+  "health.kdca.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가건강정보포털",
+    "description": "국가건강정보포털 누리집으로 질병, 건강생활, 건강정보, 예방정보 등 정보를 제공합니다."
   },
   "hi.simpan.go.kr": {
     "scope": "NATIONAL",
@@ -1026,11 +2238,41 @@
     "title": "건강보험분쟁조정위원회 대표 누리집",
     "description": "건강보험분쟁조정위원회 대표누리집으로 건강보험분쟁조정위원회 소개 및 심판청구 대상, 절차, 방법 등의 정보를 제공합니다."
   },
+  "history.archives.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가기록원 역사기록",
+    "description": "국가기록원 역사기록 누리집으로 역사기록, 주제별 기록콘텐츠, 기록자료 등 정보를 제공합니다."
+  },
+  "homedu.use.go.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "울산광역시교육청 홈에듀민원서비스",
+    "description": "울산광역시교육청 홈에듀민원서비스 누리집으로 교육 민원, 증명서 발급, 민원 안내 등 정보를 제공합니다."
+  },
+  "hometax.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국세청 홈택스",
+    "description": "국세청 홈택스 누리집으로 세금 신고, 납부, 민원증명, 연말정산 등 서비스를 제공합니다."
+  },
   "hongseong.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청남도 홍성군청",
     "description": "충청남도 홍성군청 누리집으로 홍성소개, 정보공개/개방, 종합민원안내, 신고센터, 군정참여, 주민감사청구, 정책토론, 군정소식, 재정정보, 법무행정 등 정보를 제공합니다."
+  },
+  "hotline.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기도 공익제보 핫라인",
+    "description": "경기도 공익제보 핫라인 누리집으로 공익제보, 부패신고, 신고 처리 안내 등 정보를 제공합니다."
+  },
+  "housing.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기주거복지포털",
+    "description": "경기주거복지포털 누리집으로 주거복지, 공공임대주택, 전세피해지원, 주거비 지원 정보를 제공합니다."
   },
   "hrd.customs.go.kr": {
     "scope": "NATIONAL",
@@ -1043,6 +2285,18 @@
     "role": "EDUCATION",
     "title": "농촌진흥청 농촌인적자원개발센터",
     "description": "농촌진흥청 직원 및 농업인, 농업관련 종사자들에게 농업기술 역량강화 및 자기계발을 위한 이러닝 동영상 콘텐츠를 제공합니다."
+  },
+  "hrd.seed.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립종자원 국제종자생명교육센터",
+    "description": "국립종자원 국제종자생명교육센터 누리집으로 종자 생명 교육, 교육과정, 교육신청 등 정보를 제공합니다."
+  },
+  "hrdb.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "인사혁신처 국민추천제",
+    "description": "인사혁신처 국민추천제 누리집으로 공직 후보자 추천, 제도 안내, 추천 현황 등 정보를 제공합니다."
   },
   "hrfco.go.kr": {
     "scope": "REGIONAL",
@@ -1110,11 +2364,29 @@
     "title": "인천광역시 중구청",
     "description": "인천광역시 중구 누리집으로 정보공개제도안내, 주민제안방참여안내, 종함민원신청안내, 중구소개, 분야별생활정보안내, 문화관광안내 등의 정보를 제공합니다."
   },
+  "idea.epeople.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민생각함",
+    "description": "국민생각함 누리집으로 정책 제안, 국민참여, 토론, 설문 등 정보를 제공합니다."
+  },
+  "idolbom.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "아이돌봄서비스",
+    "description": "아이돌봄서비스 누리집으로 아이돌봄 신청, 이용 안내, 지원사업 등 정보를 제공합니다."
+  },
   "ihc.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "강원특별자치도 화천군",
     "description": "강원특별자치도 화천군 누리집으로 전자민원이용안내, 자원봉사안내, 제안/여론수렴안내, 주민복지안내, 생활정보안내, 화천군소개 등의 정보를 제공합니다."
+  },
+  "ilovegohyang.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "고향사랑e음",
+    "description": "고향사랑e음 누리집으로 고향사랑기부, 답례품, 지방자치단체 정보 등 서비스를 제공합니다."
   },
   "immigration.go.kr": {
     "scope": "NATIONAL",
@@ -1127,6 +2399,12 @@
     "role": "EXECUTIVE",
     "title": "전북특별자치도 임실군",
     "description": "전북특별자치도 임실군 누리집으로 전자종합민원안내, 군정안내, 문화관광안.산업경제안내, 임실소개 등의 정보를 제공합니다."
+  },
+  "imsm.kcg.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "해상구조종합정보",
+    "description": "해상구조종합정보 누리집으로 해양 구조, 안전, 관련 정보 등 서비스를 제공합니다."
   },
   "in.nts.go.kr": {
     "scope": "REGIONAL",
@@ -1146,17 +2424,71 @@
     "title": "해양수산부 인천지방해양수산청",
     "description": "해양수산부 인천지방해양수산청 누리집으로 민원이용안내, 항해안전정보, 통계자료, 항만현황, 해양환경 등 정보를 제공합니다."
   },
+  "injecl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "인제군의회",
+    "description": "인제군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "innovation.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "정부혁신24",
+    "description": "정부혁신24 누리집으로 정부혁신 정책, 사례, 자료, 소식 등 정보를 제공합니다."
+  },
+  "ins24.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "재난보험24",
+    "description": "재난보험24 누리집으로 재난안전의무보험 조회, 가입 확인, 보험 안내 등 정보를 제공합니다."
+  },
   "intro.cheongju.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청북도 청주시청",
     "description": "충청북도 청주시청 누리집으로 전자민원, 시민참여, 시정소식, 분야별정보, 청주소개 등 정보를 제공합니다."
   },
+  "ips.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민비서",
+    "description": "국민비서 누리집으로 생활 알림, 행정정보 알림, 상담, 개인 맞춤형 안내 서비스를 제공합니다."
+  },
+  "iros.go.kr": {
+    "scope": "NATIONAL",
+    "role": "JUDICIAL",
+    "title": "인터넷등기소",
+    "description": "인터넷등기소 누리집으로 부동산 등기, 법인 등기, 등기열람, 발급 등 정보를 제공합니다."
+  },
+  "irts.molit.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부동산거래 전자계약시스템",
+    "description": "부동산거래 전자계약시스템 누리집으로 부동산 전자계약 작성, 조회, 안내 등 서비스를 제공합니다."
+  },
+  "its.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 교통정보서비스센터",
+    "description": "부산광역시 교통정보서비스센터 누리집으로 교통상황, 도로, 버스, 교통정보 등 정보를 제공합니다."
+  },
+  "itv.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충북인터넷방송",
+    "description": "충북인터넷방송 누리집으로 충청북도 영상뉴스, 도정 영상, 홍보 콘텐츠 등 정보를 제공합니다."
+  },
   "j.nts.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
     "title": "중부지방국세청",
     "description": "중부지방국세청 누리집으로 지방국세청 소개, 주요뉴스, 민원증명발급, 공지사항 등 정보를 제공합니다."
+  },
+  "jaenan.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군 재난안전대책본부",
+    "description": "칠곡군 재난안전대책본부 누리집으로 재난안전, 상황 안내, 행동요령 등 정보를 제공합니다."
   },
   "jangseong.go.kr": {
     "scope": "MUNICIPAL",
@@ -1230,6 +2562,12 @@
     "title": "전북특별자치도 진안군청",
     "description": "전북특별자치도 진안군 누리집으로 my진안, 전자민원, 정보공개, 소통참여, 진안복지, 분야별정보, 전북소개 등 의 정보를 제공합니다."
   },
+  "jinbolib.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청송군립진보공공도서관",
+    "description": "청송군립진보공공도서관 누리집으로 도서 검색, 대출, 도서관 행사, 이용 안내 등 정보를 제공합니다."
+  },
   "jincheon.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -1248,6 +2586,12 @@
     "title": "진주시 대표 누리집",
     "description": "진주시청 대표 누리집"
   },
+  "jinsil.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "진실·화해를위한과거사정리위원회",
+    "description": "진실·화해를위한과거사정리위원회 누리집으로 위원회 소개, 조사신청, 결정자료 등 정보를 제공합니다."
+  },
   "jje.go.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -1259,6 +2603,12 @@
     "role": "EDUCATION",
     "title": "전라남도교육청",
     "description": "전라남도교육청 누리집으로 참여민원, 행정정보, 교육정보, 교육정책, 기관소개 등 정보를 제공합니다."
+  },
+  "job.cleaneye.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "클린아이 잡플러스",
+    "description": "클린아이 잡플러스 누리집으로 지방공공기관 채용정보, 기관정보, 채용공고 등 정보를 제공합니다."
   },
   "jongno.go.kr": {
     "scope": "MUNICIPAL",
@@ -1272,17 +2622,59 @@
     "title": "충청북도 증평군청",
     "description": "충청북도 증평군청 누리집으로 증평소개, 군정시책, 전자민원, 신고센터, 복합민원사전심사, 군정소식, 정책포럼, 군청안내, 관내주요기관 등 정보를 제공합니다."
   },
+  "jumin.mois.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "주민등록 인구통계",
+    "description": "주민등록 인구통계 누리집으로 주민등록 인구, 세대, 연령별·지역별 통계 등 정보를 제공합니다."
+  },
+  "juminegov.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "주민e직접",
+    "description": "주민e직접 누리집으로 주민조례청구, 주민투표, 주민소환, 주민감사청구 등 주민참여 정보를 제공합니다."
+  },
+  "juso.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "주소정보누리집",
+    "description": "주소정보누리집으로 도로명주소 검색, 주소정보 안내, 주소 데이터 등 정보를 제공합니다."
+  },
   "k-arm.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "첨단재생의료포털",
     "description": "첨단재생의료사무국의 대표 누리집으로 첨단재생의료 및 첨단바이오 의약품 심의위원회 및 사무국 소개, 제도소개 등 정보를 제공합니다."
   },
+  "k-pis.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "e나라재산 국유재산 포털",
+    "description": "e나라재산 국유재산 포털 누리집으로 국유재산 통계, 일반현황, 지도서비스 등 정보를 제공합니다."
+  },
+  "k-startup.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "K-Startup",
+    "description": "K-Startup 누리집으로 창업지원사업, 공고, 교육, 멘토링 등 정보를 제공합니다."
+  },
+  "kahis.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가가축방역통합시스템",
+    "description": "국가가축방역통합시스템 누리집으로 가축전염병 발생 현황, 방역 정보, 축산 관련 통계 등 정보를 제공합니다."
+  },
   "kasa.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
     "title": "우주항공청",
     "description": "우주항공청 누리집으로 기관소개, 뉴스, 정책, 법령 등의 정보를 제공합니다."
+  },
+  "kasem.safekorea.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국민안전교육플랫폼",
+    "description": "국민안전교육플랫폼 누리집으로 생애주기별 안전교육, 안전체험, 교육자료 등 정보를 제공합니다."
   },
   "kats.go.kr": {
     "scope": "NATIONAL",
@@ -1319,6 +2711,12 @@
     "role": "EXECUTIVE",
     "title": "국가유산청",
     "description": "국가유산청 누리집으로, 국가유산청 소개, 궁궐·종묘, 조선왕릉, 유네스코 등재유산 정보 등을 제공합니다."
+  },
+  "kics.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "형사사법포털",
+    "description": "형사사법포털 누리집으로 사건 조회, 벌과금 조회, 민원 신청, 형사사법 절차 안내 등 정보를 제공합니다."
   },
   "kmcc.go.kr": {
     "scope": "NATIONAL",
@@ -1368,11 +2766,65 @@
     "title": "우정사업본부",
     "description": "우정사업본부 누리집으로 우편서비스, 금융서비스, 우정사업본부소개, 우편번호검색, 우체국 위치검색, 국내우편/국제우편 요금조회, 배송조회, 우체국이용안내 등의 정보를 제공합니다."
   },
+  "koreaub.cs.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "항일의병기념공원",
+    "description": "항일의병기념공원 누리집으로 공원 소개, 전시, 관람 안내, 역사 자료 등 정보를 제공합니다."
+  },
   "korec.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "전기위원회",
     "description": "기후에너지환경부 전기위원회 누리집으로 전기사업 허가, 전력구조정책, 전기요금 조정 및 체제 개편, 소비자 권익보호 등 정보를 제공합니다."
+  },
+  "kosaf.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국장학재단",
+    "description": "한국장학재단 누리집으로 국가장학금, 학자금대출, 인재육성 지원 등 정보를 제공합니다."
+  },
+  "kostat.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EXECUTIVE",
+    "title": "통계청",
+    "description": "통계청 누리집으로 통계정책, 통계자료, 보도자료, 조사 안내 등 정보를 제공합니다."
+  },
+  "kras.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 부동산정보 통합 열람",
+    "description": "충청북도 부동산정보 통합 열람 누리집으로 토지, 건축물, 부동산 관련 정보를 제공합니다."
+  },
+  "kras.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청남도 부동산정보 통합 열람",
+    "description": "충청남도 부동산정보 통합 열람 누리집으로 토지, 건축물, 부동산 관련 정보를 제공합니다."
+  },
+  "kras.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전광역시 부동산정보 통합 열람",
+    "description": "대전광역시 부동산정보 통합 열람 누리집으로 토지, 건축물, 부동산 관련 정보를 제공합니다."
+  },
+  "kras.gg.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경기도 부동산정보 통합 열람",
+    "description": "경기도 부동산정보 통합 열람 누리집으로 토지, 건축물, 부동산 관련 정보를 제공합니다."
+  },
+  "kras.gyeongnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경상남도 부동산정보 통합 열람",
+    "description": "경상남도 부동산정보 통합 열람 누리집으로 토지, 건축물, 부동산 관련 정보를 제공합니다."
+  },
+  "kri.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국연구자정보",
+    "description": "한국연구자정보 누리집으로 연구자 정보, 연구업적, 연구자 검색 등 정보를 제공합니다."
   },
   "ktc.go.kr": {
     "scope": "NATIONAL",
@@ -1385,6 +2837,150 @@
     "role": "PUBLIC_SERVICE",
     "title": "KTV국민방송",
     "description": "한국정책방송원 대표 누리집으로 정책뉴스, 정책/공공, 문화/교양, 정책이슈 등 정보를 제공합니다."
+  },
+  "laiis.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "내고장알리미",
+    "description": "내고장알리미 누리집으로 지방자치단체 주요 정보, 행정정보, 지역 통계 등 정보를 제공합니다."
+  },
+  "law.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가법령정보센터",
+    "description": "국가법령정보센터 누리집으로 법령, 판례, 행정규칙, 자치법규 등 정보를 제공합니다."
+  },
+  "lawmaking.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민참여입법센터",
+    "description": "국민참여입법센터 누리집으로 입법예고, 행정예고, 법령안 의견 제출 등 정보를 제공합니다."
+  },
+  "learning.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "부천시 평생학습센터",
+    "description": "부천시 평생학습센터 누리집으로 평생학습 강좌, 교육기관, 학습동아리 등 정보를 제공합니다."
+  },
+  "lib.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 사이버도서관",
+    "description": "충청북도 사이버도서관 누리집으로 도서 검색, 전자자료, 도서관 안내 등 정보를 제공합니다."
+  },
+  "lib.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남도청 e-book 자료관",
+    "description": "충남도청 e-book 자료관 누리집으로 충청남도 발간자료와 전자책을 제공합니다."
+  },
+  "lib.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대덕구 복합문화센터·도서관",
+    "description": "대덕구 복합문화센터·도서관 누리집으로 도서 검색, 시설 안내, 문화행사, 이용 안내 등 정보를 제공합니다."
+  },
+  "lib.ddc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "동두천시 도서관",
+    "description": "동두천시 도서관 누리집으로 도서 검색, 대출, 도서관 행사, 이용 안내 등 정보를 제공합니다."
+  },
+  "lib.gyeongnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경남대표도서관",
+    "description": "경남대표도서관 누리집으로 도서 검색, 전자자료, 도서관 행사, 이용 안내 등 정보를 제공합니다."
+  },
+  "librarian.nl.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국립중앙도서관 사서지원서비스",
+    "description": "국립중앙도서관 사서지원서비스 누리집으로 사서 교육, 월드라이브러리, 도서관 업무 지원 정보를 제공합니다."
+  },
+  "library.bsgangseo.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 강서구 도서관",
+    "description": "부산광역시 강서구 도서관 누리집으로 도서관 안내, 자료검색, 문화행사 등 정보를 제공합니다."
+  },
+  "library.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 도서관포털",
+    "description": "부산광역시 도서관포털 누리집으로 도서관 안내, 자료 검색, 대출, 문화행사 등 정보를 제공합니다."
+  },
+  "library.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군립도서관",
+    "description": "칠곡군립도서관 누리집으로 자료 검색, 대출, 도서관 행사, 이용 안내 등 정보를 제공합니다."
+  },
+  "library.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남도서관",
+    "description": "충남도서관 누리집으로 도서 검색, 전자자료, 문화행사, 이용 안내 등 정보를 제공합니다."
+  },
+  "library.gwd.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "강원특별자치도의회 자료실",
+    "description": "강원특별자치도의회 자료실 누리집으로 의정자료, 도서자료, 자료실 이용 안내 등 정보를 제공합니다."
+  },
+  "libsta.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가도서관통계시스템",
+    "description": "국가도서관통계시스템 누리집으로 도서관 통계, 현황, 조사자료 등 정보를 제공합니다."
+  },
+  "livecouncil.gwd.go.kr": {
+    "scope": "REGIONAL",
+    "role": "LEGISLATIVE",
+    "title": "강원특별자치도의회 인터넷방송",
+    "description": "강원특별자치도의회 인터넷방송 누리집으로 본회의, 위원회, 의정 영상 등 정보를 제공합니다."
+  },
+  "lll.bsgangseo.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "부산광역시 강서구 평생학습",
+    "description": "부산광역시 강서구 평생학습 누리집으로 평생학습 강좌, 학습동아리, 교육정보 등 정보를 제공합니다."
+  },
+  "lll.cheongyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "청양군 평생학습관",
+    "description": "청양군 평생학습관 누리집으로 평생학습 강좌, 교육 프로그램, 학습 안내 등 정보를 제공합니다."
+  },
+  "lll.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "대덕구 평생학습",
+    "description": "대덕구 평생학습 누리집으로 평생학습 강좌, 교육 프로그램, 학습 안내 등 정보를 제공합니다."
+  },
+  "local.gosi.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "지방자치단체 인터넷원서접수센터",
+    "description": "지방자치단체 인터넷원서접수센터 누리집으로 지방공무원 시험 원서접수, 시험공고, 합격자 조회 등 정보를 제공합니다."
+  },
+  "lofin365.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "지방재정365",
+    "description": "지방재정365 누리집으로 지방재정 통계, 재정공시, 지방재정 정보 등 정보를 제공합니다."
+  },
+  "lost112.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경찰청 유실물 종합관리시스템",
+    "description": "경찰청 유실물 종합관리시스템 누리집으로 분실물 신고, 습득물 조회, 유실물 안내 등 정보를 제공합니다."
+  },
+  "love.seoul.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "서울사랑",
+    "description": "서울사랑 누리집으로 서울특별시 시정소식, 생활정보, 문화정보, 월간지 자료 등 정보를 제공합니다."
   },
   "mafra.go.kr": {
     "scope": "NATIONAL",
@@ -1403,6 +2999,12 @@
     "role": "EXECUTIVE",
     "title": "해양수산부 마산지방해양수산청",
     "description": "해양수산부 마산지방해양수산청 누리집으로 기관소개, 항만시설현황, 항만이용안내, 선원해사안전, 항만건설, 어항건설, 해양수산환경, 항로표지 등 정보를 제공합니다."
+  },
+  "mayor.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "부천시장실",
+    "description": "부천시장실 누리집으로 시장 인사말, 공약, 시정활동, 열린시장실 등 정보를 제공합니다."
   },
   "mcee.go.kr": {
     "scope": "NATIONAL",
@@ -1464,6 +3066,18 @@
     "title": "문화체육관광부",
     "description": "문화체육관광부 누리집으로 문체부 소개, 주요 정책, 보도자료, 문화예술 공연/지역축제 등 정보를 제공합니다."
   },
+  "me.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EXECUTIVE",
+    "title": "기후에너지환경부",
+    "description": "기후에너지환경부 누리집으로 부처 소개, 정책, 알림, 보도자료 등 정보를 제공합니다."
+  },
+  "mentalhealth.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가정신건강정보포털",
+    "description": "국가정신건강정보포털 누리집으로 정신건강 정보, 자가검진, 치료기관 등 정보를 제공합니다."
+  },
   "mfds.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
@@ -1476,11 +3090,23 @@
     "title": "인천광역시 미추홀구청",
     "description": "인천광역시 미추홀구 누리집으로 행정소식, 재정현황, 미추홀구통계, 정보공개, 주민참여, 민원안내 등 정보를 제공합니다."
   },
+  "midongsan.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "미동산수목원",
+    "description": "미동산수목원 누리집으로 수목원 소개, 관람 안내, 교육, 공지사항 등 정보를 제공합니다."
+  },
   "minimumwage.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "최저임금위원회",
     "description": "최저임금위원회 누리집으로 최저임금위원회소개, 최저임금제도안내, 위원회활동, 최저임금액현황, 최저임금관계법령 등 정보를 제공합니다."
+  },
+  "minwon.moel.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "고용노동부 민원마당",
+    "description": "고용노동부 민원마당 누리집으로 노동 민원 신청, 상담, 신고, 처리 안내 등 정보를 제공합니다."
   },
   "miryang.go.kr": {
     "scope": "MUNICIPAL",
@@ -1578,6 +3204,12 @@
     "title": "해양수산부 목포지방해양수산청",
     "description": "목포지방해양수산청 누리집으로 여객/안전, 항만정보, 항만/어항건설, 항로표지, 해양수산환경, 민원바다, 알림마당, 정보공개 기관소개 등 정보를 제공합니다."
   },
+  "moleg.go.kr": {
+    "scope": "NATIONAL",
+    "role": "EXECUTIVE",
+    "title": "법제처",
+    "description": "법제처 누리집으로 법제정책, 법령해석, 생활법령, 보도자료 등 정보를 제공합니다."
+  },
   "mpb.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
@@ -1614,6 +3246,12 @@
     "title": "중소벤처기업부 대표 누리집",
     "description": "중소벤처기업부 기관 대표 누리집"
   },
+  "mtrace.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "축산물이력제",
+    "description": "축산물이력제 누리집으로 축산물 이력 조회, 사육·도축·유통 이력 정보 등 정보를 제공합니다."
+  },
   "muan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -1632,11 +3270,29 @@
     "title": "전북특별자치도 무주군",
     "description": "전북특별자치도 무주군 누리집으로 알림마당, 종합민원, 참여마당, 열린군정, 분야별정보, 정보공개, 전북소개 등 의 정보를 제공합니다."
   },
+  "museum.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산시립박물관",
+    "description": "부산시립박물관 누리집으로 전시, 교육, 관람 안내, 소장자료 등 정보를 제공합니다."
+  },
   "museum.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "국립중앙박물관",
     "description": "국립중앙박물관 누리집으로 관람정보, 예약예매안내, 교육안내, 문화행사, 소장품검색 등 정보를 제공합니다."
+  },
+  "mybudget.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민참여예산",
+    "description": "국민참여예산 누리집으로 예산 제안, 참여예산 사업, 예산 정보 등 서비스를 제공합니다."
+  },
+  "myhome.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "마이홈포털",
+    "description": "마이홈포털 누리집으로 공공주택, 주거복지, 임대주택 모집, 주거 지원 정보를 제공합니다."
   },
   "naa.go.kr": {
     "scope": "NATIONAL",
@@ -1686,6 +3342,24 @@
     "title": "국립정신건강센터 대표누리집",
     "description": "국립정신건강센터 대표 누리집으로 센터 소개, 센터 소식, 진료 안내, 정신건강정보 등을 제공합니다."
   },
+  "ncpms.rda.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가농작물병해충관리시스템",
+    "description": "국가농작물병해충관리시스템 누리집으로 농작물 병해충 검색, 예찰, 방제 정보 등 정보를 제공합니다."
+  },
+  "ncs.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가직무능력표준",
+    "description": "국가직무능력표준 누리집으로 직무능력표준, 학습모듈, 공정채용, 직무 정보 등을 제공합니다."
+  },
+  "nct.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가트라우마센터",
+    "description": "국가트라우마센터 누리집으로 재난 정신건강, 트라우마 교육, 자료, 지원정보 등 정보를 제공합니다."
+  },
   "ndisc.mnd.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
@@ -1715,6 +3389,18 @@
     "role": "EDUCATION",
     "title": "교육부 중앙교육연수원",
     "description": "교육부 소속기관 중앙교육연수원 누리집으로 교육과정 안내 및 수강신청, 연수자료 등의 정보를 제공합니다."
+  },
+  "newjijuk.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "지적재조사",
+    "description": "지적재조사 누리집으로 지적재조사 사업, 절차, 자료, 관련 정보 등 정보를 제공합니다."
+  },
+  "news.cne.go.kr": {
+    "scope": "REGIONAL",
+    "role": "EDUCATION",
+    "title": "충남교육소식",
+    "description": "충남교육소식 누리집으로 충청남도교육청 보도자료, 교육뉴스, 알림 등 정보를 제공합니다."
   },
   "nfa.go.kr": {
     "scope": "NATIONAL",
@@ -1830,6 +3516,12 @@
     "title": "농촌진흥청 국립원예특작과학원",
     "description": "농촌진흥청 국립원예특작과학원 누리집으로 원예작물 및 특용작물에 대한 정보공개, 농업기술정보, 연구성과, 생활원예, 텃밭가꾸기, 실내정원, 옥상정원, 치유농업, 버섯정보, 전자민원, 과학원 소개 등 정보를 제공합니다."
   },
+  "nip.kdca.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "예방접종도우미",
+    "description": "예방접종도우미 누리집으로 예방접종 일정, 접종내역, 이상반응, 예방접종 정보 등 서비스를 제공합니다."
+  },
   "nirs.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
@@ -1884,11 +3576,29 @@
     "title": "국가기상위성센터",
     "description": "국가기상위성센터의 누리집으로 천리안위성2A호 영상조회, 위성자료 서비스, 국가기상위성센터 소개 등 정보를 제공합니다."
   },
+  "nongsaro.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "농사로",
+    "description": "농사로 누리집으로 농업기술, 작목정보, 주간농사정보, 농업교육 등 정보를 제공합니다."
+  },
+  "nongup.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 농업기술센터",
+    "description": "부산광역시 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
   "nonsan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청남도 논산시",
     "description": "충청남도 논산시 누리집으로 민원/소통/참여, 시민/복지, 생활/환경/위생, 산업/경제, 정책/행정, 논산소개 등 정보를 제공합니다."
+  },
+  "nonsancl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "논산시의회",
+    "description": "논산시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
   },
   "north.forest.go.kr": {
     "scope": "REGIONAL",
@@ -1901,6 +3611,12 @@
     "role": "PUBLIC_SERVICE",
     "title": "경찰병원",
     "description": "경찰병원 누리집으로 진료안내, 의학건강정보, 병원소개, 병원소식 등 정보를 제공합니다."
+  },
+  "npo.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 공익활동지원센터",
+    "description": "부천시 공익활동지원센터 누리집으로 시민사회 공익활동, 지원사업, 교육, 소식 등 정보를 제공합니다."
   },
   "nrc.go.kr": {
     "scope": "NATIONAL",
@@ -1944,11 +3660,47 @@
     "title": "충청북도 옥천군청",
     "description": "충청북도 옥천군청 누리집으로 정보공개, 전자민원, 주민참여, 군정소식, 청정옥천, 분야별정보 등 정보를 제공합니다."
   },
+  "ocjh.oc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "옥천군장학회",
+    "description": "옥천군장학회 누리집으로 장학사업, 장학생 선발, 장학금, 재단 소식 등 정보를 제공합니다."
+  },
   "oclt.molit.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "중앙토지수용위원회",
     "description": "국토교통부 중앙토지수용위원회 누리집으로 위원회소개, 주요업무, 직원현황, 행정심판안내, 토지수용제도 등의 정보를 제공합니다."
+  },
+  "ojeong.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "경기도 부천시 오정구",
+    "description": "경기도 부천시 오정구 누리집으로 구정 안내, 민원, 생활정보, 소식 등 정보를 제공합니다."
+  },
+  "ok.danyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "단양군평생학습관",
+    "description": "단양군평생학습관 누리집으로 평생학습 강좌, 교육 프로그램, 신청 안내 등 정보를 제공합니다."
+  },
+  "open.assembly.go.kr": {
+    "scope": "NATIONAL",
+    "role": "LEGISLATIVE",
+    "title": "열린국회정보",
+    "description": "열린국회정보 누리집으로 국회 정보공개, 의안, 회의록, 국회의원 정보 등 데이터를 제공합니다."
+  },
+  "open.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "정보공개포털",
+    "description": "정보공개포털 누리집으로 정보공개청구, 사전정보공표, 원문정보 등 서비스를 제공합니다."
+  },
+  "openfiscaldata.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "열린재정",
+    "description": "열린재정 누리집으로 국가재정 정보, 예산, 결산, 재정통계, 재정용어 등 정보를 제공합니다."
   },
   "opm.go.kr": {
     "scope": "NATIONAL",
@@ -1962,11 +3714,29 @@
     "title": "경기도 오산시청",
     "description": "경기도 오산시청 누리집으로 시정소식, 시정일정, 민원안내, 지방세, 사회복지, 행정규제/신고센터, 선거인명부조회, 오산소개, 자매결연도시 등 정보를 제공합니다."
   },
+  "osmb.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "중소기업 옴부즈만",
+    "description": "중소기업 옴부즈만 누리집으로 중소기업 규제개선, 애로신고, 제도개선 등 정보를 제공합니다."
+  },
   "osong.mohw.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "오송생명과학단지지원센터 대표누리집",
     "description": "오송생명과학단지지원센터 대표누리집으로서 민원신청과 오송생명과학단지 및 오송행정타운 안내정보를 제공합니다."
+  },
+  "ospermit.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "제한차량 인터넷 운행허가 시스템",
+    "description": "제한차량 인터넷 운행허가 시스템 누리집으로 제한차량 운행허가 신청, 조회, 제도 안내 등 정보를 제공합니다."
+  },
+  "ova.nec.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "재외선거 신고·신청 시스템",
+    "description": "재외선거 신고·신청 시스템 누리집으로 재외선거 신고, 신청, 선거인명부 등 서비스를 제공합니다."
   },
   "pa.go.kr": {
     "scope": "NATIONAL",
@@ -1980,6 +3750,36 @@
     "title": "경기도 파주시청",
     "description": "경기도 파주시청 누리집으로 파주소개, 정책토론, 시민제안, 교육강좌, 일자리센터, 민원안내, 여권발급안내, 고시공고, 파주시보, 도정소식 등 정보를 제공합니다."
   },
+  "parking.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전광역시 주차안내 시스템",
+    "description": "대전광역시 주차안내 시스템 누리집으로 공영주차장, 주차요금, 감면 신청 등 정보를 제공합니다."
+  },
+  "parkingsms.brcn.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보령시 주정차 문자알림 서비스",
+    "description": "보령시 주정차 문자알림 서비스 누리집으로 주정차 단속 문자알림 신청과 이용 안내를 제공합니다."
+  },
+  "parkingsms.cng.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "창녕군 주정차단속 문자알림 서비스",
+    "description": "창녕군 주정차단속 문자알림 서비스 누리집으로 주정차 단속 문자알림 신청과 이용 안내를 제공합니다."
+  },
+  "party.nec.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "중앙선거관리위원회 정당·정치자금 정보시스템",
+    "description": "중앙선거관리위원회 정당·정치자금 정보시스템 누리집으로 정당, 후원회, 정치자금 관련 정보를 제공합니다."
+  },
+  "passport.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "외교부 여권안내",
+    "description": "외교부 여권안내 누리집으로 여권 신청, 발급, 재발급, 수수료 등 정보를 제공합니다."
+  },
   "pc.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -1991,6 +3791,12 @@
     "role": "EDUCATION",
     "title": "부산광역시교육청",
     "description": "부산광역시교육청 누리집으로 교육청안내, 교육재정 등 각종 정보공개, 교육청소식, 부산교육뉴스, 채용/시험정보, 전입학안내, 민원신청 및 신고센터 운영 등 정보를 제공합니다."
+  },
+  "photo.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충북도청 사진DB",
+    "description": "충북도청 사진DB 누리집으로 충청북도 사진자료, 도정 기록, 홍보 이미지 등 정보를 제공합니다."
   },
   "phrdi.go.kr": {
     "scope": "NATIONAL",
@@ -2028,6 +3834,12 @@
     "title": "국토교통부 철도특별사법경찰대",
     "description": "국토교통부 철도특별사법경찰대 누리집으로 주요업무, 조직 및 업무, 전자민원신청 등 정보를 제공합니다."
   },
+  "portal.simpan.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "행정심판포털",
+    "description": "행정심판포털 누리집으로 행정심판 청구, 사건조회, 재결례 등 정보를 제공합니다."
+  },
   "pps.go.kr": {
     "scope": "NATIONAL",
     "role": "EXECUTIVE",
@@ -2039,6 +3851,36 @@
     "role": "EXECUTIVE",
     "title": "대한민국 대통령실",
     "description": "대한민국 대통령실 누리집으로 대통령실 소식, 국정과제, 국민제안 등 정보를 제공합니다."
+  },
+  "prism.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "정책연구관리시스템",
+    "description": "정책연구관리시스템 누리집으로 정책연구 과제, 연구보고서, 연구관리 정보 등을 제공합니다."
+  },
+  "privacy.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "개인정보 포털",
+    "description": "개인정보 포털 누리집으로 개인정보 보호, 침해신고, 열람청구, 교육, 자료 등 정보를 제공합니다."
+  },
+  "puac.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "민주평화통일자문회의",
+    "description": "민주평화통일자문회의 누리집으로 자문회의 소개, 활동 소식, 평화통일 정책 자료 등 정보를 제공합니다."
+  },
+  "pubhealth.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시보건소",
+    "description": "부천시보건소 누리집으로 보건사업, 진료, 예방접종, 건강정보 등 정보를 제공합니다."
+  },
+  "public.maru.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청북도 도민생활지도",
+    "description": "충청북도 도민생활지도 누리집으로 생활시설, 공공서비스, 지도 기반 지역 정보를 제공합니다."
   },
   "pyeongtaek.go.kr": {
     "scope": "MUNICIPAL",
@@ -2052,11 +3894,23 @@
     "title": "해양수산부 평택지방해양수산청",
     "description": "평택지방해양수산청 누리집으로 기관소개, 항만정보, 선원/해사/안전 등 정보를 제공합니다."
   },
+  "qcheck.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청남도 공공시설 감면서비스",
+    "description": "충청남도 공공시설 감면서비스 누리집으로 공공시설 이용 감면 자격 확인과 신청 정보를 제공합니다."
+  },
   "radar.kma.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "기상레이더센터",
     "description": "기상레이더센터 누리집으로 레이더, 낙뢰영상 및 레이더 관련정보, 기상레이더 센터 관련 정보를 제공합니다."
+  },
+  "radseafoodsafety.mfds.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "수입 수산물 국민신청 방사능 검사",
+    "description": "수입 수산물 국민신청 방사능 검사 누리집으로 검사 신청, 검사 결과, 수산물 안전 정보를 제공합니다."
   },
   "rda.go.kr": {
     "scope": "NATIONAL",
@@ -2069,6 +3923,18 @@
     "role": "PUBLIC_SERVICE",
     "title": "중앙119구조본부",
     "description": "중앙119구조본부 누리집"
+  },
+  "reserve.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산광역시 통합예약",
+    "description": "부산광역시 통합예약 누리집으로 강좌, 교육, 시설, 견학 예약 등 정보를 제공합니다."
+  },
+  "reunion.unikorea.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "이산가족정보통합시스템",
+    "description": "이산가족정보통합시스템 누리집으로 이산가족 찾기, 신청, 교류지원, 관련 자료를 제공합니다."
   },
   "royal.khs.go.kr": {
     "scope": "NATIONAL",
@@ -2088,6 +3954,12 @@
     "title": "주민등록번호변경위원회 누리집",
     "description": "주민등록번호변경의원회 누리집으로 행정안전부 소속, 주민등록번호 변경 제도 및 절차 안내, 서식 제공 등정보를 제공합니다"
   },
+  "rtms.molit.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부동산거래관리시스템",
+    "description": "부동산거래관리시스템 누리집으로 부동산 거래 신고, 주택 임대차 신고, 신고 이력 등 정보를 제공합니다."
+  },
   "s.nts.go.kr": {
     "scope": "REGIONAL",
     "role": "EXECUTIVE",
@@ -2105,6 +3977,54 @@
     "role": "EXECUTIVE",
     "title": "새만금개발청",
     "description": "새만금 개발청 누리집으로 새만금 소개, 새만금 기본계획, 투자 정보, 문화/관광/교통, 새만금 소식, 새만금청 소개 등 정보를 제공합니다."
+  },
+  "safe.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 안전",
+    "description": "부천시 안전 누리집으로 재난안전, 생활안전, 안전신고, 행동요령 등 정보를 제공합니다."
+  },
+  "safe.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충청남도 재난안전포털",
+    "description": "충청남도 재난안전포털 누리집으로 재난상황, 안전정보, 행동요령, 재난안전 자료를 제공합니다."
+  },
+  "safe119.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충북안전체험관",
+    "description": "충북안전체험관 누리집으로 안전체험 프로그램, 예약, 시설 안내 등 정보를 제공합니다."
+  },
+  "safe182.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "안전Dream",
+    "description": "안전Dream 누리집으로 실종아동 예방, 지문 사전등록, 신고, 보호자 지원 등 정보를 제공합니다."
+  },
+  "safekorea.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국민재난안전포털",
+    "description": "국민재난안전포털 누리집으로 재난안전 정보, 행동요령, 안전신고, 재난문자 등 정보를 제공합니다."
+  },
+  "safemap.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "생활안전지도",
+    "description": "생활안전지도 누리집으로 생활안전, 재난안전, 시설안전 등 지도 기반 정보를 제공합니다."
+  },
+  "safetv.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "안전한TV",
+    "description": "안전한TV 누리집으로 재난안전, 사고예방, 행동요령, 안전교육 영상 정보를 제공합니다."
+  },
+  "safetyreport.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "안전신문고",
+    "description": "안전신문고 누리집으로 생활 속 안전신고, 불법주정차 신고, 안전 제안 등 서비스를 제공합니다."
   },
   "samcheok.go.kr": {
     "scope": "MUNICIPAL",
@@ -2136,11 +4056,35 @@
     "title": "서울특별시 성북구청",
     "description": "서울특별시 성북구청 누리집으로 편리한민원, 구민참여마당, 열린행정정보, 마을/생활정보, 교육/복지/인권, 성북구소개 등 정보를 제공합니다."
   },
+  "scc.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "서산시의회",
+    "description": "서산시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "sccl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "삼척시의회",
+    "description": "삼척시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "school.cbe.go.kr/danyang-h": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "단양고등학교",
+    "description": "단양고등학교 누리집으로 학교 소개, 학교 소식, 교육활동, 공지사항 등 정보를 제공합니다."
+  },
   "science.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
     "title": "과학기술정보통신부 국립중앙과학관",
     "description": "과학기술정보통신부 국립중앙과학관 누리집으로 과학관안내, 전시관안내, 행사/특별전시안내, 경진대회, 교육정보, 예약안내 등의 정보를 제공합니다."
+  },
+  "scouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "서천군의회",
+    "description": "서천군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
   },
   "scourt.go.kr": {
     "scope": "NATIONAL",
@@ -2171,6 +4115,18 @@
     "role": "EXECUTIVE",
     "title": "세종특별자치시",
     "description": "세종특별자치시 대표누리집"
+  },
+  "sejong.go.kr/adtc.do": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "세종특별자치시 농업기술센터",
+    "description": "세종특별자치시 농업기술센터 누리집으로 농업기술, 교육, 지원사업, 농업정보 등 정보를 제공합니다."
+  },
+  "sems.air.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대기배출원관리시스템",
+    "description": "대기배출원관리시스템 누리집으로 대기배출원 자료, 사업장 관리, 관련 업무 등 정보를 제공합니다."
   },
   "sen.go.kr": {
     "scope": "REGIONAL",
@@ -2214,17 +4170,53 @@
     "title": "서울특별시",
     "description": "서울특별시 대표 누리집으로로 서울소개, 뉴스/소식, 시민참여, 전자민원응답소, 정보소통광장, 분야별정보 등 정보를 제공합니다."
   },
+  "sexoffender.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "성범죄자 알림e",
+    "description": "성범죄자 알림e 누리집으로 성범죄자 신상정보 열람, 고지, 제도 안내 등 정보를 제공합니다."
+  },
+  "sgis.kostat.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "통계지리정보서비스",
+    "description": "통계지리정보서비스 누리집으로 통계지도, 지역 통계, 정책통계지도 등 정보를 제공합니다."
+  },
+  "share.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "공유누리",
+    "description": "공유누리 누리집으로 공공개방자원 검색, 예약, 이용 안내 등 서비스를 제공합니다."
+  },
+  "sihe.seoul.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "서울특별시 보건환경연구원",
+    "description": "서울특별시 보건환경연구원 누리집으로 시험검사, 연구사업, 보건환경 정보 등 정보를 제공합니다."
+  },
   "siheung.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "경기도 시흥시청",
     "description": "경기도 시흥시청 누리집으로 시흥시소개, 시정백서, 부동산포털, 행정정보공개, 자치법규, 동주민센터안내, 시흥통계, 공익신고센터, 시설대관신청 등 정보를 제공합니다."
   },
+  "simpan.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "중앙행정심판위원회",
+    "description": "중앙행정심판위원회 누리집으로 행정심판 제도, 청구 안내, 재결례 등 정보를 제공합니다."
+  },
   "simsa.mpva.go.kr": {
     "scope": "NATIONAL",
     "role": "INDEPENDENT",
     "title": "보훈심사위원회",
     "description": "보훈심사위원회 누리집으로 위원회 소개, 소식, 보훈심사제도, 심사단계 등 정보를 제공합니다."
+  },
+  "sinmungo.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "규제개혁신문고",
+    "description": "규제개혁신문고 누리집으로 규제 건의, 규제개선 과제, 처리현황 등 정보를 제공합니다."
   },
   "sj.go.kr": {
     "scope": "MUNICIPAL",
@@ -2238,6 +4230,48 @@
     "title": "세종특별자치시교육청",
     "description": "세종특별자치시교육청 누리집으로 교육청안내, 신설학교, 전편입학안내, 학교현황, 학구안내, 교육소식, 교원업무표준매뉴얼, 학부모서비스, 방과후학교 등 정보를 제공합니다."
   },
+  "smartair.daedeok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대덕구 미세먼지 센서 지도",
+    "description": "대덕구 미세먼지 센서 지도 누리집으로 대기질, 미세먼지 측정, 지도 기반 환경 정보를 제공합니다."
+  },
+  "smartcity.chungju.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충주시 스마트시티 서비스",
+    "description": "충주시 스마트시티 서비스 누리집으로 주차, CCTV, 기상정보 등 도시 서비스를 제공합니다."
+  },
+  "smes.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "중소벤처24",
+    "description": "중소벤처24 누리집으로 중소벤처기업 민원, 증명서 발급, 지원사업 안내와 신청 서비스를 제공합니다."
+  },
+  "smpp.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "중소기업제품 공공구매 종합정보망",
+    "description": "중소기업제품 공공구매 종합정보망 누리집으로 공공구매 제도, 제품 정보, 실적 조회 등 정보를 제공합니다."
+  },
+  "snsports.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 생활체육시설",
+    "description": "부천시 생활체육시설 누리집으로 체육시설 안내, 프로그램, 이용 정보 등 정보를 제공합니다."
+  },
+  "sokchocl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "속초시의회",
+    "description": "속초시의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
+  "solomon.lawnorder.go.kr/dj": {
+    "scope": "MUNICIPAL",
+    "role": "EDUCATION",
+    "title": "솔로몬로파크",
+    "description": "솔로몬로파크 누리집으로 법교육 체험, 관람 안내, 교육 프로그램, 시설 정보를 제공합니다."
+  },
   "songpa.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -2249,6 +4283,12 @@
     "role": "PUBLIC_SERVICE",
     "title": "국립소록도병원",
     "description": "국립소록도병원 누리집으로 병원소개, 진료서비스, 간호서비스, 생활지원서비스 등 정보를 제공합니다."
+  },
+  "sosa.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "경기도 부천시 소사구",
+    "description": "경기도 부천시 소사구 누리집으로 구정 안내, 민원, 생활정보, 소식 등 정보를 제공합니다."
   },
   "south.forest.go.kr": {
     "scope": "REGIONAL",
@@ -2273,6 +4313,30 @@
     "role": "EXECUTIVE",
     "title": "대검찰청",
     "description": "대검찰청 누리집으로 검찰 발표 자료, 통계자료, 국정감사, 알기 쉬운 법률정보, 검찰 주요 활동 등 정보를 제공합니다."
+  },
+  "sports.cheongyang.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "청양군 공공체육시설",
+    "description": "청양군 공공체육시설 누리집으로 체육시설 안내, 이용 예약, 프로그램 등 정보를 제공합니다."
+  },
+  "srmc.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "위성전파감시센터",
+    "description": "위성전파감시센터 누리집으로 위성전파 감시, 전파관리, 센터 소개 등 정보를 제공합니다."
+  },
+  "stat.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 통계",
+    "description": "부천시 통계 누리집으로 인구, 행정, 산업, 지역 통계 등 정보를 제공합니다."
+  },
+  "stat.mcst.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "문화셈터",
+    "description": "문화셈터 누리집으로 문화체육관광 통계, 조사자료, 통계간행물 등 정보를 제공합니다."
   },
   "state.gwd.go.kr/portal": {
     "scope": "REGIONAL",
@@ -2310,6 +4374,12 @@
     "title": "충청남도 태안군청",
     "description": "충청남도 태안군청 누리집으로 정보공개, 태안소개, 군정안내, 통합민원, 분야별정보, 관광/여행, 참여마당 등 정보를 제공합니다."
   },
+  "tago.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가대중교통정보센터",
+    "description": "국가대중교통정보센터 누리집으로 대중교통 길찾기, 교통수단, 실시간 교통정보 등 정보를 제공합니다."
+  },
   "tbmokpo.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
@@ -2321,6 +4391,60 @@
     "role": "EDUCATION",
     "title": "국토교통부 국토교통인재개발원",
     "description": "국토교통부 국토교통인재개발원 누리집으로 교육안내, 인재개발원소개, 조직및업무 등 정보를 제공합니다."
+  },
+  "tour.brcn.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "보령시 문화관광",
+    "description": "보령시 문화관광 누리집으로 관광지, 축제, 여행코스, 문화행사 등 정보를 제공합니다."
+  },
+  "tour.chungbuk.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충북나드리",
+    "description": "충북나드리 누리집으로 충청북도 관광지, 축제, 여행코스, 관광 안내 등 정보를 제공합니다."
+  },
+  "tour.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남관광",
+    "description": "충남관광 누리집으로 충청남도 관광지, 축제, 여행정보, 문화관광 자료 등 정보를 제공합니다."
+  },
+  "tour.gb.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "경북나드리",
+    "description": "경북나드리 누리집으로 경상북도 관광지, 축제, 여행코스, 관광 안내 등 정보를 제공합니다."
+  },
+  "tour.gwangju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광주관광",
+    "description": "광주관광 누리집으로 광주광역시 관광지, 축제, 여행정보, 홍보물 등 정보를 제공합니다."
+  },
+  "traffic.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전교통정보센터",
+    "description": "대전교통정보센터 누리집으로 교통상황, 버스정보, 도로정보, 교통지도 등 정보를 제공합니다."
+  },
+  "tv.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산 영상 아카이브",
+    "description": "부산 영상 아카이브 누리집으로 부산시 영상자료, 시정 영상, 홍보 콘텐츠 등 정보를 제공합니다."
+  },
+  "tv.daejeon.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "대전광역시 인터넷방송",
+    "description": "대전광역시 인터넷방송 누리집으로 시정 영상, 뉴스, 홍보 콘텐츠 등 정보를 제공합니다."
+  },
+  "u119.nfa.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "119안심콜 서비스",
+    "description": "119안심콜 서비스 누리집으로 응급상황 사전정보 등록, 서비스 신청, 이용 안내 등 정보를 제공합니다."
   },
   "uiryeong.go.kr": {
     "scope": "MUNICIPAL",
@@ -2364,6 +4488,12 @@
     "title": "울산광역시 남구 대표누리집",
     "description": "울산광역시 남구청 누리집으로 전자민원, 구민참여, 남구소식, 남구소개, 분야별정보, 정보공개, 문화관광 등 정보를 제공합니다."
   },
+  "uni.agrix.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "농림사업정보시스템 통합신청",
+    "description": "농림사업정보시스템 통합신청 누리집으로 농림사업 신청, 지원정보, 사업 조회 등 서비스를 제공합니다."
+  },
   "uniedu.go.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
@@ -2394,11 +4524,53 @@
     "title": "울산광역시교육청",
     "description": "울산광역시교육청 누리집으로 교육청안내, 제증명발급, 정보공개, 시험공고 등 정보를 제공합니다."
   },
+  "visit.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남도청 방문신청",
+    "description": "충남도청 방문신청 누리집으로 청사 방문 예약, 방문 확인, 출입 안내 등 정보를 제공합니다."
+  },
+  "vnet.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "국가보훈부 제대군인지원센터",
+    "description": "국가보훈부 제대군인지원센터 누리집으로 제대군인 취업지원, 교육, 상담 등 정보를 제공합니다."
+  },
+  "voucher.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "사회서비스 전자바우처",
+    "description": "사회서비스 전자바우처 누리집으로 바우처 사업, 서비스 신청, 이용자와 제공기관 안내 정보를 제공합니다."
+  },
   "wanju.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "전북특별자치도 완주군청",
     "description": "전북특별자치도 완주군청 누리집으로 완주소개, 청사안내, 행정소식, 자치법규, 민원실안내, 부동산민원, 신고센터, 투자유치, 기업지원, 지역경제, 민방위/재난안전 등 정보를 제공합니다."
+  },
+  "water.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부천시 상하수도",
+    "description": "부천시 상하수도 누리집으로 수도요금, 상하수도 민원, 수질, 시설 안내 등 정보를 제공합니다."
+  },
+  "water.chilgok.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "칠곡군 상하수도",
+    "description": "칠곡군 상하수도 누리집으로 수도요금, 상하수도 민원, 수질, 시설 안내 등 정보를 제공합니다."
+  },
+  "weather.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "날씨누리",
+    "description": "날씨누리 누리집으로 날씨, 특보, 예보, 기상자료, 생활기상 등 정보를 제공합니다."
+  },
+  "welfare.gwangju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광주복지플랫폼",
+    "description": "광주복지플랫폼 누리집으로 광주광역시 복지정책, 복지서비스, 시설, 맞춤형 복지 정보를 제공합니다."
   },
   "west.forest.go.kr": {
     "scope": "REGIONAL",
@@ -2412,6 +4584,12 @@
     "title": "서해어업관리단",
     "description": "서해어업관리단 누리집으로 기관소개, 관할구역, 서해어업조정위원회, 어업인 고충처리위원회, 공지사항, 보도자료, 불법어업신고, 불법어업FAQ, 해어황예보, 해양수산속보 등 정보를 제공합니다."
   },
+  "wetax.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "위택스",
+    "description": "위택스 누리집으로 지방세 신고, 납부, 조회, 환급 등 서비스를 제공합니다."
+  },
   "whic.mofa.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
@@ -2423,6 +4601,30 @@
     "role": "EXECUTIVE",
     "title": "강원특별자치도 원주시청",
     "description": "강원특별자치도 원주시청 누리집으로 원주소개, 시청안내, 전자민원, 여권/비자, 생활정보, 주요기관, 기초생활보장, 경로복지, 복지시설, 문화체육 등 정보를 제공합니다."
+  },
+  "wonmi.bucheon.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "EXECUTIVE",
+    "title": "경기도 부천시 원미구",
+    "description": "경기도 부천시 원미구 누리집으로 구정 안내, 민원, 생활정보, 소식 등 정보를 제공합니다."
+  },
+  "work.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "워크넷",
+    "description": "워크넷 누리집으로 채용정보, 구직신청, 직업정보, 고용복지정책 등 정보를 제공합니다."
+  },
+  "work24.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "고용24",
+    "description": "고용24 누리집으로 고용서비스, 구직, 실업급여, 직업훈련, 고용지원 등 정보를 제공합니다."
+  },
+  "workplus.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "고용복지플러스센터",
+    "description": "고용복지플러스센터 누리집으로 고용, 복지, 서민금융 등 통합 상담과 지원 정보를 제공합니다."
   },
   "www.boseong.go.kr": {
     "scope": "MUNICIPAL",
@@ -2916,6 +5118,12 @@
     "title": "강원특별자치도 양양군",
     "description": "강원특별자치도 양양군 누리집으로 정보공개, 전자민원, 군민소통, 군정소식, 분야별정보, 양양군소개 등 정보를 제공합니다."
   },
+  "yangyangcouncil.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "양양군의회",
+    "description": "양양군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "yd.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
@@ -2976,17 +5184,53 @@
     "title": "해양수산부 여수지방해양수산청",
     "description": "해양수산부 여수지방해양수산청 누리집으로 민원이용안내, 항해안전정보, 통계자료, 항만현황, 해양환경 등 정보를 제공합니다."
   },
+  "yeosun1019.go.kr": {
+    "scope": "NATIONAL",
+    "role": "INDEPENDENT",
+    "title": "여수·순천 10·19사건 진상규명 및 희생자 명예회복위원회",
+    "description": "여수·순천 10·19사건 진상규명 및 희생자 명예회복위원회 누리집으로 위원회 소개, 신청 안내, 조사와 결정 정보 등을 제공합니다."
+  },
   "yesan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "충청남도 예산군",
     "description": "충청남도 예산군 누리집으로 종합민원안내, 행정정보공개안내, 군민제안마당이용방법안내, 지역생활정보안내, 산업경체현황안내, 예산군소개, 분야별정보안내 등의 정보를 제공합니다."
   },
+  "yesan.gwangju.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "광주광역시 시민참여예산",
+    "description": "광주광역시 시민참여예산 누리집으로 예산 제안, 참여예산 사업, 운영 현황 등 정보를 제공합니다."
+  },
+  "ygcl.go.kr": {
+    "scope": "MUNICIPAL",
+    "role": "LEGISLATIVE",
+    "title": "양구군의회",
+    "description": "양구군의회 누리집으로 의회 소개, 의원 소개, 의정활동, 회의록 등 정보를 제공합니다."
+  },
   "yongsan.go.kr": {
     "scope": "MUNICIPAL",
     "role": "EXECUTIVE",
     "title": "서울특별시 용산구청",
     "description": "서울특별시 용산구청 누리집으로 용산소개, 구정소식, 자매결연도시, 구청안내, 용산통계, 취업정보, 정책실명제, 용산구정정보, 구민참여, 종합민원안내, 상담신고센터 등 정보를 제공합니다."
+  },
+  "young.busan.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "부산청년플랫폼",
+    "description": "부산청년플랫폼 누리집으로 청년정책, 일자리, 주거, 문화, 참여 정보 등 정보를 제공합니다."
+  },
+  "youth.chungnam.go.kr": {
+    "scope": "REGIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "충남청년포털",
+    "description": "충남청년포털 누리집으로 충청남도 청년정책, 일자리, 주거, 문화, 참여 정보 등 정보를 제공합니다."
+  },
+  "youthcenter.go.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "온통청년",
+    "description": "온통청년 누리집으로 청년정책, 청년공간, 상담, 참여와 제안 정보를 제공합니다."
   },
   "yp21.go.kr": {
     "scope": "MUNICIPAL",

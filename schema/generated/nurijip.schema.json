@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/disjukr/awesome-nurijip/schema/generated/nurijip.schema.json",
+  "title": "Nurijips",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/Nurijip"
+  },
+  "properties": {
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "Url": {
+      "type": "string",
+      "description": "URL에는 프로토콜(http://, https://)을 포함시키지 않습니다.\nwww. 서브도메인은 안 붙여도 잘 들어가진다면 생략합니다.\npathname, search params, hash 또한 안 붙여도 잘 들어가진다면 생략합니다.\n"
+    },
+    "Nurijips": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/Nurijip"
+      }
+    },
+    "Nurijip": {
+      "type": "object",
+      "properties": {
+        "scope": {
+          "$ref": "#/$defs/NurijipScope"
+        },
+        "role": {
+          "$ref": "#/$defs/NurijipRole"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "scope",
+        "role",
+        "title",
+        "description"
+      ],
+      "additionalProperties": false
+    },
+    "NurijipScope": {
+      "type": "string",
+      "enum": [
+        "NATIONAL",
+        "REGIONAL",
+        "MUNICIPAL",
+        "CIVIC"
+      ]
+    },
+    "NurijipRole": {
+      "type": "string",
+      "enum": [
+        "LEGISLATIVE",
+        "EXECUTIVE",
+        "JUDICIAL",
+        "INDEPENDENT",
+        "EDUCATION",
+        "PUBLIC_SERVICE"
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+# standard - conventional
+
+@ description
+| URL에는 프로토콜(http://, https://)을 포함시키지 않습니다.
+| www. 서브도메인은 안 붙여도 잘 들어가진다면 생략합니다.
+| pathname, search params, hash 또한 안 붙여도 잘 들어가진다면 생략합니다.
+custom Url = string
+
+custom Nurijips = Nurijip[Url]
+
+struct Nurijip {
+  scope: NurijipScope,
+  role: NurijipRole,
+  title: string,
+  description: string,
+}
+
+enum NurijipScope {
+  @ description - 전국 단위
+  NATIONAL,
+
+  @ description - 광역 단위
+  REGIONAL,
+
+  @ description - 시군구 단위
+  MUNICIPAL,
+
+  @ description - 민간/비정부 단위
+  CIVIC,
+}
+
+enum NurijipRole {
+  @ description - 입법/의결
+  LEGISLATIVE,
+
+  @ description - 행정
+  EXECUTIVE,
+
+  @ description - 사법
+  JUDICIAL,
+
+  @ description - 독립/감시/심의
+  INDEPENDENT,
+
+  @ description - 교육/학교
+  EDUCATION,
+
+  @ description - 공공서비스/공공기관
+  PUBLIC_SERVICE,
+}

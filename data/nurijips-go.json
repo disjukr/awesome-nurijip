@@ -2682,6 +2682,12 @@
     "title": "가명정보 지원 플랫폼",
     "description": "가명정보 지원 플랫폼 누리집으로 서비스 안내, 신청·조회, 자료, 소식 등 정보를 제공합니다."
   },
+  "dataset.nanet.go.kr": {
+    "scope": "NATIONAL",
+    "role": "LEGISLATIVE",
+    "title": "발언 빅데이터",
+    "description": "발언 빅데이터 누리집으로 국회·지방의회 회의록의 발언자, 키워드 검색, 데이터 다운로드와 인포그래픽 등 의정기록 데이터 서비스를 제공합니다."
+  },
   "db.history.go.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",

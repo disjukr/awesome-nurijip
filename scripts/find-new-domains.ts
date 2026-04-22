@@ -23,7 +23,7 @@ type OutputFormat = "json" | "ndjson" | "tsv";
 const args = Deno.args;
 const encoder = new TextEncoder();
 const dataPaths = ["data/nurijips-go.json", "data/nurijips-ac.json", "data/nurijips-etc.json"];
-const targetHostPattern = /\.(?:go|ac)\.kr$/;
+const targetHostPattern = /\.(?:go|ac|or)\.kr$/;
 const blockedPathPattern = /\.(?:7z|avi|bmp|css|docx?|eot|gif|hwp|ico|jpe?g|js|mp4|pdf|png|pptx?|svg|ttf|webp|woff2?|xlsx?|zip)$/i;
 
 const readArg = (name: string) => {
@@ -51,7 +51,7 @@ function help() {
     "  --concurrency <n>      Concurrent fetches (default: 8)",
     "  --timeout-ms <n>       Fetch timeout per page (default: 10000)",
     "  --max-bytes <n>        Max response bytes per page (default: 1048576)",
-    "  --include-discovered   Also crawl newly discovered go.kr/ac.kr hosts",
+    "  --include-discovered   Also crawl newly discovered go.kr/ac.kr/or.kr hosts",
     "  --format <format>      tsv, ndjson, or json (default: tsv)",
     "  --json                 Same as --format json",
     "  --ndjson               Same as --format ndjson",
@@ -78,7 +78,7 @@ function urlFromInput(input: string, base?: string) {
   const value = input.trim().replaceAll("&amp;", "&").replace(/[)\].,;]+$/, "");
   if (!value || /^(?:mailto|tel|javascript|data):/i.test(value)) return;
   try {
-    if (/^(?:[a-z0-9-]+\.)+(?:go|ac)\.kr$/i.test(value)) return new URL(`https://${value}/`);
+    if (/^(?:[a-z0-9-]+\.)+(?:go|ac|or)\.kr$/i.test(value)) return new URL(`https://${value}/`);
     return new URL(value, base);
   } catch {
     return;
@@ -115,7 +115,7 @@ function extractUrls(text: string, baseUrl: string) {
   const values = new Set<string>();
   const attrPattern = /\b(?:href|src|action|data-href|data-url)=["']([^"'<>]+)["']/gi;
   const absolutePattern = /\bhttps?:\/\/[^\s"'<>]+/gi;
-  const hostPattern = /\b(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+(?:go|ac)\.kr\b/gi;
+  const hostPattern = /\b(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+(?:go|ac|or)\.kr\b/gi;
   let match: RegExpExecArray | null;
   while ((match = attrPattern.exec(text))) values.add(match[1]!);
   while ((match = absolutePattern.exec(text))) values.add(match[0]!);

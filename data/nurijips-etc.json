@@ -12,6 +12,12 @@
     "title": "국방신속획득기술연구원",
     "description": "국방신속획득기술연구원 누리집으로 연구원 소개, 주요 업무, 비전 및 경영전략 등 정보를 제공합니다."
   },
+  "airkorea.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "에어코리아",
+    "description": "에어코리아 누리집으로 전국 실시간 대기질, 미세먼지 예보·경보, 측정소 정보와 통계자료 등 대기환경 정보를 제공합니다."
+  },
   "arko.or.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",
@@ -383,6 +389,12 @@
     "role": "EXECUTIVE",
     "title": "울산광역시 울주군 대표 누리집",
     "description": "울산광역시 울주군 누리집으로 정보공개, 전자민원, 울주군민, 생활정보, 행복한 읍?면, 울주군청, 울주문화관광 등 정보를 제공합니다."
+  },
+  "vworld.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "브이월드",
+    "description": "브이월드 누리집으로 국가가 보유한 공개 가능한 공간정보, 지도 서비스, 오픈API와 공간정보 활용 서비스를 제공합니다."
   },
   "www.buk.daegu.kr": {
     "scope": "MUNICIPAL",

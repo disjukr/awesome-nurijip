@@ -1,0 +1,26 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Check scripts
+        run: deno check scripts/*.ts
+
+      - name: Lint scripts
+        run: deno lint scripts/*.ts
+
+      - name: Validate data
+        run: deno run --allow-read scripts/validate-data.ts

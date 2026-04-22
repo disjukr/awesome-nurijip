@@ -12,6 +12,12 @@
     "title": "국방신속획득기술연구원",
     "description": "국방신속획득기술연구원 누리집으로 연구원 소개, 주요 업무, 비전 및 경영전략 등 정보를 제공합니다."
   },
+  "airkorea.or.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "에어코리아",
+    "description": "에어코리아 누리집으로 전국 실시간 대기질, 미세먼지 예보·경보, 측정소 정보와 통계자료 등 대기환경 정보를 제공합니다."
+  },
   "arko.or.kr": {
     "scope": "NATIONAL",
     "role": "PUBLIC_SERVICE",

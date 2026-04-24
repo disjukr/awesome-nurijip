@@ -1,76 +1,10 @@
 {
   "$schema": "../schema/generated/nurijip.schema.json",
-  "abic.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 창업보육센터",
-    "description": "안동과학대학교 창업보육센터 누리집으로 창업보육, 입주기업, 지원사업, 센터 소식 등 정보를 제공합니다."
-  },
-  "academics.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 언어교육원 한국어교육과정",
-    "description": "대구가톨릭대학교 언어교육원 한국어교육과정 누리집으로 한국어 교육, 과정 안내, 입학, 학사 정보를 제공합니다."
-  },
-  "ace.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천대학교 생명과나눔센터",
-    "description": "가천대학교 생명과나눔센터 누리집으로 봉사, 나눔, 비교과 활동, 센터 소식 등 정보를 제공합니다."
-  },
   "acts.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "아신대학교",
     "description": "아신대학교 누리집으로 대학교소개, 캠퍼스안내, 대학홍보, 국내외교류, 대학/대학원, 입학안내, 학사안내, 학생지원, 교수/학습개발센터, 생활관 등 정보를 제공합니다."
-  },
-  "admission.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 입학안내",
-    "description": "초당대학교 입학안내 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "admission.chongshin.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 입학정보",
-    "description": "총신대학교 입학정보 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "admission.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천대학교 입학처",
-    "description": "가천대학교 글로벌캠퍼스 누리집으로 수시/정시 모집요강, 의대/약대모집요강, 고사장안내, 합격자안내, 편입학안내, 재외국민/외국인노집안내, 입학상담 등 정보를 제공합니다."
-  },
-  "adultedu.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 성인학습자지원센터",
-    "description": "초당대학교 성인학습자지원센터 누리집으로 성인학습자 지원, 교육과정, 상담, 센터 소식 등 정보를 제공합니다."
-  },
-  "adv.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 대학발전기금",
-    "description": "부산가톨릭대학교 대학발전기금 누리집으로 발전기금 소개, 기부 안내, 기금 소식 등 정보를 제공합니다."
-  },
-  "ahnjung-geun.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 안중근연구소",
-    "description": "대구가톨릭대학교 안중근연구소 누리집으로 연구소 소개, 연구활동, 자료, 소식 등 정보를 제공합니다."
-  },
-  "aigs.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "아신대학교 국제대학원",
-    "description": "아신대학교 국제대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "aisw.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 SW중심대학",
-    "description": "대구대학교 SW중심대학 누리집으로 소프트웨어 교육, 사업 안내, 프로그램, 소식 등 정보를 제공합니다."
   },
   "alu.ac.kr": {
     "scope": "CIVIC",
@@ -78,23 +12,11 @@
     "title": "건신대학원대학교",
     "description": "건신대학원대학교 누리집으로 학교소개, 입학안내, 박사/석사/외국인지도자과정, 평생교육원, 학사일정, 장학제도, 학술/교류, 교내기관 등 정보를 제공합니다."
   },
-  "archive.cue.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "진주교육대학교 디지털 아카이브",
-    "description": "진주교육대학교 디지털 아카이브 누리집으로 대학 기록물, 자료 검색, 아카이브 안내 등 정보를 제공합니다."
-  },
   "asc.ac.kr": {
     "scope": "MUNICIPAL",
     "role": "EDUCATION",
     "title": "안동과학대학교",
     "description": "안동과학대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사정보, 대학축구부, 취업정보, 장학제도, 산업체위탁교실, 학칙/학사내규, 수강신청 등 정보를 제공합니다."
-  },
-  "ato16.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 항공기술교육원",
-    "description": "청주대학교 항공기술교육원 누리집으로 항공기술 교육, 교육과정, 입학과 수료 안내 등 정보를 제공합니다."
   },
   "bdu.ac.kr": {
     "scope": "REGIONAL",
@@ -114,24 +36,6 @@
     "title": "부산과학기술대학교",
     "description": "부산과학기술대학교 누리집으로 대학안내, 학과/계열, 입학안내, 취업정보, 대학생활 등 정보를 제공합니다."
   },
-  "bls.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 BLS센터",
-    "description": "기독간호대학교 BLS센터 누리집으로 기본소생술 교육, 교육 일정, 신청 안내 등 정보를 제공합니다."
-  },
-  "book.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 도서관",
-    "description": "조선이공대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "brain.kongju.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "공주대학교 공과대학",
-    "description": "공주대학교 공과대학 누리집으로 대학소개, 학부/대학원, 연구소/기관, 학사안내, 학생활동, 커뮤니티 등 정보를 제공합니다."
-  },
   "bufs.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -150,41 +54,11 @@
     "title": "경기칼빈대학교",
     "description": "경기칼빈대학교 누리집으로 학교소개, 입학안내, 대학교/대학원안내, 신학대학원안내, 학교생활안내, 기숙사/장학제도 안내, 부속기관/연구소안내, 논문교정양식안내 등의 정보를 제공합니다."
   },
-  "career.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 학생역량개발시스템",
-    "description": "안동과학대학교 학생역량개발시스템 누리집으로 진로, 취업, 비교과, 상담 프로그램 등 정보를 제공합니다."
-  },
-  "career.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 취창업지원센터",
-    "description": "초당대학교 취창업지원센터 누리집으로 진로 상담, 취업 지원, 창업 지원, 프로그램 등 정보를 제공합니다."
-  },
-  "career.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 진로취업지원센터",
-    "description": "부산가톨릭대학교 진로취업지원센터 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "cati.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 항공기술교육원",
-    "description": "초당대학교 항공기술교육원 누리집으로 항공기술 교육, 교육과정, 입학과 수료 안내 등 정보를 제공합니다."
-  },
   "cau.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "중앙대학교",
     "description": "중앙대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 연구/산학, 대학생활 등 정보를 제공합니다."
-  },
-  "cbmba.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 경영대학원",
-    "description": "충북대학교 경영대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
   },
   "cbnu.ac.kr": {
     "scope": "NATIONAL",
@@ -192,53 +66,17 @@
     "title": "충북대학교",
     "description": "충북대학교 누리집으로 학교안내, 입학안내, 대학/대학원, 산학협력, 연구시설, 학사일정, 교육과정, 학칙/규정, 장학/학자금, 대학정보, 온라인서비스센터 등 정보를 제공합니다."
   },
-  "cbnul.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 도서관",
-    "description": "충북대학교 도서관 누리집으로 자료 검색, 학술DB, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "ccba.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 경영대학",
-    "description": "충북대학교 경영대학 누리집으로 대학 소개, 학과, 학사, 대학 소식 등 정보를 제공합니다."
-  },
   "ccn.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "기독간호대학교",
     "description": "기독간호대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사행정, 기숙사/장학제도소개, 하숙/주거정보, 취업정보, 대학생활안내, 대학소실홍보 등의 정보를 제공합니다."
   },
-  "cctl.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 교수학습지원센터",
-    "description": "총신대학교 교수학습지원센터 누리집으로 교수학습 지원, 교육 프로그램, 학습 자료 등 정보를 제공합니다."
-  },
   "cdu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "초당대학교",
     "description": "초당대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사안내, 사이버캠퍼스, 산학협력단, 교수학습개발센터, 연구기관, 미디어센터 등 정보를 제공합니다."
-  },
-  "ceet.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 환경 유해물질 중점연구소",
-    "description": "충북대학교 환경 유해물질 중점연구소 누리집으로 연구소 소개, 연구사업, 자료실 등 정보를 제공합니다."
-  },
-  "cheerup.cnsu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "충남도립대학교 취업지원",
-    "description": "충남도립대학교 취업지원 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "chmusic.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 교회음악대학원",
-    "description": "총신대학교 교회음악대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
   },
   "chongju.ac.kr": {
     "scope": "MUNICIPAL",
@@ -252,29 +90,11 @@
     "title": "총신대학교",
     "description": "총신대학교 누리집으로 대학소개, 입학정보, 교직원소개, 캠퍼스안내, 대학/신대원.대학원, 학사안내, 장학안내.학생복지/생활, 동아리 등 정보를 제공합니다."
   },
-  "chs.korea.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "고려대학교 보건과학대학",
-    "description": "고려대학교 보건과학대학 누리집으로 대학안내, 학부안내, 대학원안내, 부설연구기관, 학사/행정안내, 학술연구, 보과대소식, 입학안내 등 정보를 제공합니다."
-  },
   "chugye.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "추계예술대학교",
     "description": "추계예술대학교 누리집으로 대학안내, 입학안내, 대학/대학원, 학사안내, 대학생활, 인터넷정보서비스 등 정보를 제공합니다."
-  },
-  "cia.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 국제교류본부",
-    "description": "충북대학교 국제교류본부 누리집으로 국제교류, 유학, 교환학생, 외국인 지원 등 정보를 제공합니다."
-  },
-  "cip.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 지식재산전문인력양성센터",
-    "description": "충북대학교 지식재산전문인력양성센터 누리집으로 지식재산 교육, 전문인력 양성, 사업 안내 등 정보를 제공합니다."
   },
   "cnc.ac.kr": {
     "scope": "CIVIC",
@@ -288,42 +108,6 @@
     "title": "충남도립대학교",
     "description": "학교입학 및 입시요강, 개설 학과, 향후 진로 등 소개"
   },
-  "condor.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 콘도르비행교육원",
-    "description": "초당대학교 콘도르비행교육원 누리집으로 비행교육, 교육과정, 훈련 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "conedu.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 평생교육원",
-    "description": "대구가톨릭대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "continuing.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 평생교육원",
-    "description": "기독간호대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "counsel.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 학생상담센터",
-    "description": "대구가톨릭대학교 학생상담센터 누리집으로 심리상담, 집단상담, 자가진단, 상담 프로그램 등 정보를 제공합니다."
-  },
-  "counseling.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 학생생활상담소",
-    "description": "충북대학교 학생생활상담소 누리집으로 심리상담, 심리검사, 상담 프로그램, 센터 안내 등 정보를 제공합니다."
-  },
-  "counseling.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 상담대학원",
-    "description": "총신대학교 상담대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "cpu.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -336,23 +120,11 @@
     "title": "조선이공대학교",
     "description": "조선이공대학교 누리집으로 대학정보, 입학정보, 대학생활, 학과정보, 취업정보, 온라인서비스 등 정보를 제공합니다."
   },
-  "csts.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 신학대학원",
-    "description": "총신대학교 신학대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "csu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "총신대학교",
     "description": "총신대학교 누리집으로 대학 소개, 입학, 학사, 대학원, 대학생활, 대학 소식 등 정보를 제공합니다."
-  },
-  "csufund.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 발전기금",
-    "description": "총신대학교 발전기금 누리집으로 발전기금 소개, 기부 안내, 기금 소식 등 정보를 제공합니다."
   },
   "ctc.ac.kr": {
     "scope": "REGIONAL",
@@ -360,35 +132,11 @@
     "title": "제주관광대학교",
     "description": "제주관광대학교 누리집으로 대학소개, 입학안내, 학사안내, 계열/학과, 대학생활, 디지털홍보, 열린광장 등 정보를 제공합니다."
   },
-  "ctl.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 교수학습센터",
-    "description": "안동과학대학교 교수학습센터 누리집으로 교수학습 지원, 교육 프로그램, 학습 자료 등 정보를 제공합니다."
-  },
-  "ctl.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 교수학습센터",
-    "description": "조선이공대학교 교수학습센터 누리집으로 교수학습 지원, 교육 프로그램, 학습 자료 등 정보를 제공합니다."
-  },
-  "ctl.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 교수학습개발센터",
-    "description": "부산가톨릭대학교 교수학습개발센터 누리집으로 교수학습 지원, 교육 프로그램, 학습 자료 등 정보를 제공합니다."
-  },
   "cu.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
     "title": "대구가톨릭대학교",
     "description": "대구가톨릭대학교 누리집으로 학교소개, 대학홍보, 입학안내, 취업안내, 연구/산학협력, 대학·대학원, 대학생활, 대가대광장, 종합정보시스템 등 정보를 제공합니다."
-  },
-  "cu360.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 가상투어",
-    "description": "대구가톨릭대학교 가상투어 누리집으로 캠퍼스 360도 파노라마, 시설 안내, 캠퍼스 탐방 정보를 제공합니다."
   },
   "cue.ac.kr": {
     "scope": "NATIONAL",
@@ -396,41 +144,11 @@
     "title": "진주교육대학교",
     "description": "진주교육대학교 누리집으로 학교소개, 입학안내, 대학/대학원, 대학생활, 알리미, 커뮤니티 등 정보를 제공합니다."
   },
-  "cuece.cue.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "진주교육대학교 평생교육원",
-    "description": "진주교육대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "cuete.cue.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "진주교육대학교 교육연수원",
-    "description": "진주교육대학교 교육연수원 누리집으로 교원 연수, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "cuh.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 u-헬스케어",
-    "description": "충북대학교 u-헬스케어 누리집으로 u-헬스케어 연구, 교육, 사업 안내 등 정보를 제공합니다."
-  },
   "cup.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
     "title": "부산가톨릭대학교",
     "description": "부산가톨릭대학교 누리집으로 대학소개, 입학안내, 대학, 대학원, 대학기구, 캠퍼스생활, CUP광장 등 정보를 제공합니다."
-  },
-  "cybercounsel.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 가톨릭상담센터",
-    "description": "부산가톨릭대학교 가톨릭상담센터 누리집으로 심리상담, 상담 프로그램, 센터 안내 등 정보를 제공합니다."
-  },
-  "daecheon.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 대천수련원",
-    "description": "청주대학교 대천수련원 누리집으로 수련원 소개, 시설 안내, 이용 안내 등 정보를 제공합니다."
   },
   "daegu.ac.kr": {
     "scope": "REGIONAL",
@@ -443,6 +161,12 @@
     "role": "EDUCATION",
     "title": "대전신학대학교",
     "description": "대전신학대학교 누리집으로 학교소개, 입학안내, 대학/대학원, 학사안내, 학교기관, 커뮤니티 등 정보를 제공합니다."
+  },
+  "daejin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "대진대학교",
+    "description": "대진대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학생활, 공지사항 등의 정보를 제공합니다."
   },
   "daelim.ac.kr": {
     "scope": "CIVIC",
@@ -462,30 +186,6 @@
     "title": "대구사이버대학교",
     "description": "대구사이버대학교 누리집으로 대학소개, 학과안내, 대학원, 입학안내, 학사안내, 대학생활 등 정보를 제공합니다."
   },
-  "dcugym.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 체력증진센터",
-    "description": "대구가톨릭대학교 체력증진센터 누리집으로 체력증진 프로그램, 시설, 이용 안내 등 정보를 제공합니다."
-  },
-  "dcuharmonica.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 인성교육원",
-    "description": "대구가톨릭대학교 인성교육원 누리집으로 인성교육, 봉사, 연구센터, 교육 프로그램 등 정보를 제공합니다."
-  },
-  "dcumap.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 캠퍼스맵",
-    "description": "대구가톨릭대학교 캠퍼스맵 누리집으로 건물 찾기, 길찾기, 주차장, 캠퍼스 명소 정보를 제공합니다."
-  },
-  "dep.cue.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "진주교육대학교 디지털 교육실습",
-    "description": "진주교육대학교 디지털 교육실습 누리집으로 교육실습, 실습 자료, 운영 안내 등 정보를 제공합니다."
-  },
   "dgau.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -503,18 +203,6 @@
     "role": "EDUCATION",
     "title": "동아방송예술대학교",
     "description": "동아방송예술대학교 누리집으로 대학소개, 대학기구, 학과안내, 디마정보, 디마의멋, 디마광장, 입학안내 등 정보를 제공합니다."
-  },
-  "disable.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 장애학생지원센터",
-    "description": "조선이공대학교 장애학생지원센터 누리집으로 장애학생 지원, 서비스 안내, 상담, 자료 등 정보를 제공합니다."
-  },
-  "domi.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 생활관",
-    "description": "청주대학교 생활관 누리집으로 생활관 소개, 입사 안내, 시설, 공지사항 등 정보를 제공합니다."
   },
   "donga.ac.kr": {
     "scope": "CIVIC",
@@ -540,54 +228,6 @@
     "title": "두원공과대학교",
     "description": "두원공과대학교 누리집으로 대학소개, 입학정보, 학과/학부안내, 학사정보, 학교생활안내, 장학금제도안내, 기숙사안내, 취업정보 등의 정보를 제공합니다."
   },
-  "dorm.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 선교원",
-    "description": "기독간호대학교 선교원 누리집으로 시설 소개, 입사 안내, 생활 안내 등 정보를 제공합니다."
-  },
-  "dorm.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 생활관",
-    "description": "초당대학교 생활관 누리집으로 생활관 소개, 입사 안내, 시설, 공지사항 등 정보를 제공합니다."
-  },
-  "dorm.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 학생생활관",
-    "description": "충북대학교 학생생활관 누리집으로 생활관 소개, 입주 안내, 시설, 공지사항 등 정보를 제공합니다."
-  },
-  "dorm.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 기숙사",
-    "description": "조선이공대학교 기숙사 누리집으로 기숙사 소개, 입사 안내, 시설, 공지사항 등 정보를 제공합니다."
-  },
-  "dorm.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 비호생활관",
-    "description": "대구대학교 비호생활관 누리집으로 생활관 소개, 입사 안내, 시설, 공지사항 등 정보를 제공합니다."
-  },
-  "dormitory.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 다솜마을",
-    "description": "대구가톨릭대학교 다솜마을 누리집으로 생활관 소개, 입사 안내, 생활 안내, 시설 정보를 제공합니다."
-  },
-  "dormitory.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 학생생활교육관",
-    "description": "부산가톨릭대학교 학생생활교육관 누리집으로 생활관 소개, 입사 안내, 시설, 공지사항 등 정보를 제공합니다."
-  },
-  "dream.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 장학안내",
-    "description": "초당대학교 장학안내 누리집으로 장학제도, 장학금 신청, 선발 안내 등 정보를 제공합니다."
-  },
   "dsu.ac.kr/kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -599,72 +239,6 @@
     "role": "EDUCATION",
     "title": "대한신학대학원대학교",
     "description": "대한신학대학원대학교 누리집으로 학교소개, 입학안내, 학사안내, 학교생활안내, 부속/부설기관안내 등의 정보를 제공합니다."
-  },
-  "ebaby.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 보육교사교육원",
-    "description": "안동과학대학교 보육교사교육원 누리집으로 교육원 소개, 보육교사 교육, 수강 안내 등 정보를 제공합니다."
-  },
-  "edu.chongshin.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 원격평생교육원",
-    "description": "총신대학교 원격평생교육원 누리집으로 원격 평생교육 과정, 자격 과정, 수강 안내 등 정보를 제공합니다."
-  },
-  "edu.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 평생교육원",
-    "description": "부산가톨릭대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "education.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 교육대학원",
-    "description": "총신대학교 교육대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "edulife.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 평생교육원",
-    "description": "청주대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "eeic.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 공학교육혁신센터",
-    "description": "충북대학교 공학교육혁신센터 누리집으로 공학교육 혁신, 교육 프로그램, 센터 소식 등 정보를 제공합니다."
-  },
-  "eirb.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 기관생명윤리시스템",
-    "description": "부산가톨릭대학교 기관생명윤리시스템 누리집으로 연구윤리 심의, 신청 안내, 관련 자료 등 정보를 제공합니다."
-  },
-  "ems.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 부속공장",
-    "description": "충북대학교 부속공장 누리집으로 시설 소개, 실습, 연구지원, 이용 안내 등 정보를 제공합니다."
-  },
-  "eng.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 공과대학",
-    "description": "충북대학교 공과대학 누리집으로 대학 소개, 학과, 학사, 대학 소식 등 정보를 제공합니다."
-  },
-  "english.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "ACTS University English",
-    "description": "ACTS University English 누리집으로 아신대학교 영문 소개, 입학, 학사, 학교 안내 정보를 제공합니다."
-  },
-  "enter.bufs.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산외국어대학교 입학안내",
-    "description": "부산외국어대학교 입학안내 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
   },
   "enter.du.ac.kr": {
     "scope": "REGIONAL",
@@ -684,59 +258,11 @@
     "title": "에스라성경대학원대학교",
     "description": "에스라성경대학원대학교 누리집으로 학교안내, 입학안내, 성경강좌, 학사일정, 학칙, 시간표, 교수자료실, 학생생활안내, 에스라소식 등 정보를 제공합니다."
   },
-  "field.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 현장실습 온라인 시스템",
-    "description": "대구가톨릭대학교 현장실습 온라인 시스템 누리집으로 현장실습, 실습기관, 신청 안내 등 정보를 제공합니다."
-  },
-  "fole.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 교양교육본부",
-    "description": "충북대학교 교양교육본부 누리집으로 교양교육 과정, 교육과정, 학사 안내 등 정보를 제공합니다."
-  },
-  "forest.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 학술림",
-    "description": "충북대학교 학술림 누리집으로 학술림 소개, 연구, 교육, 이용 안내 등 정보를 제공합니다."
-  },
-  "francisco.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 프란치스코칼리지",
-    "description": "대구가톨릭대학교 프란치스코칼리지 누리집으로 교양교육, 교육과정, 대학 소개, 공지사항 등 정보를 제공합니다."
-  },
-  "fund.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 발전기금",
-    "description": "안동과학대학교 발전기금 누리집으로 발전기금 소개, 기부 안내, 기금 소식 등 정보를 제공합니다."
-  },
-  "fund.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 발전기금재단",
-    "description": "충북대학교 발전기금재단 누리집으로 발전기금 소개, 기부 안내, 기금 소식 등 정보를 제공합니다."
-  },
-  "fund.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 발전기금",
-    "description": "대구가톨릭대학교 발전기금 누리집으로 발전기금 소개, 기부 안내, 기금 소식 등 정보를 제공합니다."
-  },
   "gachon.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "가천대학교",
     "description": "가천대학교 누리집으로 대학 소개, 입학, 학사, 연구, 대학생활, 대학 소식 등 정보를 제공합니다."
-  },
-  "gaihst.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천융합의과학원",
-    "description": "가천융합의과학원 누리집으로 기관 소개, 연구, 교육, 학사, 소식 등 정보를 제공합니다."
   },
   "gangseo.ac.kr": {
     "scope": "CIVIC",
@@ -774,12 +300,6 @@
     "title": "글로벌사이버대학교",
     "description": "글로벌사이버대학교 누리집으로 대학소개, 입학지원센터, 학부소개, 학사안내, 학생서비스, 미디어글로벌 등 정보를 제공합니다."
   },
-  "globalinno.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 글로벌혁신대학",
-    "description": "초당대학교 글로벌혁신대학 누리집으로 대학 소개, 학사, 교육과정, 공지사항 등 정보를 제공합니다."
-  },
   "gnu.ac.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
@@ -797,48 +317,6 @@
     "role": "EDUCATION",
     "title": "국립경국대학교",
     "description": "국립경국대학교 누리집으로 대학 소개, 입학, 학사, 대학생활, 대학 소식 등 정보를 제공합니다."
-  },
-  "grad.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "아신대학교 대학원",
-    "description": "아신대학교 대학원 누리집으로 대학원 소개, 입학, 학사, 전공, 공지사항 등 정보를 제공합니다."
-  },
-  "grad.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 일반대학원",
-    "description": "대구대학교 일반대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "graduate.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 대학원",
-    "description": "초당대학교 대학원 누리집으로 대학원 소개, 입학, 학사, 전공, 공지사항 등 정보를 제공합니다."
-  },
-  "graduate.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 대학원",
-    "description": "충북대학교 대학원 누리집으로 대학원 소개, 입학, 학사, 전공, 공지사항 등 정보를 제공합니다."
-  },
-  "graduate.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 일반대학원",
-    "description": "총신대학교 일반대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "graduate.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 대학원",
-    "description": "부산가톨릭대학교 대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "gsi.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 산업대학원",
-    "description": "충북대학교 산업대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
   },
   "gspt.ac.kr": {
     "scope": "CIVIC",
@@ -918,12 +396,6 @@
     "title": "합동신학대학원대학교",
     "description": "합동신학대학원대학교 누리집으로 입학안내, 학교소개, 학사안내, 학교생활, 합신광장 등 정보를 제공합니다."
   },
-  "heart.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 HEART 비교과시스템",
-    "description": "대구대학교 HEART 비교과시스템 누리집으로 비교과 프로그램, 신청, 활동 관리 등 정보를 제공합니다."
-  },
   "hit.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -960,18 +432,6 @@
     "title": "호원대학교",
     "description": "호원대학교 누리집으로 대학소개, 학부과안내, 입학안내, 재학생가이드, 학칙/규정, 학사일정, 교무행정안내, 동창회, 생활편의안내, 인트라넷 등 정보를 제공합니다."
   },
-  "hrc.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 인권센터",
-    "description": "대구가톨릭대학교 인권센터 누리집으로 인권상담, 성희롱·성폭력 예방, 교육, 센터 안내 등 정보를 제공합니다."
-  },
-  "hrd.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 진로취업부",
-    "description": "충북대학교 진로취업부 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
   "hscu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -996,41 +456,11 @@
     "title": "한림국제대학원/대학교",
     "description": "한림국제대학원/대학교 누리집으로 대학원소개, 입학안내, 학과소개, 부설연구소, 부속기관, 학사안내, 학위취득안내, 강의시간표, 대학원소식, 시설이용안내 등 정보를 제공합니다."
   },
-  "human-gender.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 인권센터",
-    "description": "충북대학교 인권센터 누리집으로 인권상담, 성희롱·성폭력 예방, 교육, 센터 안내 등 정보를 제공합니다."
-  },
   "hycu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "한양사이버대학교",
     "description": "한양사이버대학교 누리집으로 학교소개, 학과소개, 학사안내, 대학생활, 학습환경안내 등 정보를 제공합니다."
-  },
-  "iacf.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 산학협력단",
-    "description": "청주대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "iacf.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 산학협력단",
-    "description": "대구가톨릭대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "ibsi.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 입학안내",
-    "description": "대구가톨릭대학교 입학안내 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "icete.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 공학기술교육혁신센터",
-    "description": "조선이공대학교 공학기술교육혁신센터 누리집으로 공학기술 교육혁신, 프로그램, 센터 소식 등 정보를 제공합니다."
   },
   "igse.ac.kr": {
     "scope": "CIVIC",
@@ -1044,71 +474,17 @@
     "title": "경운대학교",
     "description": "경운대학교 누리집으로 학교소개, 학과안내, 대학/대학원소개, 대학기관/연구소소개, 입학안내, 대학생활소개, 장학금안내, 기숙사안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
   },
-  "ilec.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 국제교류교육원",
-    "description": "초당대학교 국제교류교육원 누리집으로 국제교류, 유학생 지원, 한국어교육, 교육과정 등 정보를 제공합니다."
-  },
   "induk.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "인덕대학교",
     "description": "인덕대학교 누리집으로 대학소개, 입학안내, 계열/학과소개, 학사/장학안내, 취업지원/정보안내, 캠퍼스생활소개, 편의시설안내 등의 정보를 제공합니다."
   },
-  "internship.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 현장실습지원센터",
-    "description": "청주대학교 현장실습지원센터 누리집으로 현장실습, 실습기관, 신청 안내, 프로그램 등 정보를 제공합니다."
-  },
   "inu.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
     "title": "인천대학교",
     "description": "인천대학교 누리집으로 대학소개 입학안내, 학과안내, 대학/대학원안내, 학사안내, 학교행사안내, 장학금안내, 기숙사안내, 연구/산학안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
-  },
-  "iphak.cnc.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선간호대학교 입학안내",
-    "description": "조선간호대학교 입학안내 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "ipsi.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 입학안내",
-    "description": "안동과학대학교 입학안내 누리집으로 입시일정, 전형 안내, 모집요강, 지원 안내 등 정보를 제공합니다."
-  },
-  "ipsi.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 입학정보",
-    "description": "충북대학교 입학정보 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "ipsi.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 입학홈페이지",
-    "description": "조선이공대학교 입학홈페이지 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "ipsi.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 입시홈페이지",
-    "description": "부산가톨릭대학교 입시홈페이지 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "ipsi.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 입학안내",
-    "description": "대구대학교 입학안내 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
-  },
-  "ipsi.daejeon.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대전신학대학교 입학처",
-    "description": "대전신학대학교 입학처 누리집으로 입시요강, 전형일정, 지원 안내, 입학 자료 등 정보를 제공합니다."
   },
   "jbnu.ac.kr": {
     "scope": "NATIONAL",
@@ -1146,65 +522,17 @@
     "title": "전남대학교",
     "description": "전남대학교 누리집으로 대학소개, 입학/취업, 대학/대학원, 학사정보, 교육지원, 교직정보, 후생복지, 학생상담지원, 연구소식, 산학협력단, 국제교류 등 정보를 제공합니다."
   },
-  "job-stat.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 취업통계조사 및 분석",
-    "description": "충북대학교 취업통계조사 및 분석 누리집으로 취업통계, 분석자료, 진로취업 지원 정보를 제공합니다."
-  },
-  "job.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 취업지원센터",
-    "description": "기독간호대학교 취업지원센터 누리집으로 취업정보, 진로상담, 프로그램, 채용 안내 등 정보를 제공합니다."
-  },
-  "job.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 진로취업지원",
-    "description": "청주대학교 진로취업지원 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "job.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 일자리플러스센터",
-    "description": "조선이공대학교 일자리플러스센터 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "job.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 학생경력개발시스템",
-    "description": "대구가톨릭대학교 학생경력개발시스템 누리집으로 진로, 취업, 비교과, 상담 프로그램 등 정보를 제공합니다."
-  },
-  "job.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 인재개발부",
-    "description": "부산가톨릭대학교 인재개발부 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "job.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 All in Care 시스템",
-    "description": "대구대학교 All in Care 시스템 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "jobadream.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 GAP-ZERO 플랫폼",
-    "description": "충북대학교 GAP-ZERO 플랫폼 누리집으로 취업 멘토링, 진로 지원, 상담 프로그램 등 정보를 제공합니다."
-  },
-  "jobedu.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 공동훈련센터",
-    "description": "충북대학교 공동훈련센터 누리집으로 직업훈련, 교육과정, 산학협력 교육 등 정보를 제공합니다."
-  },
   "jwu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "중원대학교",
     "description": "중원대학교 누리집으로 중원소개, 입학안내, 대학/대학원, 평생교육원, 국제교류원, 산학협력단, 취업지원센터, 대학생활, 학사안내, 대학홍보 등 정보를 제공합니다."
+  },
+  "kangwon.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "강원대학교",
+    "description": "강원대학교 누리집으로 대학소개, 입학안내, 대학·대학원, 대학생활, 학사안내, 산학·연구 등 정보를 제공합니다."
   },
   "kau.ac.kr": {
     "scope": "CIVIC",
@@ -1242,11 +570,23 @@
     "title": "경동대학교",
     "description": "경동대학교 누리집으로 대학소개, 입학안내, 학과안내, 취업사관학교, 산학협력, 캠퍼스안내, 학사안내, 장학금/융자안내, 학생자치기구 등 정보를 제공합니다."
   },
+  "kentech.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "한국에너지공과대학교",
+    "description": "한국에너지공과대학교 누리집으로 대학소개, 입학, 교육, 연구, 캠퍼스 생활 등 정보를 제공합니다."
+  },
   "khu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "경희대학교",
     "description": "경희대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
+  },
+  "khus.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "경희학원",
+    "description": "경희학원 누리집으로 법인 소개, 이사회 회의록, 공지사항 등 정보를 제공합니다."
   },
   "kings.ac.kr": {
     "scope": "NATIONAL",
@@ -1254,17 +594,17 @@
     "title": "학교법인한국전력국제원자력대학원대학교",
     "description": "학교법인한국전력국제원자력대학원대학교 누리집으로 교육재단, 교육과정, 교육시설, 학부, 학사일정, 입학안내 등 정보를 제공합니다."
   },
+  "kiost.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "PUBLIC_SERVICE",
+    "title": "한국해양과학기술원",
+    "description": "한국해양과학기술원 누리집으로 기관 소개, 연구, 교육, 채용, 공지사항 등 정보를 제공합니다."
+  },
   "kiu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "경일대학교",
     "description": "경일대학교 누리집으로 학생포털안내, 대학소개, 대학/대학원안내, 입학안내, 학과소개, 장학안내, 해외프로그램안내, 취업정보안내, 창업정보안내, 산학정보안내 등의 정보를 제공합니다."
-  },
-  "kjbmoacu.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 김종복미술관",
-    "description": "대구가톨릭대학교 김종복미술관 누리집으로 전시, 소장품, 교육프로그램, 아카이브 등 정보를 제공합니다."
   },
   "kkot.ac.kr": {
     "scope": "CIVIC",
@@ -1338,29 +678,23 @@
     "title": "한국폴리텍대학",
     "description": "한국폴리텍대학 누리집으로 대학 소개, 캠퍼스, 입학, 교육과정, 취업지원 등 정보를 제공합니다."
   },
-  "korean.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 국어문화원",
-    "description": "충북대학교 국어문화원 누리집으로 국어문화 연구, 상담, 교육, 자료 등 정보를 제공합니다."
-  },
   "koreatech.ac.kr": {
     "scope": "NATIONAL",
     "role": "EDUCATION",
     "title": "한국기술교육대학교",
     "description": "고용노동부 산하 한국기술교육대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 대학생활, 커뮤니티, 대학홍보, 정보공개 등 정보를 제공합니다."
   },
-  "koreatech.ac.kr/grd/": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "한국기술교육대학교 대학원",
-    "description": "고용노동부 산하 한국기술교육대학원 대학원 누리집으로 대학원소개, 입학정보, 클러스터소개, 대학원생활, 학사안내, 논문안내 등의 정보를 제공합니다."
-  },
   "ks.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "경성대학교",
     "description": "경성대학교 누리집으로 입시안내, 경성포털, 평생교육원, 중앙도서관, 수강신청 등 정보를 제공합니다."
+  },
+  "ksgu.kosin.ac.kr": {
+    "scope": "CIVIC",
+    "role": "EDUCATION",
+    "title": "고신대학교",
+    "description": "고신대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학생활, 공지사항 등의 정보를 제공합니다."
   },
   "kuis.ac.kr": {
     "scope": "CIVIC",
@@ -1392,167 +726,11 @@
     "title": "건양사이버대학교",
     "description": "건양사이버대학교 누리집으로 대학소개, 입학안내, 학부소개, 학사안내, 대학생활 등 정보를 제공합니다."
   },
-  "lawschool.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 법학전문대학원",
-    "description": "충북대학교 법학전문대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "leader.cnc.ac.kr": {
+  "kyunghee.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
-    "title": "조선간호대학교 혁신지원사업단",
-    "description": "조선간호대학교 혁신지원사업단 누리집으로 혁신지원사업, 공지사항, 성과, 자료 등 정보를 제공합니다."
-  },
-  "legalclinic.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 리걸클리닉",
-    "description": "충북대학교 리걸클리닉 누리집으로 법률상담 교육, 실무수습, 클리닉 활동, 자료 등 정보를 제공합니다."
-  },
-  "lei.cnsu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "충남도립대학교 평생교육원",
-    "description": "충남도립대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "lib.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "아신대학교 도서관",
-    "description": "아신대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 도서관",
-    "description": "안동과학대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.calvin.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "경기칼빈대학교 도서관",
-    "description": "경기칼빈대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 도서관",
-    "description": "기독간호대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.cnsu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "충남도립대학교 도서관",
-    "description": "충남도립대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.cpu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "충북도립대학교 학술정보원",
-    "description": "충북도립대학교 학술정보원 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 도서관",
-    "description": "총신대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 중앙도서관",
-    "description": "대구가톨릭대학교 중앙도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.cue.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "진주교육대학교 도서관",
-    "description": "진주교육대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 학술정보원 도서관",
-    "description": "대구대학교 학술정보원 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.daejeon.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대전신학대학교 도서관",
-    "description": "대전신학대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lib.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천대학교 중앙도서관",
-    "description": "가천대학교 중앙도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "liberaledu.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 융합교육혁신센터",
-    "description": "조선이공대학교 융합교육혁신센터 누리집으로 융합교육, 교육혁신, 프로그램, 센터 소식 등 정보를 제공합니다."
-  },
-  "library.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 중앙도서관",
-    "description": "초당대학교 중앙도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "library.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 중앙도서관",
-    "description": "청주대학교 중앙도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "library.cnc.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선간호대학교 도서관",
-    "description": "조선간호대학교 도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "library.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 중앙도서관",
-    "description": "부산가톨릭대학교 중앙도서관 누리집으로 자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "lifelong.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 평생교육원",
-    "description": "안동과학대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "lifelong.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 평생교육원",
-    "description": "충북대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "lifelong.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 평생교육원",
-    "description": "조선이공대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "lily.sunmoon.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "충남선문대학교",
-    "description": "충남선문대학교 누리집으로 학교소개, 대학/대학원학과안내, 산학연구안내, 학사종합안내, 대학생활안내, 기숙사안내, 입학안내 등의 정보를 제공합니다."
-  },
-  "lle.chongshin.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 평생교육원",
-    "description": "총신대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
-  },
-  "llec.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 평생교육원",
-    "description": "초당대학교 평생교육원 누리집으로 평생교육 강좌, 교육과정, 신청 안내 등 정보를 제공합니다."
+    "title": "경희대학교",
+    "description": "경희대학교 누리집으로 대학소개, 입학안내, 학사안내, 대학생활, 연구, 공지사항 등의 정보를 제공합니다."
   },
   "ltu.ac.kr": {
     "scope": "CIVIC",
@@ -1566,41 +744,23 @@
     "title": "마산대학교",
     "description": "마산대학교 누리집으로 대학소개, 학과/학부소개, 입학안내, 캠퍼스안내, 학사안내, 장학/등록안내, 취업정보, 산학협력단, 평생교육원, 복지/편의시설 등 정보를 제공합니다."
   },
-  "medlib.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 루가도서관",
-    "description": "대구가톨릭대학교 루가도서관 누리집으로 의학자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "mission.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 선교대학원",
-    "description": "총신대학교 선교대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "mju.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "명지대학교",
     "description": "명지대학교 누리집으로 대학안내, 대학구성, 입학안내, 산학협력단, 교내연구소, 외부지원연구센터, 교내일정, 학사운영, 장학금, 국제교류, 식단안내 등 정보를 제공합니다."
   },
+  "mokpo.ac.kr": {
+    "scope": "NATIONAL",
+    "role": "EDUCATION",
+    "title": "국립목포대학교",
+    "description": "국립목포대학교 누리집으로 대학소개, 입학, 학과, 대학생활, 연구·산학 등 정보를 제공합니다."
+  },
   "mtu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "감리교신학대학교",
     "description": "감리교신학대학교 누리집으로 대학소개, 입학안내, 대학/개학원, 학생지원, 시설안내, 학생활동단체, 동아리, 축제, 동문주소록, 부설연구소, 학사행정시스템 등 정보를 제공합니다."
-  },
-  "museum.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 박물관",
-    "description": "충북대학교 박물관 누리집으로 박물관 소개, 전시, 소장자료, 교육프로그램 등 정보를 제공합니다."
-  },
-  "museum.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 박물관",
-    "description": "대구가톨릭대학교 박물관 누리집으로 박물관 소개, 전시, 소장자료, 교육프로그램 등 정보를 제공합니다."
   },
   "naju.ac.kr": {
     "scope": "MUNICIPAL",
@@ -1614,24 +774,6 @@
     "title": "남부대학교",
     "description": "남부대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 학사안내, 부속기관안내, 연구소/산학협력단안내, 장학안내, 기숙사안내, 편의시설소개, 취업정보안내 등의 정보를 제공합니다."
   },
-  "nccn.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 간호교육인증평가",
-    "description": "기독간호대학교 간호교육인증평가 누리집으로 인증평가, 교육성과, 관련 자료 등 정보를 제공합니다."
-  },
-  "news.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 신문방송사",
-    "description": "조선이공대학교 신문방송사 누리집으로 대학 신문, 방송, 기사, 학교 소식 등 정보를 제공합니다."
-  },
-  "newspaper.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교신문사",
-    "description": "대구가톨릭대학교신문사 누리집으로 대학 신문, 기사, 보도자료, 학교 소식 등 정보를 제공합니다."
-  },
   "nk.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -1644,41 +786,17 @@
     "title": "농협대학교",
     "description": "농협대학교 누리집으로 대학, 입학, 교육, 산학협력단, 대학생활 등 정보를 제공합니다."
   },
-  "northagri.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 북방농업대학원",
-    "description": "충북대학교 북방농업대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "nsu.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
     "title": "남서울대학교",
     "description": "남서울대학교 누리집으로 대학소개, 입학안내, 대학·대학원, 대학생활, 남서울광장 등 정보를 제공합니다."
   },
-  "ocean.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 미디어 바다 오션",
-    "description": "대구가톨릭대학교 미디어 바다 오션 누리집으로 사진, 디자인, 영상, 사운드 등 콘텐츠 자료를 제공합니다."
-  },
   "ocu.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "열린사이버대학교",
     "description": "열린사이버대학교 누리집으로 학교소개, 입학안내, 학과안내, 학생서비스, 열린캠퍼스 등 정보를 제공합니다."
-  },
-  "oia.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천대학교 국제교류처",
-    "description": "가천대학교 국제교류처 누리집으로 국제교류, 유학, 교환학생, 외국인 지원 등 정보를 제공합니다."
-  },
-  "oira.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 교육혁신본부",
-    "description": "충북대학교 교육혁신본부 누리집으로 교육혁신, 교수학습, 교육성과, 사업 안내 등 정보를 제공합니다."
   },
   "ok.ac.kr": {
     "scope": "CIVIC",
@@ -1704,12 +822,6 @@
     "title": "백제예술대학교",
     "description": "백제예술대학교 누리집으로 대학소개,학과안내,입학안내,학사일정,재학생서비스,학사행정,도서관안내,방송국,장학제도,시설안내,통학버스운행안내 등 정보를 제공합니다."
   },
-  "pastor.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 목회신학전문대학원",
-    "description": "총신대학교 목회신학전문대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "pcts.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -1721,24 +833,6 @@
     "role": "EDUCATION",
     "title": "배재대학교",
     "description": "배재대학교 누리집으로 대학안내, 입학/취업안내, 진로개발센터, 대학/대학원소개, 학사가이드, 국내외교류, 학생활동, 복지기관, 하숙정보, 교내주차관리시스템 등 정보를 제공합니다."
-  },
-  "peace.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 통일개발대학원",
-    "description": "총신대학교 통일개발대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "placement.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 현장실습지원센터",
-    "description": "조선이공대학교 현장실습지원센터 누리집으로 현장실습, 실습기관, 신청 안내, 프로그램 등 정보를 제공합니다."
-  },
-  "planthospital.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 식물종합병원",
-    "description": "충북대학교 식물종합병원 누리집으로 식물 병해충 진단, 상담, 연구, 자료 등 정보를 제공합니다."
   },
   "pohang.ac.kr": {
     "scope": "MUNICIPAL",
@@ -1752,23 +846,11 @@
     "title": "경찰대학",
     "description": "경찰대학 누리집으로 대학소개, 대학행사, 학사정보, 입학안내 등 정보를 제공합니다."
   },
-  "press.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 신문방송사",
-    "description": "충북대학교 신문방송사 누리집으로 대학 신문, 방송, 기사, 학교 소식 등 정보를 제공합니다."
-  },
   "pro.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "한국영상대학교",
     "description": "한국영상대학교 누리집으로 대학안내, 학과안내, 학사일정, 장학/학자금대출, 병무안내, 증명발급안내, 캠퍼스캘린더, 학생자치기구, 자취/하숙안내 등 정보를 제공합니다."
-  },
-  "psedu.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 산업교육학부",
-    "description": "총신대학교 산업교육학부 누리집으로 학부 소개, 교육과정, 학사, 공지사항 등 정보를 제공합니다."
   },
   "ptu.ac.kr": {
     "scope": "MUNICIPAL",
@@ -1782,35 +864,11 @@
     "title": "부산대학교",
     "description": "부산대학교 누리집으로 대학/대학원, 입학정보, 연구/산학, 대학생활, 효원커뮤니티, 홍보센터, 학교소개 등 정보를 제공합니다."
   },
-  "recruit.asc.ac.kr": {
-    "scope": "MUNICIPAL",
+  "puts.ac.kr": {
+    "scope": "CIVIC",
     "role": "EDUCATION",
-    "title": "안동과학대학교 채용",
-    "description": "안동과학대학교 채용 누리집으로 교원과 직원 채용공고, 지원 안내, 전형 정보 등을 제공합니다."
-  },
-  "recruit.bdu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산디지털대학교 온라인채용시스템",
-    "description": "부산디지털대학교 온라인채용시스템 누리집으로 교직원 채용공고, 지원 안내, 전형 정보 등을 제공합니다."
-  },
-  "rfc.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 중앙기기센터",
-    "description": "대구가톨릭대학교 중앙기기센터 누리집으로 연구장비, 분석지원, 이용 안내, 센터 소식 등 정보를 제공합니다."
-  },
-  "rise.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 RISE사업단",
-    "description": "충북대학교 RISE사업단 누리집으로 지역혁신 사업, 지산학연 협력, 평생교육, 사업 소식 등 정보를 제공합니다."
-  },
-  "rise.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 RISE사업단",
-    "description": "대구대학교 RISE사업단 누리집으로 지역혁신 사업, 지산학연 협력, 사업 안내, 소식 등 정보를 제공합니다."
+    "title": "장로회신학대학교",
+    "description": "장로회신학대학교 누리집으로 대학 소개, 입학 안내, 대학·대학원, 학사, 연구와 캠퍼스 정보를 제공합니다."
   },
   "rts.ac.kr": {
     "scope": "CIVIC",
@@ -1818,35 +876,11 @@
     "title": "개신대학원대학교",
     "description": "개신대학원대학교 누리집으로 학교소개, 입학안내, 학위과정, 비학위과정, 학사일정, 학사정보, 채플안내, 개신자료, 생활관, 도서관, 평생교육원, 한국어학당 등 정보를 제공합니다."
   },
-  "rule.cju.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "청주대학교 규정관리시스템",
-    "description": "청주대학교 규정관리시스템 누리집으로 대학 규정, 개정 현황, 규정 검색 등 정보를 제공합니다."
-  },
-  "rules.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 규정집",
-    "description": "조선이공대학교 규정집 누리집으로 대학 규정, 개정 현황, 규정 검색 등 정보를 제공합니다."
-  },
-  "sabum.kongju.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "국립공주대학교 사범대학",
-    "description": "국립공주대학교 사범대 누리집으로 대학소개, 학과/교수, 교육실습정보, 교원임용시험정보, 사범대광장 등 정보를 제공합니다."
-  },
   "saekyung.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
     "title": "세경대학교",
     "description": "세경대학교 누리집으로 대학소개, 학과소개, 입학안내, 학사안내, 부속기관안내, 기숙사안내, 편의시설안내, 취업지원안내 등의 정보를 제공합니다."
-  },
-  "sandan.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 산학협력단",
-    "description": "조선이공대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
   },
   "sangha.ac.kr": {
     "scope": "CIVIC",
@@ -1859,24 +893,6 @@
     "role": "EDUCATION",
     "title": "상지대학교",
     "description": "상지대학교 누리집으로 대학소개, 입학정보, 대학/대학원, 학사안내, 학생복지, 해외연수, 학생심리상담센터, 장애학생지원센터, 취업안내, 정보공개 등 정보를 제공합니다."
-  },
-  "sanhak.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 산학협력단",
-    "description": "안동과학대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "sanhak.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 산학협력단",
-    "description": "충북대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "sanhak.cdu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "초당대학교 산학협력단",
-    "description": "초당대학교 산학협력단 누리집으로 산학협력, 연구지원, 사업 안내, 공지사항 등 정보를 제공합니다."
   },
   "sb.ac.kr": {
     "scope": "REGIONAL",
@@ -1895,18 +911,6 @@
     "role": "EDUCATION",
     "title": "순천향대학교",
     "description": "순청향대학교 누리집으로 대학소개, 입학안내, 대학학과소개, 대학원학과소개, 기관/시설안내, 대학생활안내 등의 정보를 제공합니다."
-  },
-  "scho.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 장학안내",
-    "description": "조선이공대학교 장학안내 누리집으로 장학제도, 장학금 신청, 선발 안내 등 정보를 제공합니다."
-  },
-  "scitech.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 과학기술진흥센터",
-    "description": "충북대학교 과학기술진흥센터 누리집으로 과학기술 교육, 연구지원, 센터 소식 등 정보를 제공합니다."
   },
   "sdu.ac.kr": {
     "scope": "REGIONAL",
@@ -1986,12 +990,6 @@
     "title": "서울교육대학교",
     "description": "서울교육대학교 누리집으로 학교소개, 입학안내, 학과안내, 대학/대학원 전공소개, 학사안내, 대학생활안내, 장학금/학자금융자제도안내, 기숙사안내, 취업지원정보안내 등의 정보를 제공합니다."
   },
-  "social.csu.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "총신대학교 사회복지대학원",
-    "description": "총신대학교 사회복지대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
   "songgok.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -2003,30 +1001,6 @@
     "role": "EDUCATION",
     "title": "송호대학교",
     "description": "송호대학교 누리집으로 대학소개, 입학안내, 학과안내, 관련기관안내, 기숙사안내, 장학제도안내, 편의시설안내 등의 정보를 제공합니다."
-  },
-  "sopa.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 세종 국가정책대학원",
-    "description": "충북대학교 세종 국가정책대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
-  },
-  "sports.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동국민체육센터",
-    "description": "안동국민체육센터 누리집으로 체육시설, 프로그램, 이용 안내, 공지사항 등 정보를 제공합니다."
-  },
-  "sports.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 체육진흥원",
-    "description": "충북대학교 체육진흥원 누리집으로 체육시설, 스포츠센터, 프로그램, 이용 안내 등 정보를 제공합니다."
-  },
-  "sr.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 사회공헌단",
-    "description": "부산가톨릭대학교 사회공헌단 누리집으로 사회공헌, 봉사, 프로그램, 활동 소식 등 정보를 제공합니다."
   },
   "ssc.ac.kr": {
     "scope": "MUNICIPAL",
@@ -2046,12 +1020,6 @@
     "title": "숭실대학교",
     "description": "숭실대학교 누리집으로 대학소개, 입학안내, 학과안내, 대학/대학원소개, 교육/교과과정소개, 학생경력관리안내, 기숙사안내, 장학금안내, 상담센터안내, 취업지원안내 등의 정보를 제공합니다."
   },
-  "startup.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 창업지원단",
-    "description": "충북대학교 창업지원단 누리집으로 창업교육, 창업지원, 프로그램, 사업 안내 등 정보를 제공합니다."
-  },
   "stu.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -2070,11 +1038,11 @@
     "title": "성신여자대학교",
     "description": "성신여자대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학사안내, 대학생활안내, 편의복지시설소개, 장학제도안내 등의 정보를 제공합니다."
   },
-  "supporter.chungbuk.ac.kr": {
-    "scope": "NATIONAL",
+  "sunmoon.ac.kr": {
+    "scope": "CIVIC",
     "role": "EDUCATION",
-    "title": "충북대학교 장애지원센터",
-    "description": "충북대학교 장애지원센터 누리집으로 장애학생 지원, 서비스 안내, 취업정보, 센터 소식 등 정보를 제공합니다."
+    "title": "선문대학교",
+    "description": "선문대학교 누리집으로 대학소개, 입학, 대학·대학원, 대학생활, 연구·산학 등 정보를 제공합니다."
   },
   "suwon.ac.kr": {
     "scope": "MUNICIPAL",
@@ -2106,30 +1074,6 @@
     "title": "삼육대학교",
     "description": "삼육대학교 누리집으로 대학소개, 입학안내, 대학/대학원 학과소개, 학생일정, 부설기관안내, 기숙사안내, 장학금안내, 편의시설안내, 취업정보안내 등의 정보를 제공합니다."
   },
-  "teacher.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 교원양성지원센터",
-    "description": "대구가톨릭대학교 교원양성지원센터 누리집으로 교직과정, 교육실습, 교원자격, 상담 안내 등 정보를 제공합니다."
-  },
-  "theolib.cu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구가톨릭대학교 신학도서관",
-    "description": "대구가톨릭대학교 신학도서관 누리집으로 신학자료 검색, 전자자료, 대출, 도서관 이용 안내 등 정보를 제공합니다."
-  },
-  "ti.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "아신대학교 신학연구소",
-    "description": "아신대학교 신학연구소 누리집으로 연구소 소개, 연구활동, 학술자료, 소식 등 정보를 제공합니다."
-  },
-  "tigersext.daegu.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "대구대학교 DU-CareBridge 학생상담시스템",
-    "description": "대구대학교 DU-CareBridge 학생상담시스템 누리집으로 학생상담, 상담 신청, 상담 프로그램 등 정보를 제공합니다."
-  },
   "tk.ac.kr": {
     "scope": "CIVIC",
     "role": "EDUCATION",
@@ -2141,18 +1085,6 @@
     "role": "EDUCATION",
     "title": "국제법률경영대학원대학교(영어)",
     "description": "국제법률경영대학원대학교 영어 누리집으로 학교소개, 뉴스, 학생토론, 입학안내, 재단소개, 학업안내 등 정보를 제공합니다."
-  },
-  "tlearn.ccn.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "기독간호대학교 교수학습지원센터",
-    "description": "기독간호대학교 교수학습지원센터 누리집으로 교수학습 지원, 교육 프로그램, 학습 자료 등 정보를 제공합니다."
-  },
-  "together.asc.ac.kr": {
-    "scope": "MUNICIPAL",
-    "role": "EDUCATION",
-    "title": "안동과학대학교 학생상담센터",
-    "description": "안동과학대학교 학생상담센터 누리집으로 심리상담, 진로상담, 상담 프로그램, 센터 안내 등 정보를 제공합니다."
   },
   "tsu.ac.kr": {
     "scope": "REGIONAL",
@@ -2178,12 +1110,6 @@
     "title": "한국공학대학교",
     "description": "한국공학대학교 누리집으로 대학소개, 입학안내, 대학/대학원, 학사정보, 커뮤니티, 홍보관 등 정보를 제공합니다."
   },
-  "uis.cup.ac.kr": {
-    "scope": "REGIONAL",
-    "role": "EDUCATION",
-    "title": "부산가톨릭대학교 대학혁신지원사업단",
-    "description": "부산가톨릭대학교 대학혁신지원사업단 누리집으로 대학혁신지원사업, 공지사항, 성과, 자료 등 정보를 제공합니다."
-  },
   "uos.ac.kr": {
     "scope": "REGIONAL",
     "role": "EDUCATION",
@@ -2201,18 +1127,6 @@
     "role": "EDUCATION",
     "title": "위덕대학교",
     "description": "위덕대학교 누리집으로 대학소개, 학교법인, 부속기관, 부설연구센터, 산학협력단, 학부/대학원, 학교생활안내, 입학안내, 취업정보, 학사일정표 등 정보를 제공합니다."
-  },
-  "venture.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 창업지원센터",
-    "description": "조선이공대학교 창업지원센터 누리집으로 창업교육, 창업지원, 프로그램, 사업 안내 등 정보를 제공합니다."
-  },
-  "vetsec.cbnu.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "충북대학교 수의방역대학원",
-    "description": "충북대학교 수의방역대학원 누리집으로 대학원 소개, 입학, 학사, 교육과정 등 정보를 제공합니다."
   },
   "wat.ac.kr": {
     "scope": "CIVIC",
@@ -2249,24 +1163,6 @@
     "role": "EDUCATION",
     "title": "우석대학교",
     "description": "우석대학교 누리집으로 학교소개, 학교규정, 대학/대학원, 입학안내, 대학기관, 학사일정, 교직안내, 등록/장학/대출, 학생복지안내, 채용정보 등 정보를 제공합니다."
-  },
-  "work.gachon.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "가천대학교 대학일자리센터/취업진로처",
-    "description": "가천대학교 대학일자리센터/취업진로처 누리집으로 진로 상담, 취업 지원, 채용 정보, 프로그램 등 정보를 제공합니다."
-  },
-  "world.acts.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "아신대학교 세계지역연구소",
-    "description": "아신대학교 세계지역연구소 누리집으로 연구소 소개, 연구활동, 학술자료, 소식 등 정보를 제공합니다."
-  },
-  "world.cst.ac.kr": {
-    "scope": "CIVIC",
-    "role": "EDUCATION",
-    "title": "조선이공대학교 국제교류원",
-    "description": "조선이공대학교 국제교류원 누리집으로 국제교류, 유학생 지원, 어학과정, 공지사항 등 정보를 제공합니다."
   },
   "wu.ac.kr": {
     "scope": "CIVIC",
@@ -3101,12 +1997,6 @@
     "role": "EDUCATION",
     "title": "유한대학교",
     "description": "유한대학교 누리집으로 유한소개, 입학안내, 대학기관, 학과안내, 대학생활, 취업안내, 커뮤니티 등 정보를 제공합니다."
-  },
-  "wwwk.kangwon.ac.kr": {
-    "scope": "NATIONAL",
-    "role": "EDUCATION",
-    "title": "KNU 강원대학교",
-    "description": "강원대학교 누리집으로 대학소개, 입학안내, 학과소개, 대학/대학원안내, 산학/연구소안내, 대학생활안내, 장학안내, 기숙사안내, 취업지원안내 등의 정보를 제공합니다."
   },
   "yeonsung.ac.kr": {
     "scope": "CIVIC",
